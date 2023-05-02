@@ -1,0 +1,5000 @@
+0,2010,90,Emotional Intelligence
+1,2011,190,Emotional Intelligence
+2,2012,50,Entrepreneurship
+3,2013,140,Media Literacy
+4,2014,30,Media Literacy
+5,2015,75,Computer Programming
+6,2016,130,Computer Programming
+7,2017,190,Media Literacy
+8,2018,160,Financial Literacy
+9,2019,55,Public Speaking
+10,2020,90,Computer Programming
+11,2021,60,Environmental Science
+12,2022,115,Computer Programming
+13,2023,45,Environmental Science
+14,2010,140,Creative Writing
+15,2011,40,Public Speaking
+16,2012,155,Emotional Intelligence
+17,2013,95,Media Literacy
+18,2014,100,Computer Programming
+19,2015,85,Media Literacy
+20,2016,120,Global Studies
+21,2017,160,Media Literacy
+22,2018,115,Computer Programming
+23,2019,175,Creative Writing
+24,2020,45,Philosophy
+25,2021,60,Philosophy
+26,2022,165,Public Speaking
+27,2023,170,Entrepreneurship
+28,2010,190,Emotional Intelligence
+29,2011,190,Public Speaking
+30,2012,105,Entrepreneurship
+31,2013,150,Creative Writing
+32,2014,105,Computer Programming
+33,2015,115,Global Studies
+34,2016,60,Philosophy
+35,2017,130,Financial Literacy
+36,2018,120,Global Studies
+37,2019,160,Computer Programming
+38,2020,175,Financial Literacy
+39,2021,110,Media Literacy
+40,2022,50,Financial Literacy
+41,2023,75,Creative Writing
+42,2010,55,Global Studies
+43,2011,180,Creative Writing
+44,2012,140,Emotional Intelligence
+45,2013,130,Global Studies
+46,2014,40,Entrepreneurship
+47,2015,70,Philosophy
+48,2016,130,Philosophy
+49,2017,30,Emotional Intelligence
+50,2018,95,Emotional Intelligence
+51,2019,175,Philosophy
+52,2020,75,Computer Programming
+53,2021,40,Financial Literacy
+54,2022,60,Emotional Intelligence
+55,2023,190,Entrepreneurship
+56,2010,155,Computer Programming
+57,2011,85,Public Speaking
+58,2012,70,Global Studies
+59,2013,115,Public Speaking
+60,2014,125,Public Speaking
+61,2015,150,Emotional Intelligence
+62,2016,70,Public Speaking
+63,2017,35,Media Literacy
+64,2018,180,Emotional Intelligence
+65,2019,160,Creative Writing
+66,2020,40,Computer Programming
+67,2021,165,Philosophy
+68,2022,45,Creative Writing
+69,2023,25,Financial Literacy
+70,2010,135,Computer Programming
+71,2011,130,Media Literacy
+72,2012,145,Computer Programming
+73,2013,135,Global Studies
+74,2014,70,Financial Literacy
+75,2015,30,Entrepreneurship
+76,2016,70,Creative Writing
+77,2017,185,Public Speaking
+78,2018,160,Public Speaking
+79,2019,135,Public Speaking
+80,2020,35,Philosophy
+81,2021,85,Computer Programming
+82,2022,180,Global Studies
+83,2023,160,Public Speaking
+84,2010,190,Entrepreneurship
+85,2011,105,Philosophy
+86,2012,110,Philosophy
+87,2013,110,Financial Literacy
+88,2014,155,Environmental Science
+89,2015,105,Computer Programming
+90,2016,35,Financial Literacy
+91,2017,180,Creative Writing
+92,2018,120,Financial Literacy
+93,2019,90,Media Literacy
+94,2020,195,Financial Literacy
+95,2021,25,Financial Literacy
+96,2022,110,Financial Literacy
+97,2023,45,Global Studies
+98,2010,190,Environmental Science
+99,2011,80,Emotional Intelligence
+100,2012,125,Entrepreneurship
+101,2013,170,Environmental Science
+102,2014,125,Emotional Intelligence
+103,2015,45,Financial Literacy
+104,2016,35,Creative Writing
+105,2017,80,Public Speaking
+106,2018,50,Creative Writing
+107,2019,145,Entrepreneurship
+108,2020,65,Computer Programming
+109,2021,135,Philosophy
+110,2022,145,Emotional Intelligence
+111,2023,150,Emotional Intelligence
+112,2010,60,Creative Writing
+113,2011,60,Computer Programming
+114,2012,40,Media Literacy
+115,2013,100,Emotional Intelligence
+116,2014,165,Financial Literacy
+117,2015,125,Creative Writing
+118,2016,85,Entrepreneurship
+119,2017,190,Media Literacy
+120,2018,110,Media Literacy
+121,2019,185,Financial Literacy
+122,2020,120,Global Studies
+123,2021,110,Media Literacy
+124,2022,180,Emotional Intelligence
+125,2023,50,Emotional Intelligence
+126,2010,65,Philosophy
+127,2011,170,Environmental Science
+128,2012,135,Philosophy
+129,2013,170,Global Studies
+130,2014,85,Media Literacy
+131,2015,170,Public Speaking
+132,2016,195,Computer Programming
+133,2017,55,Entrepreneurship
+134,2018,90,Creative Writing
+135,2019,110,Financial Literacy
+136,2020,65,Environmental Science
+137,2021,110,Entrepreneurship
+138,2022,170,Philosophy
+139,2023,60,Computer Programming
+140,2010,115,Public Speaking
+141,2011,80,Entrepreneurship
+142,2012,150,Philosophy
+143,2013,65,Financial Literacy
+144,2014,60,Philosophy
+145,2015,25,Computer Programming
+146,2016,40,Computer Programming
+147,2017,195,Entrepreneurship
+148,2018,130,Financial Literacy
+149,2019,195,Global Studies
+150,2020,150,Public Speaking
+151,2021,110,Media Literacy
+152,2022,175,Global Studies
+153,2023,125,Public Speaking
+154,2010,110,Media Literacy
+155,2011,115,Environmental Science
+156,2012,130,Creative Writing
+157,2013,100,Public Speaking
+158,2014,155,Philosophy
+159,2015,150,Public Speaking
+160,2016,105,Entrepreneurship
+161,2017,30,Environmental Science
+162,2018,150,Media Literacy
+163,2019,30,Philosophy
+164,2020,50,Financial Literacy
+165,2021,45,Public Speaking
+166,2022,160,Computer Programming
+167,2023,115,Financial Literacy
+168,2010,40,Philosophy
+169,2011,165,Emotional Intelligence
+170,2012,95,Environmental Science
+171,2013,35,Philosophy
+172,2014,40,Creative Writing
+173,2015,195,Financial Literacy
+174,2016,65,Financial Literacy
+175,2017,165,Creative Writing
+176,2018,170,Entrepreneurship
+177,2019,60,Philosophy
+178,2020,175,Emotional Intelligence
+179,2021,30,Environmental Science
+180,2022,115,Financial Literacy
+181,2023,95,Environmental Science
+182,2010,35,Emotional Intelligence
+183,2011,140,Environmental Science
+184,2012,105,Public Speaking
+185,2013,110,Creative Writing
+186,2014,160,Public Speaking
+187,2015,160,Financial Literacy
+188,2016,105,Environmental Science
+189,2017,40,Creative Writing
+190,2018,190,Environmental Science
+191,2019,45,Emotional Intelligence
+192,2020,140,Entrepreneurship
+193,2021,55,Philosophy
+194,2022,50,Media Literacy
+195,2023,85,Philosophy
+196,2010,140,Entrepreneurship
+197,2011,50,Environmental Science
+198,2012,150,Media Literacy
+199,2013,80,Computer Programming
+200,2014,60,Emotional Intelligence
+201,2015,160,Global Studies
+202,2016,180,Computer Programming
+203,2017,45,Entrepreneurship
+204,2018,90,Financial Literacy
+205,2019,30,Public Speaking
+206,2020,100,Computer Programming
+207,2021,95,Financial Literacy
+208,2022,160,Global Studies
+209,2023,105,Media Literacy
+210,2010,100,Creative Writing
+211,2011,150,Financial Literacy
+212,2012,100,Global Studies
+213,2013,170,Philosophy
+214,2014,85,Emotional Intelligence
+215,2015,175,Creative Writing
+216,2016,75,Environmental Science
+217,2017,160,Emotional Intelligence
+218,2018,85,Emotional Intelligence
+219,2019,130,Entrepreneurship
+220,2020,195,Public Speaking
+221,2021,170,Public Speaking
+222,2022,145,Financial Literacy
+223,2023,90,Environmental Science
+224,2010,50,Financial Literacy
+225,2011,135,Entrepreneurship
+226,2012,65,Computer Programming
+227,2013,135,Public Speaking
+228,2014,55,Emotional Intelligence
+229,2015,65,Global Studies
+230,2016,30,Entrepreneurship
+231,2017,175,Entrepreneurship
+232,2018,145,Public Speaking
+233,2019,155,Philosophy
+234,2020,190,Emotional Intelligence
+235,2021,190,Financial Literacy
+236,2022,35,Philosophy
+237,2023,70,Computer Programming
+238,2010,145,Philosophy
+239,2011,125,Environmental Science
+240,2012,85,Computer Programming
+241,2013,75,Media Literacy
+242,2014,175,Entrepreneurship
+243,2015,45,Financial Literacy
+244,2016,170,Philosophy
+245,2017,30,Public Speaking
+246,2018,40,Emotional Intelligence
+247,2019,50,Global Studies
+248,2020,75,Media Literacy
+249,2021,105,Environmental Science
+250,2022,95,Computer Programming
+251,2023,80,Philosophy
+252,2010,165,Computer Programming
+253,2011,160,Financial Literacy
+254,2012,100,Creative Writing
+255,2013,160,Entrepreneurship
+256,2014,110,Emotional Intelligence
+257,2015,150,Emotional Intelligence
+258,2016,70,Creative Writing
+259,2017,195,Entrepreneurship
+260,2018,50,Philosophy
+261,2019,40,Entrepreneurship
+262,2020,105,Computer Programming
+263,2021,80,Philosophy
+264,2022,130,Global Studies
+265,2023,175,Financial Literacy
+266,2010,25,Environmental Science
+267,2011,60,Media Literacy
+268,2012,50,Media Literacy
+269,2013,75,Media Literacy
+270,2014,105,Philosophy
+271,2015,140,Philosophy
+272,2016,30,Emotional Intelligence
+273,2017,95,Public Speaking
+274,2018,185,Financial Literacy
+275,2019,65,Global Studies
+276,2020,110,Environmental Science
+277,2021,25,Financial Literacy
+278,2022,75,Public Speaking
+279,2023,65,Environmental Science
+280,2010,45,Creative Writing
+281,2011,135,Financial Literacy
+282,2012,55,Media Literacy
+283,2013,185,Environmental Science
+284,2014,65,Financial Literacy
+285,2015,85,Emotional Intelligence
+286,2016,100,Creative Writing
+287,2017,190,Creative Writing
+288,2018,160,Media Literacy
+289,2019,130,Environmental Science
+290,2020,40,Entrepreneurship
+291,2021,80,Computer Programming
+292,2022,40,Entrepreneurship
+293,2023,120,Financial Literacy
+294,2010,185,Public Speaking
+295,2011,40,Global Studies
+296,2012,105,Media Literacy
+297,2013,195,Computer Programming
+298,2014,180,Computer Programming
+299,2015,70,Creative Writing
+300,2016,130,Philosophy
+301,2017,60,Emotional Intelligence
+302,2018,130,Philosophy
+303,2019,150,Philosophy
+304,2020,160,Philosophy
+305,2021,105,Creative Writing
+306,2022,130,Creative Writing
+307,2023,135,Computer Programming
+308,2010,120,Environmental Science
+309,2011,125,Emotional Intelligence
+310,2012,155,Emotional Intelligence
+311,2013,175,Public Speaking
+312,2014,110,Financial Literacy
+313,2015,115,Global Studies
+314,2016,190,Environmental Science
+315,2017,80,Public Speaking
+316,2018,165,Global Studies
+317,2019,115,Financial Literacy
+318,2020,75,Entrepreneurship
+319,2021,45,Environmental Science
+320,2022,175,Environmental Science
+321,2023,125,Computer Programming
+322,2010,145,Media Literacy
+323,2011,120,Philosophy
+324,2012,175,Media Literacy
+325,2013,150,Philosophy
+326,2014,90,Philosophy
+327,2015,60,Environmental Science
+328,2016,175,Emotional Intelligence
+329,2017,100,Emotional Intelligence
+330,2018,160,Computer Programming
+331,2019,65,Global Studies
+332,2020,60,Public Speaking
+333,2021,145,Public Speaking
+334,2022,30,Philosophy
+335,2023,50,Creative Writing
+336,2010,110,Philosophy
+337,2011,65,Global Studies
+338,2012,125,Entrepreneurship
+339,2013,115,Environmental Science
+340,2014,195,Emotional Intelligence
+341,2015,115,Creative Writing
+342,2016,190,Entrepreneurship
+343,2017,30,Financial Literacy
+344,2018,40,Computer Programming
+345,2019,165,Media Literacy
+346,2020,190,Entrepreneurship
+347,2021,65,Entrepreneurship
+348,2022,190,Environmental Science
+349,2023,65,Philosophy
+350,2010,50,Philosophy
+351,2011,180,Media Literacy
+352,2012,50,Global Studies
+353,2013,105,Computer Programming
+354,2014,150,Computer Programming
+355,2015,70,Philosophy
+356,2016,75,Creative Writing
+357,2017,40,Global Studies
+358,2018,175,Emotional Intelligence
+359,2019,110,Computer Programming
+360,2020,110,Entrepreneurship
+361,2021,185,Environmental Science
+362,2022,55,Public Speaking
+363,2023,40,Media Literacy
+364,2010,190,Global Studies
+365,2011,70,Philosophy
+366,2012,85,Philosophy
+367,2013,75,Computer Programming
+368,2014,195,Public Speaking
+369,2015,100,Philosophy
+370,2016,70,Entrepreneurship
+371,2017,190,Media Literacy
+372,2018,40,Entrepreneurship
+373,2019,170,Computer Programming
+374,2020,45,Global Studies
+375,2021,120,Philosophy
+376,2022,115,Philosophy
+377,2023,75,Global Studies
+378,2010,25,Computer Programming
+379,2011,70,Global Studies
+380,2012,80,Entrepreneurship
+381,2013,55,Public Speaking
+382,2014,95,Entrepreneurship
+383,2015,140,Philosophy
+384,2016,25,Global Studies
+385,2017,190,Global Studies
+386,2018,30,Global Studies
+387,2019,90,Entrepreneurship
+388,2020,190,Entrepreneurship
+389,2021,95,Financial Literacy
+390,2022,45,Environmental Science
+391,2023,30,Philosophy
+392,2010,100,Entrepreneurship
+393,2011,135,Creative Writing
+394,2012,150,Global Studies
+395,2013,90,Financial Literacy
+396,2014,100,Creative Writing
+397,2015,100,Public Speaking
+398,2016,165,Media Literacy
+399,2017,70,Philosophy
+400,2018,105,Computer Programming
+401,2019,165,Creative Writing
+402,2020,60,Media Literacy
+403,2021,45,Creative Writing
+404,2022,80,Global Studies
+405,2023,170,Entrepreneurship
+406,2010,185,Media Literacy
+407,2011,180,Philosophy
+408,2012,45,Environmental Science
+409,2013,180,Financial Literacy
+410,2014,175,Public Speaking
+411,2015,90,Entrepreneurship
+412,2016,120,Creative Writing
+413,2017,90,Creative Writing
+414,2018,105,Entrepreneurship
+415,2019,125,Public Speaking
+416,2020,130,Public Speaking
+417,2021,45,Philosophy
+418,2022,40,Public Speaking
+419,2023,190,Environmental Science
+420,2010,105,Entrepreneurship
+421,2011,45,Computer Programming
+422,2012,80,Computer Programming
+423,2013,25,Creative Writing
+424,2014,25,Environmental Science
+425,2015,95,Emotional Intelligence
+426,2016,120,Financial Literacy
+427,2017,70,Financial Literacy
+428,2018,185,Global Studies
+429,2019,80,Financial Literacy
+430,2020,130,Emotional Intelligence
+431,2021,45,Global Studies
+432,2022,120,Media Literacy
+433,2023,60,Environmental Science
+434,2010,45,Entrepreneurship
+435,2011,95,Global Studies
+436,2012,175,Philosophy
+437,2013,115,Global Studies
+438,2014,35,Entrepreneurship
+439,2015,135,Media Literacy
+440,2016,150,Media Literacy
+441,2017,60,Entrepreneurship
+442,2018,45,Creative Writing
+443,2019,80,Media Literacy
+444,2020,70,Global Studies
+445,2021,55,Emotional Intelligence
+446,2022,25,Entrepreneurship
+447,2023,60,Media Literacy
+448,2010,150,Philosophy
+449,2011,45,Computer Programming
+450,2012,65,Emotional Intelligence
+451,2013,120,Financial Literacy
+452,2014,35,Global Studies
+453,2015,195,Financial Literacy
+454,2016,145,Financial Literacy
+455,2017,165,Environmental Science
+456,2018,130,Entrepreneurship
+457,2019,160,Computer Programming
+458,2020,185,Environmental Science
+459,2021,50,Financial Literacy
+460,2022,140,Emotional Intelligence
+461,2023,105,Financial Literacy
+462,2010,35,Media Literacy
+463,2011,100,Financial Literacy
+464,2012,120,Media Literacy
+465,2013,50,Environmental Science
+466,2014,45,Environmental Science
+467,2015,150,Environmental Science
+468,2016,45,Philosophy
+469,2017,180,Creative Writing
+470,2018,180,Entrepreneurship
+471,2019,160,Financial Literacy
+472,2020,145,Emotional Intelligence
+473,2021,185,Financial Literacy
+474,2022,100,Financial Literacy
+475,2023,195,Environmental Science
+476,2010,95,Emotional Intelligence
+477,2011,60,Entrepreneurship
+478,2012,195,Emotional Intelligence
+479,2013,110,Entrepreneurship
+480,2014,110,Entrepreneurship
+481,2015,50,Environmental Science
+482,2016,30,Emotional Intelligence
+483,2017,85,Environmental Science
+484,2018,195,Entrepreneurship
+485,2019,110,Entrepreneurship
+486,2020,160,Environmental Science
+487,2021,190,Creative Writing
+488,2022,190,Public Speaking
+489,2023,185,Financial Literacy
+490,2010,145,Emotional Intelligence
+491,2011,90,Public Speaking
+492,2012,105,Environmental Science
+493,2013,110,Financial Literacy
+494,2014,165,Global Studies
+495,2015,25,Emotional Intelligence
+496,2016,135,Philosophy
+497,2017,115,Creative Writing
+498,2018,170,Public Speaking
+499,2019,100,Emotional Intelligence
+500,2020,70,Global Studies
+501,2021,175,Emotional Intelligence
+502,2022,25,Creative Writing
+503,2023,75,Computer Programming
+504,2010,100,Global Studies
+505,2011,155,Environmental Science
+506,2012,160,Financial Literacy
+507,2013,60,Philosophy
+508,2014,165,Entrepreneurship
+509,2015,165,Philosophy
+510,2016,90,Environmental Science
+511,2017,35,Computer Programming
+512,2018,50,Philosophy
+513,2019,135,Creative Writing
+514,2020,100,Computer Programming
+515,2021,95,Emotional Intelligence
+516,2022,40,Philosophy
+517,2023,160,Public Speaking
+518,2010,110,Creative Writing
+519,2011,35,Computer Programming
+520,2012,25,Media Literacy
+521,2013,185,Global Studies
+522,2014,55,Entrepreneurship
+523,2015,195,Global Studies
+524,2016,125,Public Speaking
+525,2017,110,Creative Writing
+526,2018,30,Public Speaking
+527,2019,90,Global Studies
+528,2020,150,Public Speaking
+529,2021,75,Philosophy
+530,2022,55,Entrepreneurship
+531,2023,70,Computer Programming
+532,2010,175,Emotional Intelligence
+533,2011,150,Environmental Science
+534,2012,115,Computer Programming
+535,2013,125,Environmental Science
+536,2014,45,Media Literacy
+537,2015,115,Creative Writing
+538,2016,185,Philosophy
+539,2017,85,Global Studies
+540,2018,95,Entrepreneurship
+541,2019,130,Financial Literacy
+542,2020,75,Entrepreneurship
+543,2021,160,Media Literacy
+544,2022,110,Public Speaking
+545,2023,85,Computer Programming
+546,2010,115,Public Speaking
+547,2011,80,Financial Literacy
+548,2012,195,Emotional Intelligence
+549,2013,90,Emotional Intelligence
+550,2014,25,Computer Programming
+551,2015,100,Environmental Science
+552,2016,30,Philosophy
+553,2017,105,Entrepreneurship
+554,2018,140,Entrepreneurship
+555,2019,180,Entrepreneurship
+556,2020,60,Entrepreneurship
+557,2021,125,Media Literacy
+558,2022,70,Entrepreneurship
+559,2023,75,Financial Literacy
+560,2010,105,Philosophy
+561,2011,25,Financial Literacy
+562,2012,180,Environmental Science
+563,2013,120,Creative Writing
+564,2014,115,Financial Literacy
+565,2015,50,Financial Literacy
+566,2016,155,Creative Writing
+567,2017,35,Environmental Science
+568,2018,100,Creative Writing
+569,2019,170,Public Speaking
+570,2020,90,Entrepreneurship
+571,2021,150,Emotional Intelligence
+572,2022,125,Philosophy
+573,2023,30,Computer Programming
+574,2010,155,Environmental Science
+575,2011,55,Emotional Intelligence
+576,2012,60,Public Speaking
+577,2013,100,Global Studies
+578,2014,155,Public Speaking
+579,2015,120,Creative Writing
+580,2016,185,Environmental Science
+581,2017,65,Computer Programming
+582,2018,50,Financial Literacy
+583,2019,50,Creative Writing
+584,2020,155,Media Literacy
+585,2021,125,Global Studies
+586,2022,105,Creative Writing
+587,2023,110,Environmental Science
+588,2010,150,Entrepreneurship
+589,2011,75,Entrepreneurship
+590,2012,25,Computer Programming
+591,2013,165,Entrepreneurship
+592,2014,95,Financial Literacy
+593,2015,130,Public Speaking
+594,2016,25,Financial Literacy
+595,2017,145,Philosophy
+596,2018,70,Global Studies
+597,2019,110,Computer Programming
+598,2020,55,Environmental Science
+599,2021,105,Environmental Science
+600,2022,120,Global Studies
+601,2023,195,Financial Literacy
+602,2010,65,Financial Literacy
+603,2011,165,Public Speaking
+604,2012,50,Creative Writing
+605,2013,165,Media Literacy
+606,2014,155,Media Literacy
+607,2015,110,Entrepreneurship
+608,2016,25,Media Literacy
+609,2017,30,Philosophy
+610,2018,105,Philosophy
+611,2019,30,Global Studies
+612,2020,70,Public Speaking
+613,2021,190,Media Literacy
+614,2022,90,Global Studies
+615,2023,190,Entrepreneurship
+616,2010,45,Media Literacy
+617,2011,50,Global Studies
+618,2012,45,Philosophy
+619,2013,165,Media Literacy
+620,2014,90,Emotional Intelligence
+621,2015,185,Financial Literacy
+622,2016,55,Emotional Intelligence
+623,2017,190,Environmental Science
+624,2018,165,Media Literacy
+625,2019,130,Computer Programming
+626,2020,115,Emotional Intelligence
+627,2021,155,Philosophy
+628,2022,165,Financial Literacy
+629,2023,70,Financial Literacy
+630,2010,55,Creative Writing
+631,2011,80,Global Studies
+632,2012,85,Global Studies
+633,2013,25,Entrepreneurship
+634,2014,180,Environmental Science
+635,2015,95,Global Studies
+636,2016,25,Entrepreneurship
+637,2017,65,Creative Writing
+638,2018,45,Emotional Intelligence
+639,2019,45,Global Studies
+640,2020,85,Public Speaking
+641,2021,65,Financial Literacy
+642,2022,115,Computer Programming
+643,2023,110,Financial Literacy
+644,2010,145,Computer Programming
+645,2011,165,Entrepreneurship
+646,2012,80,Public Speaking
+647,2013,135,Public Speaking
+648,2014,45,Environmental Science
+649,2015,190,Computer Programming
+650,2016,75,Environmental Science
+651,2017,195,Philosophy
+652,2018,185,Global Studies
+653,2019,195,Global Studies
+654,2020,70,Global Studies
+655,2021,85,Creative Writing
+656,2022,120,Philosophy
+657,2023,160,Philosophy
+658,2010,115,Computer Programming
+659,2011,190,Creative Writing
+660,2012,65,Media Literacy
+661,2013,85,Media Literacy
+662,2014,40,Financial Literacy
+663,2015,95,Creative Writing
+664,2016,140,Financial Literacy
+665,2017,115,Global Studies
+666,2018,50,Entrepreneurship
+667,2019,140,Global Studies
+668,2020,45,Emotional Intelligence
+669,2021,120,Environmental Science
+670,2022,55,Environmental Science
+671,2023,50,Global Studies
+672,2010,190,Emotional Intelligence
+673,2011,115,Computer Programming
+674,2012,95,Environmental Science
+675,2013,75,Global Studies
+676,2014,155,Global Studies
+677,2015,150,Creative Writing
+678,2016,50,Environmental Science
+679,2017,25,Global Studies
+680,2018,60,Creative Writing
+681,2019,90,Emotional Intelligence
+682,2020,30,Financial Literacy
+683,2021,60,Entrepreneurship
+684,2022,30,Media Literacy
+685,2023,85,Entrepreneurship
+686,2010,95,Entrepreneurship
+687,2011,80,Financial Literacy
+688,2012,90,Entrepreneurship
+689,2013,110,Media Literacy
+690,2014,140,Philosophy
+691,2015,60,Environmental Science
+692,2016,190,Global Studies
+693,2017,60,Media Literacy
+694,2018,75,Entrepreneurship
+695,2019,165,Financial Literacy
+696,2020,95,Philosophy
+697,2021,100,Emotional Intelligence
+698,2022,130,Computer Programming
+699,2023,25,Creative Writing
+700,2010,40,Creative Writing
+701,2011,160,Creative Writing
+702,2012,50,Global Studies
+703,2013,100,Philosophy
+704,2014,50,Philosophy
+705,2015,120,Public Speaking
+706,2016,35,Entrepreneurship
+707,2017,35,Entrepreneurship
+708,2018,70,Emotional Intelligence
+709,2019,115,Media Literacy
+710,2020,185,Creative Writing
+711,2021,115,Public Speaking
+712,2022,155,Environmental Science
+713,2023,60,Emotional Intelligence
+714,2010,125,Public Speaking
+715,2011,45,Public Speaking
+716,2012,85,Philosophy
+717,2013,25,Emotional Intelligence
+718,2014,90,Entrepreneurship
+719,2015,90,Emotional Intelligence
+720,2016,185,Entrepreneurship
+721,2017,175,Emotional Intelligence
+722,2018,40,Emotional Intelligence
+723,2019,150,Media Literacy
+724,2020,85,Public Speaking
+725,2021,130,Global Studies
+726,2022,100,Creative Writing
+727,2023,165,Emotional Intelligence
+728,2010,150,Public Speaking
+729,2011,190,Philosophy
+730,2012,130,Philosophy
+731,2013,155,Environmental Science
+732,2014,160,Entrepreneurship
+733,2015,95,Financial Literacy
+734,2016,190,Environmental Science
+735,2017,165,Creative Writing
+736,2018,190,Computer Programming
+737,2019,145,Creative Writing
+738,2020,60,Entrepreneurship
+739,2021,145,Emotional Intelligence
+740,2022,150,Philosophy
+741,2023,95,Emotional Intelligence
+742,2010,40,Financial Literacy
+743,2011,195,Environmental Science
+744,2012,25,Global Studies
+745,2013,55,Emotional Intelligence
+746,2014,180,Philosophy
+747,2015,55,Computer Programming
+748,2016,50,Financial Literacy
+749,2017,155,Creative Writing
+750,2018,35,Financial Literacy
+751,2019,80,Creative Writing
+752,2020,135,Environmental Science
+753,2021,55,Emotional Intelligence
+754,2022,185,Computer Programming
+755,2023,135,Global Studies
+756,2010,130,Computer Programming
+757,2011,60,Computer Programming
+758,2012,165,Emotional Intelligence
+759,2013,150,Global Studies
+760,2014,185,Philosophy
+761,2015,25,Environmental Science
+762,2016,130,Creative Writing
+763,2017,35,Philosophy
+764,2018,25,Environmental Science
+765,2019,80,Computer Programming
+766,2020,25,Philosophy
+767,2021,100,Creative Writing
+768,2022,110,Computer Programming
+769,2023,185,Media Literacy
+770,2010,125,Computer Programming
+771,2011,55,Environmental Science
+772,2012,120,Philosophy
+773,2013,180,Philosophy
+774,2014,55,Media Literacy
+775,2015,115,Public Speaking
+776,2016,90,Philosophy
+777,2017,110,Global Studies
+778,2018,195,Emotional Intelligence
+779,2019,105,Global Studies
+780,2020,85,Environmental Science
+781,2021,175,Public Speaking
+782,2022,45,Entrepreneurship
+783,2023,160,Creative Writing
+784,2010,145,Public Speaking
+785,2011,145,Global Studies
+786,2012,25,Environmental Science
+787,2013,190,Environmental Science
+788,2014,170,Public Speaking
+789,2015,170,Public Speaking
+790,2016,100,Environmental Science
+791,2017,95,Public Speaking
+792,2018,140,Public Speaking
+793,2019,85,Global Studies
+794,2020,135,Media Literacy
+795,2021,190,Emotional Intelligence
+796,2022,105,Philosophy
+797,2023,50,Emotional Intelligence
+798,2010,120,Media Literacy
+799,2011,120,Public Speaking
+800,2012,40,Computer Programming
+801,2013,30,Philosophy
+802,2014,40,Philosophy
+803,2015,35,Environmental Science
+804,2016,90,Public Speaking
+805,2017,160,Global Studies
+806,2018,120,Public Speaking
+807,2019,90,Financial Literacy
+808,2020,105,Financial Literacy
+809,2021,150,Computer Programming
+810,2022,150,Environmental Science
+811,2023,90,Financial Literacy
+812,2010,140,Emotional Intelligence
+813,2011,30,Philosophy
+814,2012,100,Public Speaking
+815,2013,145,Media Literacy
+816,2014,40,Creative Writing
+817,2015,170,Global Studies
+818,2016,130,Emotional Intelligence
+819,2017,160,Global Studies
+820,2018,160,Media Literacy
+821,2019,100,Philosophy
+822,2020,90,Global Studies
+823,2021,115,Emotional Intelligence
+824,2022,30,Financial Literacy
+825,2023,180,Creative Writing
+826,2010,135,Emotional Intelligence
+827,2011,100,Global Studies
+828,2012,70,Environmental Science
+829,2013,165,Public Speaking
+830,2014,155,Financial Literacy
+831,2015,190,Financial Literacy
+832,2016,55,Emotional Intelligence
+833,2017,135,Environmental Science
+834,2018,125,Global Studies
+835,2019,25,Financial Literacy
+836,2020,185,Financial Literacy
+837,2021,30,Creative Writing
+838,2022,75,Financial Literacy
+839,2023,30,Environmental Science
+840,2010,40,Computer Programming
+841,2011,40,Financial Literacy
+842,2012,95,Entrepreneurship
+843,2013,60,Entrepreneurship
+844,2014,60,Public Speaking
+845,2015,180,Creative Writing
+846,2016,135,Computer Programming
+847,2017,70,Computer Programming
+848,2018,100,Emotional Intelligence
+849,2019,65,Emotional Intelligence
+850,2020,125,Creative Writing
+851,2021,100,Emotional Intelligence
+852,2022,130,Global Studies
+853,2023,150,Emotional Intelligence
+854,2010,160,Entrepreneurship
+855,2011,140,Philosophy
+856,2012,75,Emotional Intelligence
+857,2013,165,Global Studies
+858,2014,165,Environmental Science
+859,2015,150,Global Studies
+860,2016,40,Creative Writing
+861,2017,90,Media Literacy
+862,2018,125,Computer Programming
+863,2019,30,Public Speaking
+864,2020,85,Financial Literacy
+865,2021,130,Environmental Science
+866,2022,110,Creative Writing
+867,2023,170,Computer Programming
+868,2010,140,Environmental Science
+869,2011,110,Philosophy
+870,2012,75,Environmental Science
+871,2013,45,Media Literacy
+872,2014,25,Financial Literacy
+873,2015,60,Philosophy
+874,2016,55,Emotional Intelligence
+875,2017,105,Philosophy
+876,2018,130,Financial Literacy
+877,2019,75,Creative Writing
+878,2020,80,Emotional Intelligence
+879,2021,105,Media Literacy
+880,2022,65,Financial Literacy
+881,2023,185,Emotional Intelligence
+882,2010,185,Public Speaking
+883,2011,120,Philosophy
+884,2012,70,Computer Programming
+885,2013,90,Public Speaking
+886,2014,65,Public Speaking
+887,2015,180,Emotional Intelligence
+888,2016,155,Media Literacy
+889,2017,100,Global Studies
+890,2018,170,Creative Writing
+891,2019,125,Philosophy
+892,2020,35,Financial Literacy
+893,2021,115,Environmental Science
+894,2022,185,Public Speaking
+895,2023,85,Media Literacy
+896,2010,110,Computer Programming
+897,2011,70,Entrepreneurship
+898,2012,70,Computer Programming
+899,2013,175,Financial Literacy
+900,2014,165,Philosophy
+901,2015,165,Public Speaking
+902,2016,190,Public Speaking
+903,2017,125,Entrepreneurship
+904,2018,75,Environmental Science
+905,2019,185,Environmental Science
+906,2020,135,Philosophy
+907,2021,70,Financial Literacy
+908,2022,115,Philosophy
+909,2023,75,Philosophy
+910,2010,125,Computer Programming
+911,2011,50,Computer Programming
+912,2012,135,Environmental Science
+913,2013,65,Creative Writing
+914,2014,110,Philosophy
+915,2015,85,Computer Programming
+916,2016,170,Emotional Intelligence
+917,2017,100,Media Literacy
+918,2018,50,Financial Literacy
+919,2019,170,Emotional Intelligence
+920,2020,155,Philosophy
+921,2021,65,Computer Programming
+922,2022,185,Entrepreneurship
+923,2023,185,Media Literacy
+924,2010,125,Financial Literacy
+925,2011,95,Global Studies
+926,2012,115,Public Speaking
+927,2013,130,Creative Writing
+928,2014,110,Philosophy
+929,2015,55,Environmental Science
+930,2016,60,Philosophy
+931,2017,80,Emotional Intelligence
+932,2018,190,Global Studies
+933,2019,180,Creative Writing
+934,2020,145,Public Speaking
+935,2021,155,Philosophy
+936,2022,90,Entrepreneurship
+937,2023,130,Environmental Science
+938,2010,95,Creative Writing
+939,2011,50,Financial Literacy
+940,2012,180,Financial Literacy
+941,2013,110,Public Speaking
+942,2014,105,Philosophy
+943,2015,170,Environmental Science
+944,2016,85,Global Studies
+945,2017,160,Media Literacy
+946,2018,95,Financial Literacy
+947,2019,75,Global Studies
+948,2020,125,Media Literacy
+949,2021,110,Media Literacy
+950,2022,65,Philosophy
+951,2023,45,Financial Literacy
+952,2010,85,Public Speaking
+953,2011,120,Emotional Intelligence
+954,2012,115,Emotional Intelligence
+955,2013,110,Emotional Intelligence
+956,2014,135,Computer Programming
+957,2015,75,Global Studies
+958,2016,50,Emotional Intelligence
+959,2017,30,Financial Literacy
+960,2018,170,Entrepreneurship
+961,2019,170,Emotional Intelligence
+962,2020,110,Public Speaking
+963,2021,95,Emotional Intelligence
+964,2022,130,Global Studies
+965,2023,40,Public Speaking
+966,2010,115,Public Speaking
+967,2011,85,Global Studies
+968,2012,80,Media Literacy
+969,2013,150,Global Studies
+970,2014,130,Computer Programming
+971,2015,45,Creative Writing
+972,2016,35,Financial Literacy
+973,2017,140,Entrepreneurship
+974,2018,65,Computer Programming
+975,2019,135,Emotional Intelligence
+976,2020,100,Creative Writing
+977,2021,85,Computer Programming
+978,2022,165,Emotional Intelligence
+979,2023,35,Computer Programming
+980,2010,190,Environmental Science
+981,2011,140,Media Literacy
+982,2012,180,Emotional Intelligence
+983,2013,160,Computer Programming
+984,2014,90,Entrepreneurship
+985,2015,45,Creative Writing
+986,2016,55,Creative Writing
+987,2017,120,Philosophy
+988,2018,135,Entrepreneurship
+989,2019,170,Financial Literacy
+990,2020,50,Emotional Intelligence
+991,2021,65,Computer Programming
+992,2022,60,Media Literacy
+993,2023,115,Creative Writing
+994,2010,170,Computer Programming
+995,2011,135,Environmental Science
+996,2012,50,Environmental Science
+997,2013,140,Creative Writing
+998,2014,175,Philosophy
+999,2015,110,Media Literacy
+1000,2016,160,Environmental Science
+1001,2017,170,Entrepreneurship
+1002,2018,195,Financial Literacy
+1003,2019,80,Media Literacy
+1004,2020,105,Creative Writing
+1005,2021,85,Public Speaking
+1006,2022,135,Public Speaking
+1007,2023,130,Creative Writing
+1008,2010,165,Emotional Intelligence
+1009,2011,175,Media Literacy
+1010,2012,80,Environmental Science
+1011,2013,185,Creative Writing
+1012,2014,60,Environmental Science
+1013,2015,35,Media Literacy
+1014,2016,125,Global Studies
+1015,2017,105,Public Speaking
+1016,2018,145,Public Speaking
+1017,2019,25,Public Speaking
+1018,2020,55,Entrepreneurship
+1019,2021,140,Entrepreneurship
+1020,2022,195,Environmental Science
+1021,2023,140,Entrepreneurship
+1022,2010,165,Financial Literacy
+1023,2011,60,Computer Programming
+1024,2012,195,Computer Programming
+1025,2013,165,Entrepreneurship
+1026,2014,160,Philosophy
+1027,2015,105,Financial Literacy
+1028,2016,185,Global Studies
+1029,2017,140,Philosophy
+1030,2018,170,Computer Programming
+1031,2019,90,Creative Writing
+1032,2020,90,Creative Writing
+1033,2021,25,Media Literacy
+1034,2022,115,Global Studies
+1035,2023,100,Emotional Intelligence
+1036,2010,80,Media Literacy
+1037,2011,190,Public Speaking
+1038,2012,135,Philosophy
+1039,2013,100,Creative Writing
+1040,2014,90,Global Studies
+1041,2015,70,Entrepreneurship
+1042,2016,35,Philosophy
+1043,2017,55,Entrepreneurship
+1044,2018,85,Entrepreneurship
+1045,2019,190,Entrepreneurship
+1046,2020,135,Public Speaking
+1047,2021,155,Creative Writing
+1048,2022,150,Media Literacy
+1049,2023,85,Philosophy
+1050,2010,155,Public Speaking
+1051,2011,175,Public Speaking
+1052,2012,150,Media Literacy
+1053,2013,110,Emotional Intelligence
+1054,2014,60,Environmental Science
+1055,2015,125,Media Literacy
+1056,2016,195,Emotional Intelligence
+1057,2017,150,Public Speaking
+1058,2018,140,Philosophy
+1059,2019,35,Entrepreneurship
+1060,2020,65,Computer Programming
+1061,2021,25,Computer Programming
+1062,2022,120,Financial Literacy
+1063,2023,170,Financial Literacy
+1064,2010,170,Entrepreneurship
+1065,2011,25,Emotional Intelligence
+1066,2012,80,Media Literacy
+1067,2013,140,Media Literacy
+1068,2014,85,Emotional Intelligence
+1069,2015,140,Philosophy
+1070,2016,80,Financial Literacy
+1071,2017,170,Public Speaking
+1072,2018,55,Creative Writing
+1073,2019,125,Public Speaking
+1074,2020,35,Environmental Science
+1075,2021,30,Creative Writing
+1076,2022,190,Financial Literacy
+1077,2023,160,Public Speaking
+1078,2010,25,Creative Writing
+1079,2011,130,Philosophy
+1080,2012,40,Creative Writing
+1081,2013,70,Financial Literacy
+1082,2014,180,Global Studies
+1083,2015,150,Emotional Intelligence
+1084,2016,195,Computer Programming
+1085,2017,110,Media Literacy
+1086,2018,85,Environmental Science
+1087,2019,85,Entrepreneurship
+1088,2020,125,Environmental Science
+1089,2021,140,Computer Programming
+1090,2022,170,Philosophy
+1091,2023,30,Philosophy
+1092,2010,110,Public Speaking
+1093,2011,100,Philosophy
+1094,2012,155,Computer Programming
+1095,2013,190,Philosophy
+1096,2014,95,Creative Writing
+1097,2015,60,Public Speaking
+1098,2016,65,Creative Writing
+1099,2017,55,Emotional Intelligence
+1100,2018,180,Public Speaking
+1101,2019,150,Environmental Science
+1102,2020,110,Global Studies
+1103,2021,95,Media Literacy
+1104,2022,150,Emotional Intelligence
+1105,2023,45,Philosophy
+1106,2010,140,Public Speaking
+1107,2011,55,Media Literacy
+1108,2012,75,Creative Writing
+1109,2013,90,Philosophy
+1110,2014,110,Computer Programming
+1111,2015,130,Public Speaking
+1112,2016,115,Creative Writing
+1113,2017,70,Philosophy
+1114,2018,65,Emotional Intelligence
+1115,2019,145,Philosophy
+1116,2020,195,Computer Programming
+1117,2021,30,Creative Writing
+1118,2022,115,Emotional Intelligence
+1119,2023,175,Entrepreneurship
+1120,2010,195,Philosophy
+1121,2011,195,Environmental Science
+1122,2012,190,Emotional Intelligence
+1123,2013,130,Creative Writing
+1124,2014,30,Public Speaking
+1125,2015,45,Media Literacy
+1126,2016,65,Philosophy
+1127,2017,145,Financial Literacy
+1128,2018,80,Media Literacy
+1129,2019,75,Emotional Intelligence
+1130,2020,125,Computer Programming
+1131,2021,35,Public Speaking
+1132,2022,180,Emotional Intelligence
+1133,2023,25,Media Literacy
+1134,2010,160,Philosophy
+1135,2011,180,Global Studies
+1136,2012,160,Computer Programming
+1137,2013,30,Philosophy
+1138,2014,30,Financial Literacy
+1139,2015,95,Public Speaking
+1140,2016,80,Financial Literacy
+1141,2017,120,Computer Programming
+1142,2018,135,Computer Programming
+1143,2019,180,Public Speaking
+1144,2020,80,Financial Literacy
+1145,2021,170,Emotional Intelligence
+1146,2022,30,Computer Programming
+1147,2023,75,Financial Literacy
+1148,2010,40,Financial Literacy
+1149,2011,115,Public Speaking
+1150,2012,190,Media Literacy
+1151,2013,25,Global Studies
+1152,2014,90,Philosophy
+1153,2015,155,Philosophy
+1154,2016,70,Entrepreneurship
+1155,2017,95,Public Speaking
+1156,2018,30,Financial Literacy
+1157,2019,45,Emotional Intelligence
+1158,2020,85,Media Literacy
+1159,2021,140,Emotional Intelligence
+1160,2022,145,Philosophy
+1161,2023,130,Financial Literacy
+1162,2010,175,Financial Literacy
+1163,2011,115,Financial Literacy
+1164,2012,195,Creative Writing
+1165,2013,45,Public Speaking
+1166,2014,190,Financial Literacy
+1167,2015,135,Computer Programming
+1168,2016,130,Entrepreneurship
+1169,2017,175,Creative Writing
+1170,2018,145,Public Speaking
+1171,2019,195,Creative Writing
+1172,2020,155,Creative Writing
+1173,2021,155,Entrepreneurship
+1174,2022,150,Public Speaking
+1175,2023,95,Public Speaking
+1176,2010,40,Media Literacy
+1177,2011,25,Environmental Science
+1178,2012,120,Entrepreneurship
+1179,2013,140,Creative Writing
+1180,2014,150,Public Speaking
+1181,2015,70,Global Studies
+1182,2016,120,Environmental Science
+1183,2017,135,Financial Literacy
+1184,2018,35,Philosophy
+1185,2019,100,Emotional Intelligence
+1186,2020,145,Creative Writing
+1187,2021,40,Public Speaking
+1188,2022,60,Philosophy
+1189,2023,35,Environmental Science
+1190,2010,30,Global Studies
+1191,2011,90,Philosophy
+1192,2012,85,Global Studies
+1193,2013,50,Emotional Intelligence
+1194,2014,95,Philosophy
+1195,2015,60,Financial Literacy
+1196,2016,95,Financial Literacy
+1197,2017,150,Global Studies
+1198,2018,90,Environmental Science
+1199,2019,100,Computer Programming
+1200,2020,185,Public Speaking
+1201,2021,25,Environmental Science
+1202,2022,50,Global Studies
+1203,2023,40,Environmental Science
+1204,2010,35,Financial Literacy
+1205,2011,75,Environmental Science
+1206,2012,115,Global Studies
+1207,2013,170,Global Studies
+1208,2014,115,Creative Writing
+1209,2015,110,Emotional Intelligence
+1210,2016,30,Entrepreneurship
+1211,2017,145,Global Studies
+1212,2018,150,Public Speaking
+1213,2019,125,Environmental Science
+1214,2020,150,Emotional Intelligence
+1215,2021,80,Financial Literacy
+1216,2022,150,Philosophy
+1217,2023,65,Global Studies
+1218,2010,185,Global Studies
+1219,2011,150,Financial Literacy
+1220,2012,125,Media Literacy
+1221,2013,100,Creative Writing
+1222,2014,115,Public Speaking
+1223,2015,45,Media Literacy
+1224,2016,65,Computer Programming
+1225,2017,115,Financial Literacy
+1226,2018,135,Computer Programming
+1227,2019,125,Global Studies
+1228,2020,85,Creative Writing
+1229,2021,120,Media Literacy
+1230,2022,130,Emotional Intelligence
+1231,2023,110,Media Literacy
+1232,2010,65,Entrepreneurship
+1233,2011,30,Entrepreneurship
+1234,2012,160,Financial Literacy
+1235,2013,30,Emotional Intelligence
+1236,2014,75,Computer Programming
+1237,2015,50,Entrepreneurship
+1238,2016,145,Financial Literacy
+1239,2017,110,Global Studies
+1240,2018,50,Financial Literacy
+1241,2019,60,Creative Writing
+1242,2020,65,Global Studies
+1243,2021,190,Entrepreneurship
+1244,2022,190,Environmental Science
+1245,2023,80,Financial Literacy
+1246,2010,55,Public Speaking
+1247,2011,145,Entrepreneurship
+1248,2012,30,Philosophy
+1249,2013,115,Media Literacy
+1250,2014,185,Emotional Intelligence
+1251,2015,190,Computer Programming
+1252,2016,85,Creative Writing
+1253,2017,135,Global Studies
+1254,2018,75,Creative Writing
+1255,2019,160,Entrepreneurship
+1256,2020,175,Emotional Intelligence
+1257,2021,95,Philosophy
+1258,2022,170,Environmental Science
+1259,2023,55,Emotional Intelligence
+1260,2010,65,Environmental Science
+1261,2011,185,Media Literacy
+1262,2012,65,Entrepreneurship
+1263,2013,180,Financial Literacy
+1264,2014,180,Emotional Intelligence
+1265,2015,145,Entrepreneurship
+1266,2016,70,Financial Literacy
+1267,2017,190,Creative Writing
+1268,2018,25,Creative Writing
+1269,2019,60,Public Speaking
+1270,2020,70,Philosophy
+1271,2021,130,Computer Programming
+1272,2022,95,Computer Programming
+1273,2023,130,Entrepreneurship
+1274,2010,85,Public Speaking
+1275,2011,140,Philosophy
+1276,2012,60,Entrepreneurship
+1277,2013,155,Philosophy
+1278,2014,75,Entrepreneurship
+1279,2015,45,Global Studies
+1280,2016,60,Media Literacy
+1281,2017,145,Global Studies
+1282,2018,140,Emotional Intelligence
+1283,2019,60,Financial Literacy
+1284,2020,100,Entrepreneurship
+1285,2021,170,Media Literacy
+1286,2022,175,Philosophy
+1287,2023,170,Global Studies
+1288,2010,100,Global Studies
+1289,2011,70,Philosophy
+1290,2012,185,Media Literacy
+1291,2013,150,Financial Literacy
+1292,2014,135,Computer Programming
+1293,2015,75,Computer Programming
+1294,2016,55,Financial Literacy
+1295,2017,155,Environmental Science
+1296,2018,175,Global Studies
+1297,2019,35,Environmental Science
+1298,2020,70,Entrepreneurship
+1299,2021,95,Global Studies
+1300,2022,110,Public Speaking
+1301,2023,85,Philosophy
+1302,2010,150,Creative Writing
+1303,2011,60,Creative Writing
+1304,2012,65,Public Speaking
+1305,2013,75,Creative Writing
+1306,2014,25,Philosophy
+1307,2015,105,Financial Literacy
+1308,2016,30,Computer Programming
+1309,2017,185,Computer Programming
+1310,2018,35,Emotional Intelligence
+1311,2019,100,Public Speaking
+1312,2020,180,Financial Literacy
+1313,2021,105,Creative Writing
+1314,2022,40,Philosophy
+1315,2023,85,Philosophy
+1316,2010,80,Global Studies
+1317,2011,180,Public Speaking
+1318,2012,165,Public Speaking
+1319,2013,70,Philosophy
+1320,2014,25,Public Speaking
+1321,2015,35,Financial Literacy
+1322,2016,180,Global Studies
+1323,2017,150,Financial Literacy
+1324,2018,145,Entrepreneurship
+1325,2019,140,Creative Writing
+1326,2020,80,Financial Literacy
+1327,2021,145,Computer Programming
+1328,2022,155,Emotional Intelligence
+1329,2023,70,Environmental Science
+1330,2010,145,Creative Writing
+1331,2011,180,Computer Programming
+1332,2012,65,Entrepreneurship
+1333,2013,180,Computer Programming
+1334,2014,105,Philosophy
+1335,2015,95,Philosophy
+1336,2016,190,Environmental Science
+1337,2017,130,Global Studies
+1338,2018,70,Emotional Intelligence
+1339,2019,175,Environmental Science
+1340,2020,175,Global Studies
+1341,2021,55,Entrepreneurship
+1342,2022,135,Computer Programming
+1343,2023,185,Media Literacy
+1344,2010,105,Computer Programming
+1345,2011,190,Media Literacy
+1346,2012,50,Media Literacy
+1347,2013,85,Entrepreneurship
+1348,2014,85,Financial Literacy
+1349,2015,40,Emotional Intelligence
+1350,2016,55,Media Literacy
+1351,2017,65,Public Speaking
+1352,2018,60,Global Studies
+1353,2019,155,Global Studies
+1354,2020,120,Environmental Science
+1355,2021,185,Entrepreneurship
+1356,2022,105,Philosophy
+1357,2023,110,Public Speaking
+1358,2010,130,Media Literacy
+1359,2011,60,Emotional Intelligence
+1360,2012,115,Entrepreneurship
+1361,2013,125,Philosophy
+1362,2014,165,Creative Writing
+1363,2015,120,Media Literacy
+1364,2016,185,Philosophy
+1365,2017,135,Philosophy
+1366,2018,75,Creative Writing
+1367,2019,155,Media Literacy
+1368,2020,105,Emotional Intelligence
+1369,2021,35,Philosophy
+1370,2022,180,Computer Programming
+1371,2023,45,Philosophy
+1372,2010,190,Creative Writing
+1373,2011,70,Entrepreneurship
+1374,2012,150,Emotional Intelligence
+1375,2013,110,Environmental Science
+1376,2014,180,Philosophy
+1377,2015,165,Computer Programming
+1378,2016,165,Philosophy
+1379,2017,150,Public Speaking
+1380,2018,25,Computer Programming
+1381,2019,90,Public Speaking
+1382,2020,35,Media Literacy
+1383,2021,125,Public Speaking
+1384,2022,45,Emotional Intelligence
+1385,2023,55,Entrepreneurship
+1386,2010,95,Public Speaking
+1387,2011,195,Media Literacy
+1388,2012,85,Financial Literacy
+1389,2013,85,Creative Writing
+1390,2014,105,Emotional Intelligence
+1391,2015,105,Global Studies
+1392,2016,185,Creative Writing
+1393,2017,160,Financial Literacy
+1394,2018,110,Public Speaking
+1395,2019,75,Philosophy
+1396,2020,150,Philosophy
+1397,2021,105,Media Literacy
+1398,2022,85,Entrepreneurship
+1399,2023,35,Financial Literacy
+1400,2010,85,Public Speaking
+1401,2011,95,Public Speaking
+1402,2012,30,Financial Literacy
+1403,2013,55,Public Speaking
+1404,2014,135,Financial Literacy
+1405,2015,40,Emotional Intelligence
+1406,2016,75,Computer Programming
+1407,2017,70,Environmental Science
+1408,2018,150,Environmental Science
+1409,2019,110,Entrepreneurship
+1410,2020,30,Creative Writing
+1411,2021,125,Financial Literacy
+1412,2022,160,Public Speaking
+1413,2023,135,Environmental Science
+1414,2010,65,Philosophy
+1415,2011,55,Public Speaking
+1416,2012,185,Media Literacy
+1417,2013,190,Public Speaking
+1418,2014,180,Financial Literacy
+1419,2015,90,Public Speaking
+1420,2016,190,Public Speaking
+1421,2017,105,Media Literacy
+1422,2018,195,Environmental Science
+1423,2019,165,Creative Writing
+1424,2020,50,Entrepreneurship
+1425,2021,190,Creative Writing
+1426,2022,75,Financial Literacy
+1427,2023,155,Creative Writing
+1428,2010,195,Computer Programming
+1429,2011,110,Philosophy
+1430,2012,135,Environmental Science
+1431,2013,75,Media Literacy
+1432,2014,190,Public Speaking
+1433,2015,105,Public Speaking
+1434,2016,100,Creative Writing
+1435,2017,45,Public Speaking
+1436,2018,195,Media Literacy
+1437,2019,25,Media Literacy
+1438,2020,50,Environmental Science
+1439,2021,75,Public Speaking
+1440,2022,135,Media Literacy
+1441,2023,80,Global Studies
+1442,2010,55,Global Studies
+1443,2011,130,Global Studies
+1444,2012,65,Global Studies
+1445,2013,190,Philosophy
+1446,2014,150,Media Literacy
+1447,2015,145,Entrepreneurship
+1448,2016,140,Entrepreneurship
+1449,2017,90,Philosophy
+1450,2018,170,Computer Programming
+1451,2019,45,Media Literacy
+1452,2020,120,Financial Literacy
+1453,2021,25,Media Literacy
+1454,2022,170,Emotional Intelligence
+1455,2023,100,Entrepreneurship
+1456,2010,145,Global Studies
+1457,2011,170,Emotional Intelligence
+1458,2012,55,Philosophy
+1459,2013,115,Emotional Intelligence
+1460,2014,145,Global Studies
+1461,2015,180,Environmental Science
+1462,2016,140,Media Literacy
+1463,2017,170,Entrepreneurship
+1464,2018,30,Philosophy
+1465,2019,165,Entrepreneurship
+1466,2020,90,Creative Writing
+1467,2021,70,Media Literacy
+1468,2022,100,Entrepreneurship
+1469,2023,50,Global Studies
+1470,2010,185,Media Literacy
+1471,2011,165,Media Literacy
+1472,2012,160,Computer Programming
+1473,2013,165,Global Studies
+1474,2014,35,Emotional Intelligence
+1475,2015,25,Public Speaking
+1476,2016,170,Emotional Intelligence
+1477,2017,85,Global Studies
+1478,2018,165,Financial Literacy
+1479,2019,140,Public Speaking
+1480,2020,100,Media Literacy
+1481,2021,185,Entrepreneurship
+1482,2022,25,Financial Literacy
+1483,2023,145,Computer Programming
+1484,2010,105,Creative Writing
+1485,2011,60,Global Studies
+1486,2012,165,Media Literacy
+1487,2013,70,Computer Programming
+1488,2014,145,Creative Writing
+1489,2015,150,Emotional Intelligence
+1490,2016,65,Financial Literacy
+1491,2017,90,Creative Writing
+1492,2018,130,Entrepreneurship
+1493,2019,80,Computer Programming
+1494,2020,185,Public Speaking
+1495,2021,120,Financial Literacy
+1496,2022,35,Creative Writing
+1497,2023,55,Financial Literacy
+1498,2010,70,Philosophy
+1499,2011,155,Media Literacy
+1500,2012,55,Media Literacy
+1501,2013,35,Entrepreneurship
+1502,2014,75,Financial Literacy
+1503,2015,165,Media Literacy
+1504,2016,50,Emotional Intelligence
+1505,2017,130,Environmental Science
+1506,2018,195,Environmental Science
+1507,2019,115,Philosophy
+1508,2020,190,Media Literacy
+1509,2021,195,Media Literacy
+1510,2022,175,Emotional Intelligence
+1511,2023,160,Financial Literacy
+1512,2010,170,Entrepreneurship
+1513,2011,60,Environmental Science
+1514,2012,135,Creative Writing
+1515,2013,60,Environmental Science
+1516,2014,95,Creative Writing
+1517,2015,80,Emotional Intelligence
+1518,2016,190,Financial Literacy
+1519,2017,170,Media Literacy
+1520,2018,155,Global Studies
+1521,2019,165,Public Speaking
+1522,2020,155,Emotional Intelligence
+1523,2021,95,Media Literacy
+1524,2022,175,Public Speaking
+1525,2023,35,Computer Programming
+1526,2010,140,Philosophy
+1527,2011,25,Philosophy
+1528,2012,155,Public Speaking
+1529,2013,50,Creative Writing
+1530,2014,135,Philosophy
+1531,2015,95,Creative Writing
+1532,2016,145,Public Speaking
+1533,2017,130,Entrepreneurship
+1534,2018,135,Creative Writing
+1535,2019,50,Public Speaking
+1536,2020,140,Media Literacy
+1537,2021,175,Media Literacy
+1538,2022,60,Emotional Intelligence
+1539,2023,180,Financial Literacy
+1540,2010,30,Computer Programming
+1541,2011,30,Global Studies
+1542,2012,75,Creative Writing
+1543,2013,155,Philosophy
+1544,2014,135,Computer Programming
+1545,2015,190,Financial Literacy
+1546,2016,95,Creative Writing
+1547,2017,175,Creative Writing
+1548,2018,70,Global Studies
+1549,2019,195,Public Speaking
+1550,2020,45,Global Studies
+1551,2021,25,Public Speaking
+1552,2022,70,Global Studies
+1553,2023,60,Emotional Intelligence
+1554,2010,75,Philosophy
+1555,2011,175,Computer Programming
+1556,2012,135,Computer Programming
+1557,2013,150,Computer Programming
+1558,2014,70,Financial Literacy
+1559,2015,65,Computer Programming
+1560,2016,135,Philosophy
+1561,2017,115,Media Literacy
+1562,2018,125,Emotional Intelligence
+1563,2019,30,Creative Writing
+1564,2020,35,Entrepreneurship
+1565,2021,75,Public Speaking
+1566,2022,195,Philosophy
+1567,2023,85,Creative Writing
+1568,2010,40,Emotional Intelligence
+1569,2011,75,Public Speaking
+1570,2012,155,Entrepreneurship
+1571,2013,140,Global Studies
+1572,2014,75,Philosophy
+1573,2015,105,Media Literacy
+1574,2016,50,Emotional Intelligence
+1575,2017,125,Financial Literacy
+1576,2018,70,Global Studies
+1577,2019,185,Financial Literacy
+1578,2020,180,Global Studies
+1579,2021,30,Public Speaking
+1580,2022,25,Environmental Science
+1581,2023,65,Philosophy
+1582,2010,35,Environmental Science
+1583,2011,25,Global Studies
+1584,2012,80,Public Speaking
+1585,2013,50,Computer Programming
+1586,2014,105,Media Literacy
+1587,2015,115,Creative Writing
+1588,2016,160,Media Literacy
+1589,2017,120,Media Literacy
+1590,2018,25,Computer Programming
+1591,2019,50,Creative Writing
+1592,2020,175,Financial Literacy
+1593,2021,85,Media Literacy
+1594,2022,180,Computer Programming
+1595,2023,150,Financial Literacy
+1596,2010,115,Media Literacy
+1597,2011,70,Public Speaking
+1598,2012,185,Creative Writing
+1599,2013,160,Entrepreneurship
+1600,2014,155,Financial Literacy
+1601,2015,100,Environmental Science
+1602,2016,160,Global Studies
+1603,2017,175,Financial Literacy
+1604,2018,135,Philosophy
+1605,2019,165,Entrepreneurship
+1606,2020,30,Global Studies
+1607,2021,165,Emotional Intelligence
+1608,2022,80,Public Speaking
+1609,2023,70,Environmental Science
+1610,2010,140,Environmental Science
+1611,2011,80,Public Speaking
+1612,2012,80,Media Literacy
+1613,2013,150,Environmental Science
+1614,2014,95,Media Literacy
+1615,2015,100,Environmental Science
+1616,2016,160,Public Speaking
+1617,2017,25,Public Speaking
+1618,2018,175,Environmental Science
+1619,2019,170,Environmental Science
+1620,2020,85,Global Studies
+1621,2021,55,Creative Writing
+1622,2022,65,Creative Writing
+1623,2023,140,Emotional Intelligence
+1624,2010,90,Entrepreneurship
+1625,2011,75,Entrepreneurship
+1626,2012,180,Philosophy
+1627,2013,60,Philosophy
+1628,2014,110,Global Studies
+1629,2015,60,Environmental Science
+1630,2016,25,Emotional Intelligence
+1631,2017,95,Global Studies
+1632,2018,100,Philosophy
+1633,2019,90,Creative Writing
+1634,2020,65,Computer Programming
+1635,2021,105,Financial Literacy
+1636,2022,165,Computer Programming
+1637,2023,85,Environmental Science
+1638,2010,50,Financial Literacy
+1639,2011,80,Entrepreneurship
+1640,2012,110,Environmental Science
+1641,2013,165,Global Studies
+1642,2014,65,Entrepreneurship
+1643,2015,140,Public Speaking
+1644,2016,105,Computer Programming
+1645,2017,135,Emotional Intelligence
+1646,2018,190,Financial Literacy
+1647,2019,185,Global Studies
+1648,2020,145,Media Literacy
+1649,2021,35,Environmental Science
+1650,2022,50,Philosophy
+1651,2023,170,Financial Literacy
+1652,2010,35,Philosophy
+1653,2011,25,Public Speaking
+1654,2012,65,Entrepreneurship
+1655,2013,195,Entrepreneurship
+1656,2014,35,Public Speaking
+1657,2015,45,Financial Literacy
+1658,2016,190,Financial Literacy
+1659,2017,80,Computer Programming
+1660,2018,145,Financial Literacy
+1661,2019,135,Global Studies
+1662,2020,175,Global Studies
+1663,2021,105,Creative Writing
+1664,2022,80,Media Literacy
+1665,2023,195,Public Speaking
+1666,2010,105,Environmental Science
+1667,2011,105,Financial Literacy
+1668,2012,185,Philosophy
+1669,2013,185,Public Speaking
+1670,2014,50,Media Literacy
+1671,2015,125,Environmental Science
+1672,2016,135,Financial Literacy
+1673,2017,150,Entrepreneurship
+1674,2018,80,Creative Writing
+1675,2019,45,Media Literacy
+1676,2020,160,Global Studies
+1677,2021,120,Media Literacy
+1678,2022,135,Environmental Science
+1679,2023,185,Emotional Intelligence
+1680,2010,60,Computer Programming
+1681,2011,135,Environmental Science
+1682,2012,110,Financial Literacy
+1683,2013,75,Philosophy
+1684,2014,110,Financial Literacy
+1685,2015,190,Global Studies
+1686,2016,45,Media Literacy
+1687,2017,80,Computer Programming
+1688,2018,75,Environmental Science
+1689,2019,130,Entrepreneurship
+1690,2020,120,Creative Writing
+1691,2021,50,Computer Programming
+1692,2022,115,Emotional Intelligence
+1693,2023,185,Creative Writing
+1694,2010,170,Public Speaking
+1695,2011,175,Emotional Intelligence
+1696,2012,190,Media Literacy
+1697,2013,145,Entrepreneurship
+1698,2014,95,Entrepreneurship
+1699,2015,110,Computer Programming
+1700,2016,30,Environmental Science
+1701,2017,95,Emotional Intelligence
+1702,2018,85,Entrepreneurship
+1703,2019,60,Environmental Science
+1704,2020,35,Philosophy
+1705,2021,145,Philosophy
+1706,2022,30,Global Studies
+1707,2023,175,Public Speaking
+1708,2010,185,Public Speaking
+1709,2011,105,Media Literacy
+1710,2012,100,Philosophy
+1711,2013,35,Financial Literacy
+1712,2014,180,Environmental Science
+1713,2015,190,Media Literacy
+1714,2016,70,Global Studies
+1715,2017,95,Public Speaking
+1716,2018,90,Global Studies
+1717,2019,60,Philosophy
+1718,2020,60,Public Speaking
+1719,2021,100,Creative Writing
+1720,2022,185,Creative Writing
+1721,2023,185,Philosophy
+1722,2010,55,Emotional Intelligence
+1723,2011,70,Media Literacy
+1724,2012,90,Creative Writing
+1725,2013,85,Environmental Science
+1726,2014,35,Entrepreneurship
+1727,2015,125,Media Literacy
+1728,2016,75,Environmental Science
+1729,2017,170,Media Literacy
+1730,2018,30,Creative Writing
+1731,2019,100,Computer Programming
+1732,2020,160,Global Studies
+1733,2021,125,Global Studies
+1734,2022,85,Emotional Intelligence
+1735,2023,90,Environmental Science
+1736,2010,65,Entrepreneurship
+1737,2011,100,Creative Writing
+1738,2012,195,Global Studies
+1739,2013,105,Global Studies
+1740,2014,40,Computer Programming
+1741,2015,60,Computer Programming
+1742,2016,70,Financial Literacy
+1743,2017,110,Media Literacy
+1744,2018,175,Computer Programming
+1745,2019,30,Philosophy
+1746,2020,120,Public Speaking
+1747,2021,80,Media Literacy
+1748,2022,140,Computer Programming
+1749,2023,150,Computer Programming
+1750,2010,70,Global Studies
+1751,2011,115,Emotional Intelligence
+1752,2012,100,Philosophy
+1753,2013,25,Entrepreneurship
+1754,2014,125,Financial Literacy
+1755,2015,40,Media Literacy
+1756,2016,175,Entrepreneurship
+1757,2017,180,Entrepreneurship
+1758,2018,190,Public Speaking
+1759,2019,185,Emotional Intelligence
+1760,2020,140,Entrepreneurship
+1761,2021,95,Computer Programming
+1762,2022,185,Philosophy
+1763,2023,160,Public Speaking
+1764,2010,30,Entrepreneurship
+1765,2011,115,Philosophy
+1766,2012,75,Computer Programming
+1767,2013,110,Philosophy
+1768,2014,105,Computer Programming
+1769,2015,105,Media Literacy
+1770,2016,140,Entrepreneurship
+1771,2017,65,Financial Literacy
+1772,2018,25,Public Speaking
+1773,2019,145,Financial Literacy
+1774,2020,195,Environmental Science
+1775,2021,115,Philosophy
+1776,2022,40,Philosophy
+1777,2023,80,Public Speaking
+1778,2010,115,Computer Programming
+1779,2011,125,Global Studies
+1780,2012,125,Environmental Science
+1781,2013,110,Media Literacy
+1782,2014,100,Financial Literacy
+1783,2015,65,Media Literacy
+1784,2016,65,Financial Literacy
+1785,2017,190,Philosophy
+1786,2018,90,Computer Programming
+1787,2019,90,Financial Literacy
+1788,2020,50,Computer Programming
+1789,2021,160,Global Studies
+1790,2022,120,Entrepreneurship
+1791,2023,35,Financial Literacy
+1792,2010,30,Global Studies
+1793,2011,105,Computer Programming
+1794,2012,50,Creative Writing
+1795,2013,55,Public Speaking
+1796,2014,160,Environmental Science
+1797,2015,150,Entrepreneurship
+1798,2016,175,Creative Writing
+1799,2017,170,Public Speaking
+1800,2018,80,Philosophy
+1801,2019,130,Financial Literacy
+1802,2020,145,Environmental Science
+1803,2021,115,Environmental Science
+1804,2022,25,Media Literacy
+1805,2023,65,Global Studies
+1806,2010,65,Public Speaking
+1807,2011,160,Media Literacy
+1808,2012,35,Creative Writing
+1809,2013,120,Media Literacy
+1810,2014,115,Public Speaking
+1811,2015,120,Media Literacy
+1812,2016,140,Financial Literacy
+1813,2017,180,Creative Writing
+1814,2018,190,Financial Literacy
+1815,2019,25,Global Studies
+1816,2020,180,Emotional Intelligence
+1817,2021,70,Public Speaking
+1818,2022,60,Media Literacy
+1819,2023,165,Financial Literacy
+1820,2010,90,Public Speaking
+1821,2011,150,Computer Programming
+1822,2012,175,Global Studies
+1823,2013,100,Environmental Science
+1824,2014,55,Computer Programming
+1825,2015,85,Financial Literacy
+1826,2016,60,Philosophy
+1827,2017,55,Public Speaking
+1828,2018,195,Public Speaking
+1829,2019,175,Public Speaking
+1830,2020,40,Public Speaking
+1831,2021,170,Philosophy
+1832,2022,180,Philosophy
+1833,2023,185,Financial Literacy
+1834,2010,80,Media Literacy
+1835,2011,40,Computer Programming
+1836,2012,55,Global Studies
+1837,2013,100,Entrepreneurship
+1838,2014,180,Computer Programming
+1839,2015,105,Philosophy
+1840,2016,50,Philosophy
+1841,2017,60,Media Literacy
+1842,2018,75,Financial Literacy
+1843,2019,145,Entrepreneurship
+1844,2020,195,Media Literacy
+1845,2021,110,Financial Literacy
+1846,2022,160,Environmental Science
+1847,2023,35,Media Literacy
+1848,2010,175,Public Speaking
+1849,2011,170,Public Speaking
+1850,2012,160,Financial Literacy
+1851,2013,95,Financial Literacy
+1852,2014,95,Philosophy
+1853,2015,45,Creative Writing
+1854,2016,185,Entrepreneurship
+1855,2017,180,Environmental Science
+1856,2018,105,Public Speaking
+1857,2019,55,Entrepreneurship
+1858,2020,125,Computer Programming
+1859,2021,145,Computer Programming
+1860,2022,145,Philosophy
+1861,2023,105,Creative Writing
+1862,2010,110,Media Literacy
+1863,2011,60,Media Literacy
+1864,2012,105,Emotional Intelligence
+1865,2013,170,Environmental Science
+1866,2014,60,Public Speaking
+1867,2015,125,Environmental Science
+1868,2016,70,Creative Writing
+1869,2017,70,Entrepreneurship
+1870,2018,50,Global Studies
+1871,2019,100,Emotional Intelligence
+1872,2020,100,Creative Writing
+1873,2021,90,Media Literacy
+1874,2022,65,Computer Programming
+1875,2023,165,Environmental Science
+1876,2010,190,Environmental Science
+1877,2011,85,Emotional Intelligence
+1878,2012,180,Media Literacy
+1879,2013,145,Entrepreneurship
+1880,2014,80,Emotional Intelligence
+1881,2015,135,Emotional Intelligence
+1882,2016,135,Media Literacy
+1883,2017,70,Entrepreneurship
+1884,2018,195,Global Studies
+1885,2019,85,Philosophy
+1886,2020,170,Public Speaking
+1887,2021,65,Entrepreneurship
+1888,2022,80,Entrepreneurship
+1889,2023,65,Creative Writing
+1890,2010,185,Entrepreneurship
+1891,2011,170,Media Literacy
+1892,2012,45,Environmental Science
+1893,2013,60,Creative Writing
+1894,2014,195,Global Studies
+1895,2015,115,Financial Literacy
+1896,2016,60,Global Studies
+1897,2017,160,Entrepreneurship
+1898,2018,180,Creative Writing
+1899,2019,105,Entrepreneurship
+1900,2020,95,Philosophy
+1901,2021,50,Creative Writing
+1902,2022,75,Emotional Intelligence
+1903,2023,185,Financial Literacy
+1904,2010,80,Philosophy
+1905,2011,90,Media Literacy
+1906,2012,140,Computer Programming
+1907,2013,45,Public Speaking
+1908,2014,160,Philosophy
+1909,2015,160,Philosophy
+1910,2016,70,Global Studies
+1911,2017,70,Public Speaking
+1912,2018,55,Financial Literacy
+1913,2019,105,Global Studies
+1914,2020,50,Public Speaking
+1915,2021,190,Global Studies
+1916,2022,75,Financial Literacy
+1917,2023,165,Entrepreneurship
+1918,2010,45,Environmental Science
+1919,2011,50,Computer Programming
+1920,2012,75,Media Literacy
+1921,2013,180,Philosophy
+1922,2014,135,Financial Literacy
+1923,2015,190,Emotional Intelligence
+1924,2016,60,Computer Programming
+1925,2017,180,Emotional Intelligence
+1926,2018,115,Financial Literacy
+1927,2019,140,Creative Writing
+1928,2020,100,Environmental Science
+1929,2021,130,Public Speaking
+1930,2022,155,Creative Writing
+1931,2023,65,Financial Literacy
+1932,2010,185,Computer Programming
+1933,2011,130,Public Speaking
+1934,2012,110,Emotional Intelligence
+1935,2013,25,Media Literacy
+1936,2014,50,Media Literacy
+1937,2015,115,Entrepreneurship
+1938,2016,30,Emotional Intelligence
+1939,2017,50,Public Speaking
+1940,2018,185,Media Literacy
+1941,2019,60,Financial Literacy
+1942,2020,70,Media Literacy
+1943,2021,95,Financial Literacy
+1944,2022,60,Public Speaking
+1945,2023,50,Emotional Intelligence
+1946,2010,175,Media Literacy
+1947,2011,75,Public Speaking
+1948,2012,145,Global Studies
+1949,2013,110,Entrepreneurship
+1950,2014,165,Environmental Science
+1951,2015,135,Computer Programming
+1952,2016,160,Entrepreneurship
+1953,2017,75,Financial Literacy
+1954,2018,180,Emotional Intelligence
+1955,2019,60,Computer Programming
+1956,2020,50,Public Speaking
+1957,2021,185,Philosophy
+1958,2022,180,Global Studies
+1959,2023,175,Environmental Science
+1960,2010,145,Global Studies
+1961,2011,185,Media Literacy
+1962,2012,110,Media Literacy
+1963,2013,90,Global Studies
+1964,2014,135,Financial Literacy
+1965,2015,40,Environmental Science
+1966,2016,110,Public Speaking
+1967,2017,45,Emotional Intelligence
+1968,2018,175,Environmental Science
+1969,2019,60,Media Literacy
+1970,2020,185,Emotional Intelligence
+1971,2021,25,Media Literacy
+1972,2022,85,Public Speaking
+1973,2023,190,Environmental Science
+1974,2010,55,Entrepreneurship
+1975,2011,125,Emotional Intelligence
+1976,2012,115,Computer Programming
+1977,2013,45,Media Literacy
+1978,2014,170,Global Studies
+1979,2015,140,Creative Writing
+1980,2016,160,Emotional Intelligence
+1981,2017,40,Media Literacy
+1982,2018,55,Financial Literacy
+1983,2019,60,Entrepreneurship
+1984,2020,155,Global Studies
+1985,2021,50,Creative Writing
+1986,2022,75,Philosophy
+1987,2023,155,Computer Programming
+1988,2010,195,Environmental Science
+1989,2011,190,Philosophy
+1990,2012,115,Computer Programming
+1991,2013,90,Creative Writing
+1992,2014,125,Entrepreneurship
+1993,2015,70,Emotional Intelligence
+1994,2016,90,Emotional Intelligence
+1995,2017,75,Emotional Intelligence
+1996,2018,165,Media Literacy
+1997,2019,190,Financial Literacy
+1998,2020,75,Environmental Science
+1999,2021,175,Creative Writing
+2000,2022,80,Entrepreneurship
+2001,2023,40,Environmental Science
+2002,2010,100,Global Studies
+2003,2011,30,Entrepreneurship
+2004,2012,45,Emotional Intelligence
+2005,2013,110,Creative Writing
+2006,2014,40,Environmental Science
+2007,2015,30,Philosophy
+2008,2016,70,Global Studies
+2009,2017,45,Entrepreneurship
+2010,2018,30,Environmental Science
+2011,2019,185,Computer Programming
+2012,2020,185,Creative Writing
+2013,2021,180,Creative Writing
+2014,2022,180,Global Studies
+2015,2023,180,Computer Programming
+2016,2010,185,Media Literacy
+2017,2011,40,Philosophy
+2018,2012,130,Global Studies
+2019,2013,65,Public Speaking
+2020,2014,55,Creative Writing
+2021,2015,45,Media Literacy
+2022,2016,170,Media Literacy
+2023,2017,35,Public Speaking
+2024,2018,40,Global Studies
+2025,2019,170,Public Speaking
+2026,2020,115,Creative Writing
+2027,2021,70,Philosophy
+2028,2022,155,Financial Literacy
+2029,2023,80,Philosophy
+2030,2010,75,Public Speaking
+2031,2011,145,Creative Writing
+2032,2012,140,Media Literacy
+2033,2013,30,Public Speaking
+2034,2014,75,Entrepreneurship
+2035,2015,50,Global Studies
+2036,2016,110,Philosophy
+2037,2017,75,Media Literacy
+2038,2018,35,Philosophy
+2039,2019,115,Global Studies
+2040,2020,150,Philosophy
+2041,2021,85,Emotional Intelligence
+2042,2022,120,Philosophy
+2043,2023,120,Global Studies
+2044,2010,190,Emotional Intelligence
+2045,2011,180,Creative Writing
+2046,2012,165,Emotional Intelligence
+2047,2013,140,Creative Writing
+2048,2014,115,Entrepreneurship
+2049,2015,195,Philosophy
+2050,2016,90,Financial Literacy
+2051,2017,185,Environmental Science
+2052,2018,90,Financial Literacy
+2053,2019,110,Philosophy
+2054,2020,85,Computer Programming
+2055,2021,180,Emotional Intelligence
+2056,2022,130,Public Speaking
+2057,2023,195,Public Speaking
+2058,2010,80,Philosophy
+2059,2011,145,Environmental Science
+2060,2012,40,Financial Literacy
+2061,2013,60,Media Literacy
+2062,2014,75,Environmental Science
+2063,2015,80,Financial Literacy
+2064,2016,180,Financial Literacy
+2065,2017,95,Environmental Science
+2066,2018,100,Global Studies
+2067,2019,140,Environmental Science
+2068,2020,55,Global Studies
+2069,2021,185,Entrepreneurship
+2070,2022,115,Media Literacy
+2071,2023,45,Creative Writing
+2072,2010,55,Public Speaking
+2073,2011,195,Philosophy
+2074,2012,90,Entrepreneurship
+2075,2013,110,Entrepreneurship
+2076,2014,95,Public Speaking
+2077,2015,135,Creative Writing
+2078,2016,155,Media Literacy
+2079,2017,195,Public Speaking
+2080,2018,30,Computer Programming
+2081,2019,195,Philosophy
+2082,2020,35,Philosophy
+2083,2021,160,Environmental Science
+2084,2022,40,Environmental Science
+2085,2023,30,Creative Writing
+2086,2010,45,Computer Programming
+2087,2011,120,Creative Writing
+2088,2012,25,Philosophy
+2089,2013,30,Environmental Science
+2090,2014,190,Environmental Science
+2091,2015,150,Philosophy
+2092,2016,70,Environmental Science
+2093,2017,140,Emotional Intelligence
+2094,2018,130,Financial Literacy
+2095,2019,130,Creative Writing
+2096,2020,65,Computer Programming
+2097,2021,50,Emotional Intelligence
+2098,2022,85,Media Literacy
+2099,2023,125,Media Literacy
+2100,2010,100,Philosophy
+2101,2011,40,Global Studies
+2102,2012,105,Creative Writing
+2103,2013,110,Media Literacy
+2104,2014,145,Environmental Science
+2105,2015,50,Philosophy
+2106,2016,165,Entrepreneurship
+2107,2017,25,Computer Programming
+2108,2018,180,Environmental Science
+2109,2019,120,Emotional Intelligence
+2110,2020,180,Creative Writing
+2111,2021,115,Philosophy
+2112,2022,75,Financial Literacy
+2113,2023,185,Global Studies
+2114,2010,70,Entrepreneurship
+2115,2011,115,Computer Programming
+2116,2012,40,Global Studies
+2117,2013,145,Global Studies
+2118,2014,75,Environmental Science
+2119,2015,60,Emotional Intelligence
+2120,2016,85,Financial Literacy
+2121,2017,25,Creative Writing
+2122,2018,80,Computer Programming
+2123,2019,75,Creative Writing
+2124,2020,90,Computer Programming
+2125,2021,190,Public Speaking
+2126,2022,100,Computer Programming
+2127,2023,120,Creative Writing
+2128,2010,75,Global Studies
+2129,2011,125,Entrepreneurship
+2130,2012,120,Philosophy
+2131,2013,90,Philosophy
+2132,2014,165,Financial Literacy
+2133,2015,60,Creative Writing
+2134,2016,115,Creative Writing
+2135,2017,190,Computer Programming
+2136,2018,55,Philosophy
+2137,2019,180,Creative Writing
+2138,2020,70,Environmental Science
+2139,2021,95,Creative Writing
+2140,2022,70,Entrepreneurship
+2141,2023,165,Public Speaking
+2142,2010,70,Emotional Intelligence
+2143,2011,160,Creative Writing
+2144,2012,65,Environmental Science
+2145,2013,120,Emotional Intelligence
+2146,2014,130,Emotional Intelligence
+2147,2015,165,Financial Literacy
+2148,2016,60,Emotional Intelligence
+2149,2017,105,Financial Literacy
+2150,2018,90,Financial Literacy
+2151,2019,110,Media Literacy
+2152,2020,75,Philosophy
+2153,2021,30,Media Literacy
+2154,2022,65,Entrepreneurship
+2155,2023,180,Creative Writing
+2156,2010,60,Financial Literacy
+2157,2011,75,Emotional Intelligence
+2158,2012,120,Public Speaking
+2159,2013,100,Entrepreneurship
+2160,2014,90,Computer Programming
+2161,2015,50,Media Literacy
+2162,2016,185,Computer Programming
+2163,2017,35,Public Speaking
+2164,2018,60,Media Literacy
+2165,2019,160,Entrepreneurship
+2166,2020,35,Creative Writing
+2167,2021,165,Environmental Science
+2168,2022,80,Media Literacy
+2169,2023,155,Computer Programming
+2170,2010,185,Environmental Science
+2171,2011,80,Public Speaking
+2172,2012,195,Environmental Science
+2173,2013,125,Global Studies
+2174,2014,80,Public Speaking
+2175,2015,155,Philosophy
+2176,2016,50,Computer Programming
+2177,2017,85,Philosophy
+2178,2018,85,Creative Writing
+2179,2019,180,Emotional Intelligence
+2180,2020,180,Environmental Science
+2181,2021,185,Public Speaking
+2182,2022,80,Emotional Intelligence
+2183,2023,160,Emotional Intelligence
+2184,2010,130,Entrepreneurship
+2185,2011,180,Media Literacy
+2186,2012,40,Computer Programming
+2187,2013,70,Computer Programming
+2188,2014,105,Creative Writing
+2189,2015,105,Financial Literacy
+2190,2016,170,Emotional Intelligence
+2191,2017,65,Environmental Science
+2192,2018,55,Public Speaking
+2193,2019,145,Global Studies
+2194,2020,80,Philosophy
+2195,2021,85,Philosophy
+2196,2022,170,Global Studies
+2197,2023,90,Philosophy
+2198,2010,110,Emotional Intelligence
+2199,2011,25,Philosophy
+2200,2012,60,Financial Literacy
+2201,2013,140,Environmental Science
+2202,2014,140,Entrepreneurship
+2203,2015,115,Global Studies
+2204,2016,30,Computer Programming
+2205,2017,75,Philosophy
+2206,2018,80,Global Studies
+2207,2019,140,Creative Writing
+2208,2020,80,Global Studies
+2209,2021,175,Media Literacy
+2210,2022,185,Public Speaking
+2211,2023,50,Public Speaking
+2212,2010,45,Entrepreneurship
+2213,2011,145,Media Literacy
+2214,2012,45,Public Speaking
+2215,2013,180,Media Literacy
+2216,2014,80,Computer Programming
+2217,2015,105,Computer Programming
+2218,2016,150,Financial Literacy
+2219,2017,195,Emotional Intelligence
+2220,2018,85,Global Studies
+2221,2019,30,Environmental Science
+2222,2020,185,Philosophy
+2223,2021,160,Media Literacy
+2224,2022,90,Media Literacy
+2225,2023,90,Global Studies
+2226,2010,140,Global Studies
+2227,2011,160,Philosophy
+2228,2012,60,Public Speaking
+2229,2013,30,Financial Literacy
+2230,2014,30,Environmental Science
+2231,2015,135,Entrepreneurship
+2232,2016,125,Emotional Intelligence
+2233,2017,155,Creative Writing
+2234,2018,120,Global Studies
+2235,2019,185,Environmental Science
+2236,2020,170,Creative Writing
+2237,2021,105,Financial Literacy
+2238,2022,75,Philosophy
+2239,2023,150,Computer Programming
+2240,2010,110,Creative Writing
+2241,2011,75,Global Studies
+2242,2012,135,Global Studies
+2243,2013,40,Global Studies
+2244,2014,155,Global Studies
+2245,2015,25,Philosophy
+2246,2016,45,Computer Programming
+2247,2017,180,Entrepreneurship
+2248,2018,150,Media Literacy
+2249,2019,195,Creative Writing
+2250,2020,40,Computer Programming
+2251,2021,175,Emotional Intelligence
+2252,2022,195,Entrepreneurship
+2253,2023,160,Computer Programming
+2254,2010,175,Environmental Science
+2255,2011,40,Creative Writing
+2256,2012,50,Emotional Intelligence
+2257,2013,25,Financial Literacy
+2258,2014,165,Public Speaking
+2259,2015,125,Environmental Science
+2260,2016,195,Philosophy
+2261,2017,140,Environmental Science
+2262,2018,40,Environmental Science
+2263,2019,145,Philosophy
+2264,2020,30,Philosophy
+2265,2021,135,Environmental Science
+2266,2022,50,Computer Programming
+2267,2023,45,Global Studies
+2268,2010,190,Creative Writing
+2269,2011,115,Environmental Science
+2270,2012,105,Entrepreneurship
+2271,2013,125,Philosophy
+2272,2014,170,Global Studies
+2273,2015,160,Global Studies
+2274,2016,170,Environmental Science
+2275,2017,130,Emotional Intelligence
+2276,2018,35,Computer Programming
+2277,2019,125,Entrepreneurship
+2278,2020,25,Global Studies
+2279,2021,130,Public Speaking
+2280,2022,45,Computer Programming
+2281,2023,60,Philosophy
+2282,2010,145,Public Speaking
+2283,2011,160,Philosophy
+2284,2012,40,Creative Writing
+2285,2013,55,Financial Literacy
+2286,2014,180,Philosophy
+2287,2015,110,Emotional Intelligence
+2288,2016,45,Entrepreneurship
+2289,2017,100,Computer Programming
+2290,2018,125,Media Literacy
+2291,2019,110,Philosophy
+2292,2020,150,Creative Writing
+2293,2021,40,Computer Programming
+2294,2022,145,Computer Programming
+2295,2023,155,Environmental Science
+2296,2010,95,Media Literacy
+2297,2011,45,Media Literacy
+2298,2012,180,Philosophy
+2299,2013,185,Financial Literacy
+2300,2014,45,Creative Writing
+2301,2015,80,Financial Literacy
+2302,2016,160,Entrepreneurship
+2303,2017,110,Entrepreneurship
+2304,2018,180,Entrepreneurship
+2305,2019,110,Environmental Science
+2306,2020,180,Public Speaking
+2307,2021,75,Media Literacy
+2308,2022,150,Financial Literacy
+2309,2023,130,Environmental Science
+2310,2010,190,Emotional Intelligence
+2311,2011,70,Global Studies
+2312,2012,165,Emotional Intelligence
+2313,2013,105,Computer Programming
+2314,2014,55,Emotional Intelligence
+2315,2015,195,Global Studies
+2316,2016,60,Global Studies
+2317,2017,190,Financial Literacy
+2318,2018,135,Computer Programming
+2319,2019,140,Financial Literacy
+2320,2020,135,Creative Writing
+2321,2021,120,Financial Literacy
+2322,2022,95,Philosophy
+2323,2023,125,Philosophy
+2324,2010,195,Public Speaking
+2325,2011,80,Global Studies
+2326,2012,85,Media Literacy
+2327,2013,195,Creative Writing
+2328,2014,140,Public Speaking
+2329,2015,85,Creative Writing
+2330,2016,60,Environmental Science
+2331,2017,165,Computer Programming
+2332,2018,35,Emotional Intelligence
+2333,2019,185,Environmental Science
+2334,2020,100,Media Literacy
+2335,2021,80,Computer Programming
+2336,2022,195,Creative Writing
+2337,2023,130,Creative Writing
+2338,2010,100,Philosophy
+2339,2011,165,Philosophy
+2340,2012,70,Entrepreneurship
+2341,2013,135,Philosophy
+2342,2014,170,Philosophy
+2343,2015,135,Financial Literacy
+2344,2016,130,Creative Writing
+2345,2017,80,Computer Programming
+2346,2018,190,Environmental Science
+2347,2019,160,Financial Literacy
+2348,2020,190,Philosophy
+2349,2021,110,Computer Programming
+2350,2022,50,Media Literacy
+2351,2023,130,Philosophy
+2352,2010,160,Creative Writing
+2353,2011,50,Entrepreneurship
+2354,2012,170,Environmental Science
+2355,2013,145,Philosophy
+2356,2014,40,Global Studies
+2357,2015,195,Media Literacy
+2358,2016,165,Entrepreneurship
+2359,2017,135,Emotional Intelligence
+2360,2018,55,Public Speaking
+2361,2019,155,Global Studies
+2362,2020,25,Entrepreneurship
+2363,2021,25,Emotional Intelligence
+2364,2022,105,Creative Writing
+2365,2023,150,Emotional Intelligence
+2366,2010,160,Financial Literacy
+2367,2011,70,Emotional Intelligence
+2368,2012,80,Media Literacy
+2369,2013,180,Creative Writing
+2370,2014,100,Philosophy
+2371,2015,35,Environmental Science
+2372,2016,75,Emotional Intelligence
+2373,2017,135,Computer Programming
+2374,2018,145,Global Studies
+2375,2019,120,Entrepreneurship
+2376,2020,35,Philosophy
+2377,2021,145,Entrepreneurship
+2378,2022,105,Financial Literacy
+2379,2023,85,Computer Programming
+2380,2010,190,Public Speaking
+2381,2011,155,Emotional Intelligence
+2382,2012,90,Financial Literacy
+2383,2013,105,Financial Literacy
+2384,2014,145,Philosophy
+2385,2015,35,Media Literacy
+2386,2016,25,Emotional Intelligence
+2387,2017,110,Creative Writing
+2388,2018,130,Financial Literacy
+2389,2019,195,Public Speaking
+2390,2020,160,Computer Programming
+2391,2021,165,Public Speaking
+2392,2022,30,Computer Programming
+2393,2023,120,Financial Literacy
+2394,2010,195,Public Speaking
+2395,2011,70,Media Literacy
+2396,2012,95,Emotional Intelligence
+2397,2013,70,Environmental Science
+2398,2014,110,Philosophy
+2399,2015,105,Media Literacy
+2400,2016,90,Financial Literacy
+2401,2017,80,Philosophy
+2402,2018,85,Global Studies
+2403,2019,75,Emotional Intelligence
+2404,2020,155,Media Literacy
+2405,2021,30,Global Studies
+2406,2022,30,Creative Writing
+2407,2023,50,Entrepreneurship
+2408,2010,185,Philosophy
+2409,2011,105,Financial Literacy
+2410,2012,30,Computer Programming
+2411,2013,175,Global Studies
+2412,2014,185,Entrepreneurship
+2413,2015,90,Emotional Intelligence
+2414,2016,60,Environmental Science
+2415,2017,35,Global Studies
+2416,2018,125,Computer Programming
+2417,2019,175,Media Literacy
+2418,2020,55,Entrepreneurship
+2419,2021,155,Financial Literacy
+2420,2022,145,Media Literacy
+2421,2023,110,Media Literacy
+2422,2010,50,Creative Writing
+2423,2011,130,Creative Writing
+2424,2012,35,Computer Programming
+2425,2013,140,Emotional Intelligence
+2426,2014,115,Global Studies
+2427,2015,185,Public Speaking
+2428,2016,95,Financial Literacy
+2429,2017,100,Environmental Science
+2430,2018,55,Global Studies
+2431,2019,100,Emotional Intelligence
+2432,2020,125,Public Speaking
+2433,2021,85,Emotional Intelligence
+2434,2022,75,Computer Programming
+2435,2023,65,Emotional Intelligence
+2436,2010,190,Media Literacy
+2437,2011,25,Financial Literacy
+2438,2012,195,Financial Literacy
+2439,2013,40,Entrepreneurship
+2440,2014,85,Public Speaking
+2441,2015,140,Media Literacy
+2442,2016,155,Entrepreneurship
+2443,2017,150,Global Studies
+2444,2018,120,Global Studies
+2445,2019,180,Creative Writing
+2446,2020,195,Public Speaking
+2447,2021,60,Environmental Science
+2448,2022,95,Media Literacy
+2449,2023,70,Media Literacy
+2450,2010,95,Environmental Science
+2451,2011,175,Creative Writing
+2452,2012,120,Media Literacy
+2453,2013,25,Environmental Science
+2454,2014,185,Creative Writing
+2455,2015,45,Media Literacy
+2456,2016,90,Financial Literacy
+2457,2017,185,Computer Programming
+2458,2018,65,Financial Literacy
+2459,2019,55,Computer Programming
+2460,2020,70,Computer Programming
+2461,2021,90,Emotional Intelligence
+2462,2022,115,Media Literacy
+2463,2023,195,Creative Writing
+2464,2010,150,Emotional Intelligence
+2465,2011,80,Creative Writing
+2466,2012,120,Philosophy
+2467,2013,70,Computer Programming
+2468,2014,50,Creative Writing
+2469,2015,35,Media Literacy
+2470,2016,145,Public Speaking
+2471,2017,30,Global Studies
+2472,2018,80,Financial Literacy
+2473,2019,185,Environmental Science
+2474,2020,115,Computer Programming
+2475,2021,115,Environmental Science
+2476,2022,115,Entrepreneurship
+2477,2023,180,Entrepreneurship
+2478,2010,105,Financial Literacy
+2479,2011,180,Environmental Science
+2480,2012,185,Philosophy
+2481,2013,30,Financial Literacy
+2482,2014,65,Creative Writing
+2483,2015,50,Creative Writing
+2484,2016,45,Environmental Science
+2485,2017,95,Entrepreneurship
+2486,2018,125,Financial Literacy
+2487,2019,65,Entrepreneurship
+2488,2020,30,Philosophy
+2489,2021,85,Environmental Science
+2490,2022,70,Entrepreneurship
+2491,2023,30,Environmental Science
+2492,2010,100,Computer Programming
+2493,2011,145,Creative Writing
+2494,2012,165,Global Studies
+2495,2013,180,Computer Programming
+2496,2014,125,Emotional Intelligence
+2497,2015,180,Media Literacy
+2498,2016,90,Media Literacy
+2499,2017,90,Philosophy
+2500,2018,55,Creative Writing
+2501,2019,35,Entrepreneurship
+2502,2020,160,Financial Literacy
+2503,2021,135,Computer Programming
+2504,2022,115,Computer Programming
+2505,2023,105,Financial Literacy
+2506,2010,185,Entrepreneurship
+2507,2011,115,Global Studies
+2508,2012,65,Philosophy
+2509,2013,75,Creative Writing
+2510,2014,150,Financial Literacy
+2511,2015,55,Creative Writing
+2512,2016,90,Media Literacy
+2513,2017,25,Global Studies
+2514,2018,150,Entrepreneurship
+2515,2019,100,Media Literacy
+2516,2020,50,Financial Literacy
+2517,2021,25,Global Studies
+2518,2022,195,Creative Writing
+2519,2023,105,Environmental Science
+2520,2010,135,Emotional Intelligence
+2521,2011,25,Global Studies
+2522,2012,155,Emotional Intelligence
+2523,2013,125,Emotional Intelligence
+2524,2014,170,Global Studies
+2525,2015,50,Global Studies
+2526,2016,110,Philosophy
+2527,2017,130,Global Studies
+2528,2018,130,Financial Literacy
+2529,2019,50,Philosophy
+2530,2020,135,Global Studies
+2531,2021,120,Environmental Science
+2532,2022,150,Environmental Science
+2533,2023,135,Emotional Intelligence
+2534,2010,35,Emotional Intelligence
+2535,2011,65,Environmental Science
+2536,2012,75,Global Studies
+2537,2013,80,Public Speaking
+2538,2014,195,Financial Literacy
+2539,2015,105,Creative Writing
+2540,2016,185,Creative Writing
+2541,2017,195,Creative Writing
+2542,2018,50,Computer Programming
+2543,2019,35,Media Literacy
+2544,2020,30,Philosophy
+2545,2021,145,Computer Programming
+2546,2022,160,Emotional Intelligence
+2547,2023,50,Creative Writing
+2548,2010,50,Environmental Science
+2549,2011,155,Creative Writing
+2550,2012,190,Global Studies
+2551,2013,70,Financial Literacy
+2552,2014,40,Philosophy
+2553,2015,70,Public Speaking
+2554,2016,185,Global Studies
+2555,2017,65,Creative Writing
+2556,2018,55,Public Speaking
+2557,2019,145,Media Literacy
+2558,2020,195,Environmental Science
+2559,2021,195,Entrepreneurship
+2560,2022,190,Environmental Science
+2561,2023,25,Emotional Intelligence
+2562,2010,150,Environmental Science
+2563,2011,170,Global Studies
+2564,2012,25,Philosophy
+2565,2013,110,Emotional Intelligence
+2566,2014,195,Philosophy
+2567,2015,45,Public Speaking
+2568,2016,175,Philosophy
+2569,2017,85,Emotional Intelligence
+2570,2018,85,Global Studies
+2571,2019,30,Financial Literacy
+2572,2020,180,Emotional Intelligence
+2573,2021,50,Philosophy
+2574,2022,100,Financial Literacy
+2575,2023,75,Public Speaking
+2576,2010,70,Environmental Science
+2577,2011,125,Financial Literacy
+2578,2012,90,Media Literacy
+2579,2013,145,Public Speaking
+2580,2014,100,Public Speaking
+2581,2015,180,Global Studies
+2582,2016,40,Creative Writing
+2583,2017,90,Entrepreneurship
+2584,2018,150,Computer Programming
+2585,2019,170,Financial Literacy
+2586,2020,100,Emotional Intelligence
+2587,2021,110,Emotional Intelligence
+2588,2022,120,Entrepreneurship
+2589,2023,40,Philosophy
+2590,2010,95,Computer Programming
+2591,2011,105,Computer Programming
+2592,2012,125,Financial Literacy
+2593,2013,130,Emotional Intelligence
+2594,2014,30,Creative Writing
+2595,2015,160,Environmental Science
+2596,2016,155,Computer Programming
+2597,2017,85,Public Speaking
+2598,2018,40,Financial Literacy
+2599,2019,50,Financial Literacy
+2600,2020,80,Creative Writing
+2601,2021,55,Philosophy
+2602,2022,190,Philosophy
+2603,2023,80,Entrepreneurship
+2604,2010,45,Global Studies
+2605,2011,25,Public Speaking
+2606,2012,75,Philosophy
+2607,2013,50,Emotional Intelligence
+2608,2014,130,Media Literacy
+2609,2015,120,Philosophy
+2610,2016,105,Public Speaking
+2611,2017,195,Philosophy
+2612,2018,170,Media Literacy
+2613,2019,60,Emotional Intelligence
+2614,2020,155,Entrepreneurship
+2615,2021,145,Emotional Intelligence
+2616,2022,25,Emotional Intelligence
+2617,2023,130,Public Speaking
+2618,2010,25,Media Literacy
+2619,2011,175,Philosophy
+2620,2012,60,Philosophy
+2621,2013,130,Creative Writing
+2622,2014,40,Public Speaking
+2623,2015,185,Emotional Intelligence
+2624,2016,35,Global Studies
+2625,2017,75,Entrepreneurship
+2626,2018,195,Environmental Science
+2627,2019,145,Entrepreneurship
+2628,2020,140,Emotional Intelligence
+2629,2021,105,Financial Literacy
+2630,2022,80,Public Speaking
+2631,2023,95,Emotional Intelligence
+2632,2010,135,Computer Programming
+2633,2011,25,Global Studies
+2634,2012,185,Global Studies
+2635,2013,50,Entrepreneurship
+2636,2014,80,Entrepreneurship
+2637,2015,120,Computer Programming
+2638,2016,70,Computer Programming
+2639,2017,145,Entrepreneurship
+2640,2018,70,Environmental Science
+2641,2019,110,Financial Literacy
+2642,2020,150,Creative Writing
+2643,2021,40,Environmental Science
+2644,2022,140,Environmental Science
+2645,2023,130,Media Literacy
+2646,2010,100,Emotional Intelligence
+2647,2011,90,Environmental Science
+2648,2012,140,Creative Writing
+2649,2013,75,Computer Programming
+2650,2014,120,Public Speaking
+2651,2015,75,Emotional Intelligence
+2652,2016,85,Emotional Intelligence
+2653,2017,105,Environmental Science
+2654,2018,115,Entrepreneurship
+2655,2019,185,Philosophy
+2656,2020,115,Computer Programming
+2657,2021,50,Emotional Intelligence
+2658,2022,120,Creative Writing
+2659,2023,185,Global Studies
+2660,2010,175,Financial Literacy
+2661,2011,55,Public Speaking
+2662,2012,35,Public Speaking
+2663,2013,170,Media Literacy
+2664,2014,175,Entrepreneurship
+2665,2015,135,Public Speaking
+2666,2016,55,Emotional Intelligence
+2667,2017,30,Computer Programming
+2668,2018,70,Public Speaking
+2669,2019,90,Philosophy
+2670,2020,105,Entrepreneurship
+2671,2021,105,Global Studies
+2672,2022,30,Public Speaking
+2673,2023,70,Creative Writing
+2674,2010,185,Entrepreneurship
+2675,2011,155,Computer Programming
+2676,2012,65,Philosophy
+2677,2013,90,Financial Literacy
+2678,2014,145,Public Speaking
+2679,2015,80,Media Literacy
+2680,2016,95,Philosophy
+2681,2017,45,Financial Literacy
+2682,2018,195,Creative Writing
+2683,2019,35,Philosophy
+2684,2020,55,Global Studies
+2685,2021,150,Media Literacy
+2686,2022,150,Computer Programming
+2687,2023,160,Environmental Science
+2688,2010,195,Creative Writing
+2689,2011,195,Environmental Science
+2690,2012,175,Media Literacy
+2691,2013,150,Environmental Science
+2692,2014,40,Creative Writing
+2693,2015,150,Philosophy
+2694,2016,75,Emotional Intelligence
+2695,2017,120,Media Literacy
+2696,2018,50,Emotional Intelligence
+2697,2019,130,Global Studies
+2698,2020,40,Emotional Intelligence
+2699,2021,115,Media Literacy
+2700,2022,100,Financial Literacy
+2701,2023,165,Financial Literacy
+2702,2010,120,Emotional Intelligence
+2703,2011,60,Global Studies
+2704,2012,30,Philosophy
+2705,2013,170,Global Studies
+2706,2014,55,Public Speaking
+2707,2015,195,Computer Programming
+2708,2016,45,Global Studies
+2709,2017,115,Creative Writing
+2710,2018,145,Media Literacy
+2711,2019,110,Entrepreneurship
+2712,2020,135,Computer Programming
+2713,2021,140,Environmental Science
+2714,2022,40,Global Studies
+2715,2023,105,Financial Literacy
+2716,2010,110,Emotional Intelligence
+2717,2011,50,Entrepreneurship
+2718,2012,75,Global Studies
+2719,2013,125,Computer Programming
+2720,2014,95,Financial Literacy
+2721,2015,165,Emotional Intelligence
+2722,2016,45,Public Speaking
+2723,2017,165,Computer Programming
+2724,2018,90,Environmental Science
+2725,2019,165,Financial Literacy
+2726,2020,185,Financial Literacy
+2727,2021,65,Philosophy
+2728,2022,175,Global Studies
+2729,2023,155,Computer Programming
+2730,2010,35,Environmental Science
+2731,2011,105,Emotional Intelligence
+2732,2012,195,Public Speaking
+2733,2013,180,Media Literacy
+2734,2014,170,Environmental Science
+2735,2015,75,Global Studies
+2736,2016,75,Philosophy
+2737,2017,195,Philosophy
+2738,2018,155,Environmental Science
+2739,2019,185,Environmental Science
+2740,2020,90,Emotional Intelligence
+2741,2021,140,Emotional Intelligence
+2742,2022,190,Global Studies
+2743,2023,50,Computer Programming
+2744,2010,130,Entrepreneurship
+2745,2011,75,Creative Writing
+2746,2012,90,Environmental Science
+2747,2013,190,Entrepreneurship
+2748,2014,105,Environmental Science
+2749,2015,145,Media Literacy
+2750,2016,195,Financial Literacy
+2751,2017,90,Emotional Intelligence
+2752,2018,140,Emotional Intelligence
+2753,2019,50,Entrepreneurship
+2754,2020,55,Global Studies
+2755,2021,125,Public Speaking
+2756,2022,55,Financial Literacy
+2757,2023,95,Financial Literacy
+2758,2010,165,Entrepreneurship
+2759,2011,70,Philosophy
+2760,2012,140,Financial Literacy
+2761,2013,105,Philosophy
+2762,2014,125,Emotional Intelligence
+2763,2015,70,Financial Literacy
+2764,2016,80,Global Studies
+2765,2017,110,Environmental Science
+2766,2018,90,Emotional Intelligence
+2767,2019,135,Creative Writing
+2768,2020,110,Media Literacy
+2769,2021,195,Public Speaking
+2770,2022,115,Philosophy
+2771,2023,105,Public Speaking
+2772,2010,170,Emotional Intelligence
+2773,2011,50,Financial Literacy
+2774,2012,95,Computer Programming
+2775,2013,195,Environmental Science
+2776,2014,180,Media Literacy
+2777,2015,110,Financial Literacy
+2778,2016,115,Computer Programming
+2779,2017,130,Entrepreneurship
+2780,2018,165,Financial Literacy
+2781,2019,40,Environmental Science
+2782,2020,155,Emotional Intelligence
+2783,2021,25,Creative Writing
+2784,2022,190,Public Speaking
+2785,2023,105,Media Literacy
+2786,2010,175,Emotional Intelligence
+2787,2011,110,Public Speaking
+2788,2012,150,Media Literacy
+2789,2013,120,Creative Writing
+2790,2014,170,Financial Literacy
+2791,2015,45,Emotional Intelligence
+2792,2016,130,Financial Literacy
+2793,2017,110,Entrepreneurship
+2794,2018,50,Media Literacy
+2795,2019,125,Environmental Science
+2796,2020,45,Computer Programming
+2797,2021,85,Global Studies
+2798,2022,170,Computer Programming
+2799,2023,160,Media Literacy
+2800,2010,120,Environmental Science
+2801,2011,160,Environmental Science
+2802,2012,35,Media Literacy
+2803,2013,135,Public Speaking
+2804,2014,70,Emotional Intelligence
+2805,2015,115,Computer Programming
+2806,2016,55,Computer Programming
+2807,2017,80,Global Studies
+2808,2018,160,Financial Literacy
+2809,2019,60,Public Speaking
+2810,2020,125,Media Literacy
+2811,2021,185,Creative Writing
+2812,2022,80,Public Speaking
+2813,2023,125,Financial Literacy
+2814,2010,155,Computer Programming
+2815,2011,140,Entrepreneurship
+2816,2012,50,Emotional Intelligence
+2817,2013,180,Public Speaking
+2818,2014,150,Philosophy
+2819,2015,125,Global Studies
+2820,2016,30,Environmental Science
+2821,2017,195,Environmental Science
+2822,2018,150,Media Literacy
+2823,2019,150,Media Literacy
+2824,2020,150,Media Literacy
+2825,2021,135,Environmental Science
+2826,2022,150,Global Studies
+2827,2023,105,Environmental Science
+2828,2010,140,Financial Literacy
+2829,2011,110,Global Studies
+2830,2012,135,Philosophy
+2831,2013,190,Entrepreneurship
+2832,2014,130,Computer Programming
+2833,2015,100,Entrepreneurship
+2834,2016,175,Environmental Science
+2835,2017,40,Financial Literacy
+2836,2018,40,Philosophy
+2837,2019,55,Entrepreneurship
+2838,2020,90,Financial Literacy
+2839,2021,180,Global Studies
+2840,2022,75,Creative Writing
+2841,2023,65,Financial Literacy
+2842,2010,120,Global Studies
+2843,2011,100,Financial Literacy
+2844,2012,55,Creative Writing
+2845,2013,110,Philosophy
+2846,2014,185,Financial Literacy
+2847,2015,160,Media Literacy
+2848,2016,105,Public Speaking
+2849,2017,135,Environmental Science
+2850,2018,175,Emotional Intelligence
+2851,2019,65,Financial Literacy
+2852,2020,85,Entrepreneurship
+2853,2021,195,Media Literacy
+2854,2022,175,Computer Programming
+2855,2023,45,Public Speaking
+2856,2010,180,Environmental Science
+2857,2011,50,Media Literacy
+2858,2012,165,Public Speaking
+2859,2013,160,Media Literacy
+2860,2014,60,Emotional Intelligence
+2861,2015,170,Creative Writing
+2862,2016,125,Global Studies
+2863,2017,160,Entrepreneurship
+2864,2018,195,Philosophy
+2865,2019,40,Computer Programming
+2866,2020,125,Entrepreneurship
+2867,2021,60,Financial Literacy
+2868,2022,135,Emotional Intelligence
+2869,2023,155,Environmental Science
+2870,2010,80,Creative Writing
+2871,2011,30,Financial Literacy
+2872,2012,110,Creative Writing
+2873,2013,150,Media Literacy
+2874,2014,135,Environmental Science
+2875,2015,30,Public Speaking
+2876,2016,160,Media Literacy
+2877,2017,180,Media Literacy
+2878,2018,40,Media Literacy
+2879,2019,115,Environmental Science
+2880,2020,30,Media Literacy
+2881,2021,115,Media Literacy
+2882,2022,175,Media Literacy
+2883,2023,50,Public Speaking
+2884,2010,85,Philosophy
+2885,2011,75,Entrepreneurship
+2886,2012,130,Entrepreneurship
+2887,2013,90,Emotional Intelligence
+2888,2014,190,Financial Literacy
+2889,2015,115,Computer Programming
+2890,2016,175,Entrepreneurship
+2891,2017,135,Philosophy
+2892,2018,145,Emotional Intelligence
+2893,2019,150,Public Speaking
+2894,2020,25,Emotional Intelligence
+2895,2021,175,Entrepreneurship
+2896,2022,135,Global Studies
+2897,2023,115,Global Studies
+2898,2010,185,Environmental Science
+2899,2011,30,Media Literacy
+2900,2012,125,Financial Literacy
+2901,2013,125,Environmental Science
+2902,2014,155,Emotional Intelligence
+2903,2015,170,Creative Writing
+2904,2016,160,Public Speaking
+2905,2017,60,Financial Literacy
+2906,2018,175,Environmental Science
+2907,2019,60,Global Studies
+2908,2020,55,Financial Literacy
+2909,2021,55,Financial Literacy
+2910,2022,180,Financial Literacy
+2911,2023,55,Financial Literacy
+2912,2010,45,Entrepreneurship
+2913,2011,125,Environmental Science
+2914,2012,120,Public Speaking
+2915,2013,80,Computer Programming
+2916,2014,190,Creative Writing
+2917,2015,75,Media Literacy
+2918,2016,125,Public Speaking
+2919,2017,50,Global Studies
+2920,2018,95,Environmental Science
+2921,2019,110,Creative Writing
+2922,2020,75,Philosophy
+2923,2021,90,Global Studies
+2924,2022,40,Environmental Science
+2925,2023,150,Computer Programming
+2926,2010,50,Financial Literacy
+2927,2011,75,Environmental Science
+2928,2012,55,Philosophy
+2929,2013,125,Emotional Intelligence
+2930,2014,115,Global Studies
+2931,2015,105,Entrepreneurship
+2932,2016,55,Financial Literacy
+2933,2017,100,Media Literacy
+2934,2018,35,Entrepreneurship
+2935,2019,170,Entrepreneurship
+2936,2020,70,Entrepreneurship
+2937,2021,180,Public Speaking
+2938,2022,30,Public Speaking
+2939,2023,85,Media Literacy
+2940,2010,170,Philosophy
+2941,2011,160,Financial Literacy
+2942,2012,115,Emotional Intelligence
+2943,2013,110,Emotional Intelligence
+2944,2014,130,Emotional Intelligence
+2945,2015,40,Entrepreneurship
+2946,2016,165,Computer Programming
+2947,2017,105,Creative Writing
+2948,2018,145,Media Literacy
+2949,2019,90,Global Studies
+2950,2020,25,Global Studies
+2951,2021,65,Entrepreneurship
+2952,2022,25,Public Speaking
+2953,2023,115,Creative Writing
+2954,2010,95,Computer Programming
+2955,2011,120,Environmental Science
+2956,2012,110,Philosophy
+2957,2013,70,Creative Writing
+2958,2014,100,Entrepreneurship
+2959,2015,155,Public Speaking
+2960,2016,75,Creative Writing
+2961,2017,90,Environmental Science
+2962,2018,100,Computer Programming
+2963,2019,75,Public Speaking
+2964,2020,165,Financial Literacy
+2965,2021,175,Environmental Science
+2966,2022,55,Emotional Intelligence
+2967,2023,80,Media Literacy
+2968,2010,185,Philosophy
+2969,2011,95,Entrepreneurship
+2970,2012,140,Media Literacy
+2971,2013,160,Computer Programming
+2972,2014,135,Philosophy
+2973,2015,170,Environmental Science
+2974,2016,70,Public Speaking
+2975,2017,180,Creative Writing
+2976,2018,125,Emotional Intelligence
+2977,2019,130,Media Literacy
+2978,2020,105,Computer Programming
+2979,2021,75,Global Studies
+2980,2022,75,Environmental Science
+2981,2023,150,Environmental Science
+2982,2010,70,Computer Programming
+2983,2011,45,Computer Programming
+2984,2012,100,Financial Literacy
+2985,2013,25,Media Literacy
+2986,2014,105,Entrepreneurship
+2987,2015,70,Entrepreneurship
+2988,2016,175,Global Studies
+2989,2017,70,Financial Literacy
+2990,2018,160,Public Speaking
+2991,2019,105,Financial Literacy
+2992,2020,40,Philosophy
+2993,2021,120,Media Literacy
+2994,2022,90,Media Literacy
+2995,2023,120,Emotional Intelligence
+2996,2010,115,Financial Literacy
+2997,2011,150,Media Literacy
+2998,2012,55,Emotional Intelligence
+2999,2013,160,Emotional Intelligence
+3000,2014,95,Philosophy
+3001,2015,100,Media Literacy
+3002,2016,170,Financial Literacy
+3003,2017,105,Creative Writing
+3004,2018,75,Global Studies
+3005,2019,175,Creative Writing
+3006,2020,105,Creative Writing
+3007,2021,110,Creative Writing
+3008,2022,155,Philosophy
+3009,2023,25,Entrepreneurship
+3010,2010,165,Media Literacy
+3011,2011,195,Environmental Science
+3012,2012,25,Entrepreneurship
+3013,2013,185,Philosophy
+3014,2014,55,Computer Programming
+3015,2015,150,Public Speaking
+3016,2016,190,Financial Literacy
+3017,2017,30,Financial Literacy
+3018,2018,70,Media Literacy
+3019,2019,150,Creative Writing
+3020,2020,50,Global Studies
+3021,2021,135,Creative Writing
+3022,2022,165,Emotional Intelligence
+3023,2023,175,Creative Writing
+3024,2010,100,Financial Literacy
+3025,2011,160,Entrepreneurship
+3026,2012,145,Creative Writing
+3027,2013,110,Financial Literacy
+3028,2014,170,Environmental Science
+3029,2015,145,Philosophy
+3030,2016,110,Entrepreneurship
+3031,2017,75,Philosophy
+3032,2018,25,Media Literacy
+3033,2019,170,Environmental Science
+3034,2020,70,Media Literacy
+3035,2021,45,Emotional Intelligence
+3036,2022,35,Global Studies
+3037,2023,85,Creative Writing
+3038,2010,185,Media Literacy
+3039,2011,140,Media Literacy
+3040,2012,45,Public Speaking
+3041,2013,75,Creative Writing
+3042,2014,75,Global Studies
+3043,2015,60,Emotional Intelligence
+3044,2016,50,Global Studies
+3045,2017,80,Environmental Science
+3046,2018,80,Creative Writing
+3047,2019,65,Entrepreneurship
+3048,2020,180,Global Studies
+3049,2021,65,Emotional Intelligence
+3050,2022,40,Environmental Science
+3051,2023,40,Entrepreneurship
+3052,2010,170,Philosophy
+3053,2011,150,Media Literacy
+3054,2012,130,Emotional Intelligence
+3055,2013,35,Global Studies
+3056,2014,135,Public Speaking
+3057,2015,65,Media Literacy
+3058,2016,140,Public Speaking
+3059,2017,35,Computer Programming
+3060,2018,185,Creative Writing
+3061,2019,125,Financial Literacy
+3062,2020,155,Environmental Science
+3063,2021,40,Computer Programming
+3064,2022,35,Public Speaking
+3065,2023,95,Creative Writing
+3066,2010,145,Global Studies
+3067,2011,30,Creative Writing
+3068,2012,90,Global Studies
+3069,2013,110,Computer Programming
+3070,2014,70,Philosophy
+3071,2015,175,Entrepreneurship
+3072,2016,120,Public Speaking
+3073,2017,25,Media Literacy
+3074,2018,60,Philosophy
+3075,2019,125,Environmental Science
+3076,2020,140,Creative Writing
+3077,2021,45,Global Studies
+3078,2022,65,Computer Programming
+3079,2023,40,Public Speaking
+3080,2010,85,Global Studies
+3081,2011,180,Global Studies
+3082,2012,55,Environmental Science
+3083,2013,135,Environmental Science
+3084,2014,125,Computer Programming
+3085,2015,165,Media Literacy
+3086,2016,25,Media Literacy
+3087,2017,165,Entrepreneurship
+3088,2018,140,Emotional Intelligence
+3089,2019,115,Creative Writing
+3090,2020,175,Computer Programming
+3091,2021,195,Media Literacy
+3092,2022,115,Creative Writing
+3093,2023,25,Computer Programming
+3094,2010,175,Creative Writing
+3095,2011,190,Financial Literacy
+3096,2012,160,Financial Literacy
+3097,2013,165,Media Literacy
+3098,2014,75,Public Speaking
+3099,2015,120,Media Literacy
+3100,2016,155,Entrepreneurship
+3101,2017,95,Entrepreneurship
+3102,2018,100,Media Literacy
+3103,2019,75,Public Speaking
+3104,2020,125,Entrepreneurship
+3105,2021,125,Public Speaking
+3106,2022,150,Media Literacy
+3107,2023,65,Financial Literacy
+3108,2010,90,Philosophy
+3109,2011,150,Entrepreneurship
+3110,2012,160,Public Speaking
+3111,2013,85,Media Literacy
+3112,2014,90,Emotional Intelligence
+3113,2015,160,Public Speaking
+3114,2016,165,Media Literacy
+3115,2017,50,Financial Literacy
+3116,2018,160,Public Speaking
+3117,2019,65,Creative Writing
+3118,2020,125,Public Speaking
+3119,2021,160,Financial Literacy
+3120,2022,115,Entrepreneurship
+3121,2023,40,Global Studies
+3122,2010,35,Financial Literacy
+3123,2011,75,Creative Writing
+3124,2012,65,Media Literacy
+3125,2013,100,Creative Writing
+3126,2014,115,Entrepreneurship
+3127,2015,195,Financial Literacy
+3128,2016,165,Financial Literacy
+3129,2017,80,Creative Writing
+3130,2018,155,Public Speaking
+3131,2019,25,Global Studies
+3132,2020,70,Financial Literacy
+3133,2021,140,Entrepreneurship
+3134,2022,65,Entrepreneurship
+3135,2023,80,Global Studies
+3136,2010,65,Financial Literacy
+3137,2011,105,Philosophy
+3138,2012,130,Creative Writing
+3139,2013,190,Environmental Science
+3140,2014,80,Emotional Intelligence
+3141,2015,110,Global Studies
+3142,2016,100,Philosophy
+3143,2017,130,Media Literacy
+3144,2018,95,Financial Literacy
+3145,2019,135,Financial Literacy
+3146,2020,140,Media Literacy
+3147,2021,35,Computer Programming
+3148,2022,155,Emotional Intelligence
+3149,2023,170,Global Studies
+3150,2010,185,Entrepreneurship
+3151,2011,135,Creative Writing
+3152,2012,155,Global Studies
+3153,2013,30,Philosophy
+3154,2014,60,Financial Literacy
+3155,2015,70,Emotional Intelligence
+3156,2016,155,Emotional Intelligence
+3157,2017,115,Entrepreneurship
+3158,2018,165,Computer Programming
+3159,2019,85,Emotional Intelligence
+3160,2020,75,Computer Programming
+3161,2021,70,Environmental Science
+3162,2022,70,Public Speaking
+3163,2023,25,Creative Writing
+3164,2010,130,Computer Programming
+3165,2011,60,Computer Programming
+3166,2012,160,Public Speaking
+3167,2013,155,Emotional Intelligence
+3168,2014,60,Environmental Science
+3169,2015,85,Public Speaking
+3170,2016,115,Creative Writing
+3171,2017,40,Environmental Science
+3172,2018,90,Emotional Intelligence
+3173,2019,85,Global Studies
+3174,2020,190,Public Speaking
+3175,2021,195,Computer Programming
+3176,2022,60,Environmental Science
+3177,2023,100,Environmental Science
+3178,2010,60,Emotional Intelligence
+3179,2011,190,Environmental Science
+3180,2012,115,Creative Writing
+3181,2013,145,Emotional Intelligence
+3182,2014,175,Emotional Intelligence
+3183,2015,100,Creative Writing
+3184,2016,145,Philosophy
+3185,2017,70,Financial Literacy
+3186,2018,130,Public Speaking
+3187,2019,165,Emotional Intelligence
+3188,2020,110,Entrepreneurship
+3189,2021,105,Entrepreneurship
+3190,2022,130,Entrepreneurship
+3191,2023,195,Emotional Intelligence
+3192,2010,155,Global Studies
+3193,2011,110,Philosophy
+3194,2012,120,Computer Programming
+3195,2013,100,Computer Programming
+3196,2014,25,Computer Programming
+3197,2015,70,Financial Literacy
+3198,2016,190,Philosophy
+3199,2017,100,Entrepreneurship
+3200,2018,135,Entrepreneurship
+3201,2019,115,Entrepreneurship
+3202,2020,195,Financial Literacy
+3203,2021,185,Computer Programming
+3204,2022,80,Environmental Science
+3205,2023,175,Philosophy
+3206,2010,195,Philosophy
+3207,2011,55,Media Literacy
+3208,2012,150,Public Speaking
+3209,2013,55,Computer Programming
+3210,2014,105,Entrepreneurship
+3211,2015,25,Financial Literacy
+3212,2016,40,Emotional Intelligence
+3213,2017,125,Global Studies
+3214,2018,45,Public Speaking
+3215,2019,25,Environmental Science
+3216,2020,195,Environmental Science
+3217,2021,180,Global Studies
+3218,2022,100,Public Speaking
+3219,2023,75,Entrepreneurship
+3220,2010,185,Public Speaking
+3221,2011,155,Creative Writing
+3222,2012,45,Financial Literacy
+3223,2013,60,Media Literacy
+3224,2014,50,Computer Programming
+3225,2015,60,Financial Literacy
+3226,2016,30,Public Speaking
+3227,2017,95,Public Speaking
+3228,2018,55,Financial Literacy
+3229,2019,50,Media Literacy
+3230,2020,120,Entrepreneurship
+3231,2021,55,Public Speaking
+3232,2022,75,Emotional Intelligence
+3233,2023,110,Environmental Science
+3234,2010,95,Computer Programming
+3235,2011,140,Global Studies
+3236,2012,165,Environmental Science
+3237,2013,165,Global Studies
+3238,2014,90,Financial Literacy
+3239,2015,180,Creative Writing
+3240,2016,30,Media Literacy
+3241,2017,65,Public Speaking
+3242,2018,30,Media Literacy
+3243,2019,110,Public Speaking
+3244,2020,155,Emotional Intelligence
+3245,2021,45,Computer Programming
+3246,2022,135,Philosophy
+3247,2023,115,Financial Literacy
+3248,2010,65,Financial Literacy
+3249,2011,190,Financial Literacy
+3250,2012,115,Entrepreneurship
+3251,2013,190,Creative Writing
+3252,2014,115,Financial Literacy
+3253,2015,70,Environmental Science
+3254,2016,90,Public Speaking
+3255,2017,125,Creative Writing
+3256,2018,105,Environmental Science
+3257,2019,135,Public Speaking
+3258,2020,60,Global Studies
+3259,2021,65,Computer Programming
+3260,2022,120,Creative Writing
+3261,2023,100,Computer Programming
+3262,2010,150,Media Literacy
+3263,2011,145,Creative Writing
+3264,2012,60,Computer Programming
+3265,2013,35,Emotional Intelligence
+3266,2014,155,Computer Programming
+3267,2015,90,Entrepreneurship
+3268,2016,135,Environmental Science
+3269,2017,170,Emotional Intelligence
+3270,2018,60,Global Studies
+3271,2019,195,Entrepreneurship
+3272,2020,135,Philosophy
+3273,2021,50,Global Studies
+3274,2022,85,Computer Programming
+3275,2023,45,Environmental Science
+3276,2010,25,Public Speaking
+3277,2011,165,Media Literacy
+3278,2012,155,Philosophy
+3279,2013,150,Computer Programming
+3280,2014,135,Global Studies
+3281,2015,185,Philosophy
+3282,2016,165,Financial Literacy
+3283,2017,195,Entrepreneurship
+3284,2018,45,Emotional Intelligence
+3285,2019,150,Public Speaking
+3286,2020,35,Entrepreneurship
+3287,2021,135,Environmental Science
+3288,2022,40,Entrepreneurship
+3289,2023,55,Entrepreneurship
+3290,2010,145,Entrepreneurship
+3291,2011,150,Financial Literacy
+3292,2012,160,Public Speaking
+3293,2013,155,Public Speaking
+3294,2014,40,Emotional Intelligence
+3295,2015,125,Financial Literacy
+3296,2016,50,Entrepreneurship
+3297,2017,85,Computer Programming
+3298,2018,105,Financial Literacy
+3299,2019,95,Creative Writing
+3300,2020,55,Entrepreneurship
+3301,2021,120,Creative Writing
+3302,2022,85,Public Speaking
+3303,2023,185,Emotional Intelligence
+3304,2010,185,Emotional Intelligence
+3305,2011,100,Computer Programming
+3306,2012,135,Emotional Intelligence
+3307,2013,150,Financial Literacy
+3308,2014,170,Global Studies
+3309,2015,110,Computer Programming
+3310,2016,55,Emotional Intelligence
+3311,2017,165,Philosophy
+3312,2018,170,Public Speaking
+3313,2019,30,Financial Literacy
+3314,2020,115,Public Speaking
+3315,2021,130,Entrepreneurship
+3316,2022,35,Creative Writing
+3317,2023,125,Philosophy
+3318,2010,65,Philosophy
+3319,2011,130,Media Literacy
+3320,2012,140,Philosophy
+3321,2013,50,Environmental Science
+3322,2014,115,Philosophy
+3323,2015,120,Philosophy
+3324,2016,125,Entrepreneurship
+3325,2017,60,Philosophy
+3326,2018,115,Philosophy
+3327,2019,110,Environmental Science
+3328,2020,80,Entrepreneurship
+3329,2021,90,Environmental Science
+3330,2022,145,Media Literacy
+3331,2023,145,Global Studies
+3332,2010,125,Media Literacy
+3333,2011,175,Philosophy
+3334,2012,110,Philosophy
+3335,2013,40,Global Studies
+3336,2014,150,Environmental Science
+3337,2015,155,Financial Literacy
+3338,2016,110,Emotional Intelligence
+3339,2017,55,Philosophy
+3340,2018,130,Global Studies
+3341,2019,100,Global Studies
+3342,2020,145,Public Speaking
+3343,2021,35,Emotional Intelligence
+3344,2022,50,Entrepreneurship
+3345,2023,135,Philosophy
+3346,2010,30,Emotional Intelligence
+3347,2011,90,Public Speaking
+3348,2012,145,Global Studies
+3349,2013,75,Financial Literacy
+3350,2014,150,Media Literacy
+3351,2015,25,Media Literacy
+3352,2016,40,Environmental Science
+3353,2017,190,Global Studies
+3354,2018,50,Public Speaking
+3355,2019,80,Environmental Science
+3356,2020,50,Philosophy
+3357,2021,155,Philosophy
+3358,2022,115,Computer Programming
+3359,2023,180,Environmental Science
+3360,2010,110,Public Speaking
+3361,2011,125,Emotional Intelligence
+3362,2012,175,Financial Literacy
+3363,2013,65,Entrepreneurship
+3364,2014,145,Public Speaking
+3365,2015,90,Financial Literacy
+3366,2016,185,Environmental Science
+3367,2017,165,Media Literacy
+3368,2018,195,Computer Programming
+3369,2019,155,Public Speaking
+3370,2020,45,Computer Programming
+3371,2021,125,Public Speaking
+3372,2022,185,Computer Programming
+3373,2023,70,Public Speaking
+3374,2010,70,Philosophy
+3375,2011,170,Media Literacy
+3376,2012,170,Entrepreneurship
+3377,2013,85,Environmental Science
+3378,2014,160,Global Studies
+3379,2015,65,Environmental Science
+3380,2016,160,Global Studies
+3381,2017,135,Media Literacy
+3382,2018,140,Creative Writing
+3383,2019,130,Financial Literacy
+3384,2020,30,Computer Programming
+3385,2021,45,Media Literacy
+3386,2022,140,Emotional Intelligence
+3387,2023,100,Media Literacy
+3388,2010,135,Entrepreneurship
+3389,2011,40,Computer Programming
+3390,2012,85,Creative Writing
+3391,2013,95,Environmental Science
+3392,2014,55,Media Literacy
+3393,2015,75,Philosophy
+3394,2016,155,Philosophy
+3395,2017,85,Public Speaking
+3396,2018,75,Financial Literacy
+3397,2019,25,Creative Writing
+3398,2020,100,Media Literacy
+3399,2021,30,Media Literacy
+3400,2022,40,Entrepreneurship
+3401,2023,115,Media Literacy
+3402,2010,110,Public Speaking
+3403,2011,75,Creative Writing
+3404,2012,80,Emotional Intelligence
+3405,2013,100,Computer Programming
+3406,2014,130,Creative Writing
+3407,2015,45,Creative Writing
+3408,2016,35,Entrepreneurship
+3409,2017,135,Environmental Science
+3410,2018,155,Global Studies
+3411,2019,105,Entrepreneurship
+3412,2020,40,Emotional Intelligence
+3413,2021,65,Public Speaking
+3414,2022,105,Financial Literacy
+3415,2023,95,Emotional Intelligence
+3416,2010,135,Public Speaking
+3417,2011,160,Financial Literacy
+3418,2012,165,Public Speaking
+3419,2013,110,Financial Literacy
+3420,2014,70,Entrepreneurship
+3421,2015,175,Public Speaking
+3422,2016,80,Entrepreneurship
+3423,2017,45,Global Studies
+3424,2018,130,Media Literacy
+3425,2019,180,Financial Literacy
+3426,2020,45,Global Studies
+3427,2021,75,Computer Programming
+3428,2022,130,Environmental Science
+3429,2023,40,Environmental Science
+3430,2010,105,Philosophy
+3431,2011,45,Global Studies
+3432,2012,25,Public Speaking
+3433,2013,105,Entrepreneurship
+3434,2014,105,Creative Writing
+3435,2015,170,Financial Literacy
+3436,2016,85,Public Speaking
+3437,2017,95,Emotional Intelligence
+3438,2018,60,Computer Programming
+3439,2019,115,Computer Programming
+3440,2020,105,Financial Literacy
+3441,2021,175,Emotional Intelligence
+3442,2022,120,Computer Programming
+3443,2023,55,Entrepreneurship
+3444,2010,100,Global Studies
+3445,2011,140,Public Speaking
+3446,2012,110,Financial Literacy
+3447,2013,145,Entrepreneurship
+3448,2014,195,Computer Programming
+3449,2015,65,Global Studies
+3450,2016,155,Financial Literacy
+3451,2017,55,Environmental Science
+3452,2018,85,Emotional Intelligence
+3453,2019,35,Financial Literacy
+3454,2020,45,Computer Programming
+3455,2021,155,Public Speaking
+3456,2022,145,Global Studies
+3457,2023,175,Financial Literacy
+3458,2010,40,Philosophy
+3459,2011,175,Media Literacy
+3460,2012,90,Emotional Intelligence
+3461,2013,120,Creative Writing
+3462,2014,110,Computer Programming
+3463,2015,45,Emotional Intelligence
+3464,2016,105,Creative Writing
+3465,2017,50,Financial Literacy
+3466,2018,65,Entrepreneurship
+3467,2019,155,Emotional Intelligence
+3468,2020,135,Media Literacy
+3469,2021,150,Entrepreneurship
+3470,2022,60,Emotional Intelligence
+3471,2023,65,Media Literacy
+3472,2010,95,Financial Literacy
+3473,2011,135,Media Literacy
+3474,2012,140,Public Speaking
+3475,2013,60,Global Studies
+3476,2014,30,Philosophy
+3477,2015,195,Philosophy
+3478,2016,95,Entrepreneurship
+3479,2017,150,Environmental Science
+3480,2018,155,Entrepreneurship
+3481,2019,190,Creative Writing
+3482,2020,150,Computer Programming
+3483,2021,35,Philosophy
+3484,2022,65,Computer Programming
+3485,2023,110,Environmental Science
+3486,2010,185,Environmental Science
+3487,2011,110,Creative Writing
+3488,2012,140,Computer Programming
+3489,2013,65,Public Speaking
+3490,2014,190,Philosophy
+3491,2015,105,Philosophy
+3492,2016,80,Global Studies
+3493,2017,40,Creative Writing
+3494,2018,190,Emotional Intelligence
+3495,2019,105,Emotional Intelligence
+3496,2020,155,Financial Literacy
+3497,2021,150,Creative Writing
+3498,2022,75,Computer Programming
+3499,2023,60,Public Speaking
+3500,2010,105,Creative Writing
+3501,2011,105,Media Literacy
+3502,2012,130,Environmental Science
+3503,2013,105,Media Literacy
+3504,2014,30,Environmental Science
+3505,2015,55,Philosophy
+3506,2016,30,Computer Programming
+3507,2017,30,Emotional Intelligence
+3508,2018,125,Public Speaking
+3509,2019,90,Media Literacy
+3510,2020,180,Public Speaking
+3511,2021,120,Entrepreneurship
+3512,2022,95,Public Speaking
+3513,2023,140,Emotional Intelligence
+3514,2010,90,Global Studies
+3515,2011,130,Financial Literacy
+3516,2012,50,Philosophy
+3517,2013,175,Financial Literacy
+3518,2014,85,Computer Programming
+3519,2015,35,Emotional Intelligence
+3520,2016,195,Emotional Intelligence
+3521,2017,65,Public Speaking
+3522,2018,125,Environmental Science
+3523,2019,65,Financial Literacy
+3524,2020,90,Entrepreneurship
+3525,2021,165,Financial Literacy
+3526,2022,160,Philosophy
+3527,2023,155,Creative Writing
+3528,2010,170,Financial Literacy
+3529,2011,165,Global Studies
+3530,2012,150,Media Literacy
+3531,2013,160,Entrepreneurship
+3532,2014,95,Environmental Science
+3533,2015,30,Entrepreneurship
+3534,2016,45,Global Studies
+3535,2017,175,Computer Programming
+3536,2018,35,Philosophy
+3537,2019,165,Financial Literacy
+3538,2020,145,Public Speaking
+3539,2021,115,Financial Literacy
+3540,2022,60,Global Studies
+3541,2023,180,Environmental Science
+3542,2010,140,Computer Programming
+3543,2011,45,Public Speaking
+3544,2012,100,Environmental Science
+3545,2013,155,Philosophy
+3546,2014,170,Computer Programming
+3547,2015,115,Media Literacy
+3548,2016,40,Media Literacy
+3549,2017,195,Entrepreneurship
+3550,2018,170,Computer Programming
+3551,2019,135,Emotional Intelligence
+3552,2020,110,Environmental Science
+3553,2021,95,Philosophy
+3554,2022,140,Global Studies
+3555,2023,145,Media Literacy
+3556,2010,145,Financial Literacy
+3557,2011,50,Philosophy
+3558,2012,185,Philosophy
+3559,2013,160,Entrepreneurship
+3560,2014,120,Media Literacy
+3561,2015,90,Environmental Science
+3562,2016,170,Computer Programming
+3563,2017,180,Financial Literacy
+3564,2018,190,Global Studies
+3565,2019,140,Public Speaking
+3566,2020,115,Global Studies
+3567,2021,55,Environmental Science
+3568,2022,160,Philosophy
+3569,2023,45,Environmental Science
+3570,2010,110,Environmental Science
+3571,2011,30,Financial Literacy
+3572,2012,110,Financial Literacy
+3573,2013,150,Global Studies
+3574,2014,30,Emotional Intelligence
+3575,2015,95,Computer Programming
+3576,2016,110,Computer Programming
+3577,2017,165,Media Literacy
+3578,2018,125,Environmental Science
+3579,2019,125,Computer Programming
+3580,2020,115,Media Literacy
+3581,2021,145,Public Speaking
+3582,2022,65,Computer Programming
+3583,2023,135,Financial Literacy
+3584,2010,25,Computer Programming
+3585,2011,150,Computer Programming
+3586,2012,100,Creative Writing
+3587,2013,30,Media Literacy
+3588,2014,120,Public Speaking
+3589,2015,135,Financial Literacy
+3590,2016,45,Media Literacy
+3591,2017,55,Emotional Intelligence
+3592,2018,160,Global Studies
+3593,2019,175,Financial Literacy
+3594,2020,175,Computer Programming
+3595,2021,100,Financial Literacy
+3596,2022,25,Public Speaking
+3597,2023,185,Computer Programming
+3598,2010,140,Philosophy
+3599,2011,65,Environmental Science
+3600,2012,25,Public Speaking
+3601,2013,30,Environmental Science
+3602,2014,60,Entrepreneurship
+3603,2015,65,Public Speaking
+3604,2016,85,Media Literacy
+3605,2017,145,Environmental Science
+3606,2018,175,Financial Literacy
+3607,2019,30,Global Studies
+3608,2020,195,Philosophy
+3609,2021,40,Philosophy
+3610,2022,100,Financial Literacy
+3611,2023,160,Media Literacy
+3612,2010,100,Public Speaking
+3613,2011,195,Environmental Science
+3614,2012,125,Emotional Intelligence
+3615,2013,175,Environmental Science
+3616,2014,75,Creative Writing
+3617,2015,130,Media Literacy
+3618,2016,150,Entrepreneurship
+3619,2017,40,Computer Programming
+3620,2018,65,Environmental Science
+3621,2019,140,Financial Literacy
+3622,2020,130,Entrepreneurship
+3623,2021,110,Environmental Science
+3624,2022,150,Emotional Intelligence
+3625,2023,190,Philosophy
+3626,2010,155,Media Literacy
+3627,2011,160,Creative Writing
+3628,2012,140,Global Studies
+3629,2013,115,Entrepreneurship
+3630,2014,80,Public Speaking
+3631,2015,55,Financial Literacy
+3632,2016,40,Financial Literacy
+3633,2017,185,Emotional Intelligence
+3634,2018,25,Entrepreneurship
+3635,2019,135,Environmental Science
+3636,2020,195,Emotional Intelligence
+3637,2021,155,Philosophy
+3638,2022,95,Entrepreneurship
+3639,2023,115,Computer Programming
+3640,2010,30,Computer Programming
+3641,2011,75,Environmental Science
+3642,2012,110,Global Studies
+3643,2013,165,Financial Literacy
+3644,2014,60,Media Literacy
+3645,2015,130,Emotional Intelligence
+3646,2016,65,Entrepreneurship
+3647,2017,185,Media Literacy
+3648,2018,45,Computer Programming
+3649,2019,135,Financial Literacy
+3650,2020,185,Global Studies
+3651,2021,100,Entrepreneurship
+3652,2022,105,Creative Writing
+3653,2023,150,Computer Programming
+3654,2010,120,Media Literacy
+3655,2011,170,Financial Literacy
+3656,2012,170,Media Literacy
+3657,2013,115,Emotional Intelligence
+3658,2014,60,Philosophy
+3659,2015,95,Computer Programming
+3660,2016,110,Public Speaking
+3661,2017,145,Philosophy
+3662,2018,30,Entrepreneurship
+3663,2019,70,Entrepreneurship
+3664,2020,180,Global Studies
+3665,2021,80,Global Studies
+3666,2022,80,Environmental Science
+3667,2023,35,Media Literacy
+3668,2010,145,Entrepreneurship
+3669,2011,165,Philosophy
+3670,2012,185,Global Studies
+3671,2013,110,Computer Programming
+3672,2014,60,Emotional Intelligence
+3673,2015,185,Media Literacy
+3674,2016,130,Computer Programming
+3675,2017,65,Global Studies
+3676,2018,185,Global Studies
+3677,2019,120,Philosophy
+3678,2020,50,Public Speaking
+3679,2021,130,Creative Writing
+3680,2022,35,Media Literacy
+3681,2023,60,Financial Literacy
+3682,2010,195,Financial Literacy
+3683,2011,40,Creative Writing
+3684,2012,105,Financial Literacy
+3685,2013,105,Public Speaking
+3686,2014,50,Philosophy
+3687,2015,140,Philosophy
+3688,2016,35,Financial Literacy
+3689,2017,115,Philosophy
+3690,2018,185,Financial Literacy
+3691,2019,175,Entrepreneurship
+3692,2020,105,Creative Writing
+3693,2021,115,Global Studies
+3694,2022,115,Computer Programming
+3695,2023,145,Global Studies
+3696,2010,70,Creative Writing
+3697,2011,180,Philosophy
+3698,2012,85,Emotional Intelligence
+3699,2013,110,Philosophy
+3700,2014,175,Computer Programming
+3701,2015,150,Financial Literacy
+3702,2016,195,Computer Programming
+3703,2017,90,Creative Writing
+3704,2018,135,Creative Writing
+3705,2019,185,Public Speaking
+3706,2020,140,Computer Programming
+3707,2021,125,Global Studies
+3708,2022,55,Environmental Science
+3709,2023,120,Financial Literacy
+3710,2010,105,Emotional Intelligence
+3711,2011,30,Emotional Intelligence
+3712,2012,45,Media Literacy
+3713,2013,80,Philosophy
+3714,2014,125,Entrepreneurship
+3715,2015,185,Global Studies
+3716,2016,50,Entrepreneurship
+3717,2017,75,Creative Writing
+3718,2018,70,Media Literacy
+3719,2019,125,Entrepreneurship
+3720,2020,130,Environmental Science
+3721,2021,125,Financial Literacy
+3722,2022,90,Global Studies
+3723,2023,85,Environmental Science
+3724,2010,150,Environmental Science
+3725,2011,70,Environmental Science
+3726,2012,50,Media Literacy
+3727,2013,65,Global Studies
+3728,2014,30,Entrepreneurship
+3729,2015,125,Financial Literacy
+3730,2016,40,Financial Literacy
+3731,2017,50,Entrepreneurship
+3732,2018,90,Financial Literacy
+3733,2019,110,Philosophy
+3734,2020,180,Computer Programming
+3735,2021,30,Media Literacy
+3736,2022,30,Financial Literacy
+3737,2023,55,Computer Programming
+3738,2010,130,Public Speaking
+3739,2011,170,Public Speaking
+3740,2012,140,Environmental Science
+3741,2013,60,Media Literacy
+3742,2014,100,Emotional Intelligence
+3743,2015,130,Computer Programming
+3744,2016,115,Philosophy
+3745,2017,195,Emotional Intelligence
+3746,2018,90,Public Speaking
+3747,2019,110,Financial Literacy
+3748,2020,195,Philosophy
+3749,2021,140,Computer Programming
+3750,2022,55,Environmental Science
+3751,2023,85,Media Literacy
+3752,2010,60,Creative Writing
+3753,2011,125,Global Studies
+3754,2012,135,Philosophy
+3755,2013,160,Financial Literacy
+3756,2014,175,Media Literacy
+3757,2015,65,Computer Programming
+3758,2016,25,Entrepreneurship
+3759,2017,105,Creative Writing
+3760,2018,140,Computer Programming
+3761,2019,190,Media Literacy
+3762,2020,35,Creative Writing
+3763,2021,100,Emotional Intelligence
+3764,2022,40,Financial Literacy
+3765,2023,195,Entrepreneurship
+3766,2010,105,Philosophy
+3767,2011,110,Environmental Science
+3768,2012,150,Media Literacy
+3769,2013,165,Financial Literacy
+3770,2014,35,Global Studies
+3771,2015,80,Financial Literacy
+3772,2016,165,Financial Literacy
+3773,2017,190,Computer Programming
+3774,2018,90,Entrepreneurship
+3775,2019,195,Media Literacy
+3776,2020,135,Media Literacy
+3777,2021,95,Media Literacy
+3778,2022,125,Computer Programming
+3779,2023,65,Financial Literacy
+3780,2010,155,Environmental Science
+3781,2011,65,Public Speaking
+3782,2012,125,Creative Writing
+3783,2013,155,Computer Programming
+3784,2014,135,Financial Literacy
+3785,2015,155,Media Literacy
+3786,2016,175,Financial Literacy
+3787,2017,95,Global Studies
+3788,2018,95,Media Literacy
+3789,2019,140,Media Literacy
+3790,2020,40,Global Studies
+3791,2021,135,Public Speaking
+3792,2022,125,Creative Writing
+3793,2023,40,Global Studies
+3794,2010,140,Global Studies
+3795,2011,140,Environmental Science
+3796,2012,155,Computer Programming
+3797,2013,110,Financial Literacy
+3798,2014,75,Philosophy
+3799,2015,120,Global Studies
+3800,2016,160,Entrepreneurship
+3801,2017,55,Media Literacy
+3802,2018,175,Emotional Intelligence
+3803,2019,165,Media Literacy
+3804,2020,190,Financial Literacy
+3805,2021,95,Entrepreneurship
+3806,2022,80,Creative Writing
+3807,2023,155,Global Studies
+3808,2010,160,Financial Literacy
+3809,2011,40,Emotional Intelligence
+3810,2012,30,Financial Literacy
+3811,2013,190,Environmental Science
+3812,2014,185,Media Literacy
+3813,2015,120,Computer Programming
+3814,2016,85,Media Literacy
+3815,2017,135,Environmental Science
+3816,2018,75,Computer Programming
+3817,2019,65,Computer Programming
+3818,2020,170,Media Literacy
+3819,2021,50,Philosophy
+3820,2022,100,Creative Writing
+3821,2023,130,Entrepreneurship
+3822,2010,130,Financial Literacy
+3823,2011,125,Emotional Intelligence
+3824,2012,65,Media Literacy
+3825,2013,195,Environmental Science
+3826,2014,135,Emotional Intelligence
+3827,2015,80,Environmental Science
+3828,2016,25,Environmental Science
+3829,2017,110,Public Speaking
+3830,2018,145,Computer Programming
+3831,2019,140,Global Studies
+3832,2020,65,Creative Writing
+3833,2021,75,Financial Literacy
+3834,2022,110,Computer Programming
+3835,2023,140,Global Studies
+3836,2010,190,Global Studies
+3837,2011,25,Creative Writing
+3838,2012,175,Computer Programming
+3839,2013,115,Entrepreneurship
+3840,2014,175,Computer Programming
+3841,2015,95,Creative Writing
+3842,2016,115,Computer Programming
+3843,2017,115,Financial Literacy
+3844,2018,40,Entrepreneurship
+3845,2019,185,Financial Literacy
+3846,2020,175,Entrepreneurship
+3847,2021,130,Creative Writing
+3848,2022,175,Environmental Science
+3849,2023,145,Emotional Intelligence
+3850,2010,60,Emotional Intelligence
+3851,2011,50,Financial Literacy
+3852,2012,185,Computer Programming
+3853,2013,150,Media Literacy
+3854,2014,55,Media Literacy
+3855,2015,190,Philosophy
+3856,2016,95,Emotional Intelligence
+3857,2017,175,Media Literacy
+3858,2018,45,Public Speaking
+3859,2019,60,Financial Literacy
+3860,2020,180,Public Speaking
+3861,2021,180,Environmental Science
+3862,2022,120,Public Speaking
+3863,2023,185,Media Literacy
+3864,2010,75,Financial Literacy
+3865,2011,165,Philosophy
+3866,2012,150,Environmental Science
+3867,2013,105,Environmental Science
+3868,2014,85,Computer Programming
+3869,2015,155,Environmental Science
+3870,2016,120,Computer Programming
+3871,2017,40,Emotional Intelligence
+3872,2018,35,Environmental Science
+3873,2019,145,Computer Programming
+3874,2020,175,Computer Programming
+3875,2021,110,Entrepreneurship
+3876,2022,145,Computer Programming
+3877,2023,75,Media Literacy
+3878,2010,180,Emotional Intelligence
+3879,2011,95,Public Speaking
+3880,2012,110,Creative Writing
+3881,2013,190,Entrepreneurship
+3882,2014,95,Public Speaking
+3883,2015,170,Financial Literacy
+3884,2016,40,Media Literacy
+3885,2017,70,Media Literacy
+3886,2018,60,Creative Writing
+3887,2019,135,Creative Writing
+3888,2020,50,Emotional Intelligence
+3889,2021,80,Creative Writing
+3890,2022,80,Computer Programming
+3891,2023,25,Emotional Intelligence
+3892,2010,190,Computer Programming
+3893,2011,180,Philosophy
+3894,2012,165,Public Speaking
+3895,2013,75,Public Speaking
+3896,2014,100,Environmental Science
+3897,2015,185,Entrepreneurship
+3898,2016,145,Global Studies
+3899,2017,70,Entrepreneurship
+3900,2018,145,Financial Literacy
+3901,2019,170,Financial Literacy
+3902,2020,195,Media Literacy
+3903,2021,30,Computer Programming
+3904,2022,75,Creative Writing
+3905,2023,135,Environmental Science
+3906,2010,35,Emotional Intelligence
+3907,2011,115,Financial Literacy
+3908,2012,55,Emotional Intelligence
+3909,2013,145,Computer Programming
+3910,2014,80,Global Studies
+3911,2015,30,Global Studies
+3912,2016,155,Creative Writing
+3913,2017,170,Financial Literacy
+3914,2018,135,Computer Programming
+3915,2019,155,Media Literacy
+3916,2020,95,Environmental Science
+3917,2021,135,Entrepreneurship
+3918,2022,35,Financial Literacy
+3919,2023,135,Environmental Science
+3920,2010,50,Emotional Intelligence
+3921,2011,170,Philosophy
+3922,2012,45,Environmental Science
+3923,2013,60,Financial Literacy
+3924,2014,140,Public Speaking
+3925,2015,190,Public Speaking
+3926,2016,25,Global Studies
+3927,2017,70,Entrepreneurship
+3928,2018,175,Global Studies
+3929,2019,160,Computer Programming
+3930,2020,115,Computer Programming
+3931,2021,170,Emotional Intelligence
+3932,2022,150,Creative Writing
+3933,2023,55,Emotional Intelligence
+3934,2010,65,Media Literacy
+3935,2011,180,Philosophy
+3936,2012,100,Philosophy
+3937,2013,85,Emotional Intelligence
+3938,2014,90,Emotional Intelligence
+3939,2015,175,Creative Writing
+3940,2016,70,Environmental Science
+3941,2017,185,Media Literacy
+3942,2018,50,Computer Programming
+3943,2019,100,Environmental Science
+3944,2020,145,Philosophy
+3945,2021,150,Financial Literacy
+3946,2022,155,Emotional Intelligence
+3947,2023,195,Global Studies
+3948,2010,190,Global Studies
+3949,2011,40,Public Speaking
+3950,2012,195,Creative Writing
+3951,2013,75,Global Studies
+3952,2014,110,Creative Writing
+3953,2015,25,Creative Writing
+3954,2016,75,Emotional Intelligence
+3955,2017,135,Media Literacy
+3956,2018,165,Philosophy
+3957,2019,120,Public Speaking
+3958,2020,30,Entrepreneurship
+3959,2021,30,Entrepreneurship
+3960,2022,60,Public Speaking
+3961,2023,175,Global Studies
+3962,2010,140,Media Literacy
+3963,2011,150,Entrepreneurship
+3964,2012,95,Computer Programming
+3965,2013,195,Public Speaking
+3966,2014,190,Global Studies
+3967,2015,110,Global Studies
+3968,2016,70,Media Literacy
+3969,2017,85,Financial Literacy
+3970,2018,185,Creative Writing
+3971,2019,95,Philosophy
+3972,2020,165,Public Speaking
+3973,2021,105,Media Literacy
+3974,2022,115,Philosophy
+3975,2023,110,Philosophy
+3976,2010,85,Environmental Science
+3977,2011,35,Computer Programming
+3978,2012,70,Media Literacy
+3979,2013,100,Creative Writing
+3980,2014,95,Financial Literacy
+3981,2015,75,Entrepreneurship
+3982,2016,150,Computer Programming
+3983,2017,30,Computer Programming
+3984,2018,135,Emotional Intelligence
+3985,2019,40,Emotional Intelligence
+3986,2020,70,Public Speaking
+3987,2021,105,Public Speaking
+3988,2022,70,Media Literacy
+3989,2023,25,Computer Programming
+3990,2010,165,Environmental Science
+3991,2011,80,Philosophy
+3992,2012,185,Global Studies
+3993,2013,105,Media Literacy
+3994,2014,115,Financial Literacy
+3995,2015,150,Creative Writing
+3996,2016,40,Global Studies
+3997,2017,105,Financial Literacy
+3998,2018,125,Entrepreneurship
+3999,2019,185,Creative Writing
+4000,2020,95,Philosophy
+4001,2021,90,Financial Literacy
+4002,2022,140,Creative Writing
+4003,2023,185,Creative Writing
+4004,2010,135,Global Studies
+4005,2011,115,Media Literacy
+4006,2012,150,Computer Programming
+4007,2013,35,Creative Writing
+4008,2014,120,Creative Writing
+4009,2015,195,Environmental Science
+4010,2016,110,Media Literacy
+4011,2017,35,Global Studies
+4012,2018,130,Media Literacy
+4013,2019,25,Public Speaking
+4014,2020,55,Philosophy
+4015,2021,40,Financial Literacy
+4016,2022,155,Public Speaking
+4017,2023,125,Media Literacy
+4018,2010,70,Financial Literacy
+4019,2011,125,Emotional Intelligence
+4020,2012,45,Environmental Science
+4021,2013,130,Creative Writing
+4022,2014,85,Environmental Science
+4023,2015,120,Environmental Science
+4024,2016,145,Philosophy
+4025,2017,40,Global Studies
+4026,2018,80,Philosophy
+4027,2019,100,Environmental Science
+4028,2020,75,Creative Writing
+4029,2021,90,Computer Programming
+4030,2022,170,Global Studies
+4031,2023,185,Public Speaking
+4032,2010,170,Philosophy
+4033,2011,175,Entrepreneurship
+4034,2012,195,Philosophy
+4035,2013,110,Emotional Intelligence
+4036,2014,55,Media Literacy
+4037,2015,175,Emotional Intelligence
+4038,2016,145,Philosophy
+4039,2017,110,Environmental Science
+4040,2018,185,Public Speaking
+4041,2019,70,Media Literacy
+4042,2020,70,Computer Programming
+4043,2021,105,Computer Programming
+4044,2022,70,Public Speaking
+4045,2023,150,Entrepreneurship
+4046,2010,85,Creative Writing
+4047,2011,35,Computer Programming
+4048,2012,115,Financial Literacy
+4049,2013,55,Entrepreneurship
+4050,2014,60,Computer Programming
+4051,2015,125,Media Literacy
+4052,2016,30,Financial Literacy
+4053,2017,115,Entrepreneurship
+4054,2018,30,Environmental Science
+4055,2019,120,Computer Programming
+4056,2020,75,Philosophy
+4057,2021,110,Emotional Intelligence
+4058,2022,190,Entrepreneurship
+4059,2023,135,Media Literacy
+4060,2010,75,Entrepreneurship
+4061,2011,150,Entrepreneurship
+4062,2012,40,Financial Literacy
+4063,2013,100,Global Studies
+4064,2014,145,Emotional Intelligence
+4065,2015,190,Philosophy
+4066,2016,155,Global Studies
+4067,2017,80,Financial Literacy
+4068,2018,190,Environmental Science
+4069,2019,155,Entrepreneurship
+4070,2020,65,Philosophy
+4071,2021,35,Media Literacy
+4072,2022,165,Media Literacy
+4073,2023,80,Philosophy
+4074,2010,55,Public Speaking
+4075,2011,30,Computer Programming
+4076,2012,45,Environmental Science
+4077,2013,95,Creative Writing
+4078,2014,85,Computer Programming
+4079,2015,170,Environmental Science
+4080,2016,185,Philosophy
+4081,2017,185,Global Studies
+4082,2018,170,Entrepreneurship
+4083,2019,190,Environmental Science
+4084,2020,80,Global Studies
+4085,2021,90,Financial Literacy
+4086,2022,90,Global Studies
+4087,2023,165,Global Studies
+4088,2010,70,Creative Writing
+4089,2011,55,Environmental Science
+4090,2012,65,Creative Writing
+4091,2013,180,Financial Literacy
+4092,2014,190,Philosophy
+4093,2015,90,Global Studies
+4094,2016,125,Philosophy
+4095,2017,70,Creative Writing
+4096,2018,115,Computer Programming
+4097,2019,90,Financial Literacy
+4098,2020,185,Global Studies
+4099,2021,90,Global Studies
+4100,2022,95,Global Studies
+4101,2023,115,Media Literacy
+4102,2010,85,Entrepreneurship
+4103,2011,50,Public Speaking
+4104,2012,60,Creative Writing
+4105,2013,185,Public Speaking
+4106,2014,65,Entrepreneurship
+4107,2015,125,Global Studies
+4108,2016,170,Financial Literacy
+4109,2017,170,Emotional Intelligence
+4110,2018,175,Creative Writing
+4111,2019,70,Philosophy
+4112,2020,185,Creative Writing
+4113,2021,145,Media Literacy
+4114,2022,50,Creative Writing
+4115,2023,85,Entrepreneurship
+4116,2010,80,Environmental Science
+4117,2011,100,Public Speaking
+4118,2012,120,Public Speaking
+4119,2013,35,Computer Programming
+4120,2014,60,Financial Literacy
+4121,2015,90,Financial Literacy
+4122,2016,125,Public Speaking
+4123,2017,120,Global Studies
+4124,2018,185,Environmental Science
+4125,2019,125,Creative Writing
+4126,2020,195,Emotional Intelligence
+4127,2021,55,Philosophy
+4128,2022,155,Entrepreneurship
+4129,2023,180,Public Speaking
+4130,2010,150,Entrepreneurship
+4131,2011,75,Media Literacy
+4132,2012,115,Public Speaking
+4133,2013,60,Emotional Intelligence
+4134,2014,25,Financial Literacy
+4135,2015,30,Entrepreneurship
+4136,2016,40,Entrepreneurship
+4137,2017,85,Creative Writing
+4138,2018,195,Computer Programming
+4139,2019,170,Computer Programming
+4140,2020,120,Philosophy
+4141,2021,25,Entrepreneurship
+4142,2022,120,Global Studies
+4143,2023,115,Computer Programming
+4144,2010,50,Creative Writing
+4145,2011,195,Entrepreneurship
+4146,2012,170,Creative Writing
+4147,2013,25,Entrepreneurship
+4148,2014,150,Environmental Science
+4149,2015,60,Public Speaking
+4150,2016,135,Media Literacy
+4151,2017,35,Public Speaking
+4152,2018,45,Creative Writing
+4153,2019,155,Philosophy
+4154,2020,80,Public Speaking
+4155,2021,70,Entrepreneurship
+4156,2022,55,Philosophy
+4157,2023,60,Entrepreneurship
+4158,2010,110,Entrepreneurship
+4159,2011,35,Public Speaking
+4160,2012,180,Public Speaking
+4161,2013,80,Emotional Intelligence
+4162,2014,185,Media Literacy
+4163,2015,95,Philosophy
+4164,2016,135,Public Speaking
+4165,2017,155,Creative Writing
+4166,2018,110,Global Studies
+4167,2019,190,Computer Programming
+4168,2020,60,Creative Writing
+4169,2021,80,Creative Writing
+4170,2022,25,Environmental Science
+4171,2023,50,Entrepreneurship
+4172,2010,130,Philosophy
+4173,2011,40,Environmental Science
+4174,2012,70,Entrepreneurship
+4175,2013,150,Financial Literacy
+4176,2014,195,Media Literacy
+4177,2015,55,Media Literacy
+4178,2016,40,Philosophy
+4179,2017,40,Global Studies
+4180,2018,125,Media Literacy
+4181,2019,45,Global Studies
+4182,2020,55,Environmental Science
+4183,2021,40,Global Studies
+4184,2022,45,Emotional Intelligence
+4185,2023,110,Global Studies
+4186,2010,190,Entrepreneurship
+4187,2011,95,Public Speaking
+4188,2012,185,Public Speaking
+4189,2013,190,Environmental Science
+4190,2014,65,Global Studies
+4191,2015,170,Emotional Intelligence
+4192,2016,115,Creative Writing
+4193,2017,155,Financial Literacy
+4194,2018,80,Emotional Intelligence
+4195,2019,185,Entrepreneurship
+4196,2020,80,Emotional Intelligence
+4197,2021,130,Entrepreneurship
+4198,2022,30,Computer Programming
+4199,2023,175,Emotional Intelligence
+4200,2010,165,Creative Writing
+4201,2011,155,Entrepreneurship
+4202,2012,75,Financial Literacy
+4203,2013,90,Entrepreneurship
+4204,2014,185,Financial Literacy
+4205,2015,180,Public Speaking
+4206,2016,30,Emotional Intelligence
+4207,2017,100,Financial Literacy
+4208,2018,135,Creative Writing
+4209,2019,110,Public Speaking
+4210,2020,105,Financial Literacy
+4211,2021,80,Global Studies
+4212,2022,70,Philosophy
+4213,2023,90,Public Speaking
+4214,2010,180,Financial Literacy
+4215,2011,170,Financial Literacy
+4216,2012,160,Global Studies
+4217,2013,175,Financial Literacy
+4218,2014,125,Global Studies
+4219,2015,30,Emotional Intelligence
+4220,2016,30,Media Literacy
+4221,2017,55,Emotional Intelligence
+4222,2018,180,Creative Writing
+4223,2019,155,Entrepreneurship
+4224,2020,140,Entrepreneurship
+4225,2021,55,Computer Programming
+4226,2022,160,Entrepreneurship
+4227,2023,185,Philosophy
+4228,2010,55,Public Speaking
+4229,2011,30,Public Speaking
+4230,2012,25,Financial Literacy
+4231,2013,145,Computer Programming
+4232,2014,80,Entrepreneurship
+4233,2015,105,Philosophy
+4234,2016,195,Public Speaking
+4235,2017,175,Public Speaking
+4236,2018,180,Emotional Intelligence
+4237,2019,180,Global Studies
+4238,2020,105,Entrepreneurship
+4239,2021,190,Creative Writing
+4240,2022,165,Computer Programming
+4241,2023,105,Financial Literacy
+4242,2010,50,Environmental Science
+4243,2011,175,Media Literacy
+4244,2012,135,Computer Programming
+4245,2013,195,Computer Programming
+4246,2014,95,Financial Literacy
+4247,2015,35,Philosophy
+4248,2016,70,Public Speaking
+4249,2017,140,Financial Literacy
+4250,2018,180,Creative Writing
+4251,2019,195,Public Speaking
+4252,2020,125,Emotional Intelligence
+4253,2021,100,Computer Programming
+4254,2022,110,Media Literacy
+4255,2023,90,Global Studies
+4256,2010,115,Entrepreneurship
+4257,2011,170,Global Studies
+4258,2012,50,Public Speaking
+4259,2013,65,Global Studies
+4260,2014,70,Creative Writing
+4261,2015,115,Creative Writing
+4262,2016,95,Public Speaking
+4263,2017,120,Media Literacy
+4264,2018,105,Entrepreneurship
+4265,2019,55,Environmental Science
+4266,2020,45,Environmental Science
+4267,2021,130,Environmental Science
+4268,2022,105,Creative Writing
+4269,2023,135,Computer Programming
+4270,2010,170,Public Speaking
+4271,2011,25,Entrepreneurship
+4272,2012,120,Philosophy
+4273,2013,60,Computer Programming
+4274,2014,35,Philosophy
+4275,2015,65,Financial Literacy
+4276,2016,70,Public Speaking
+4277,2017,60,Environmental Science
+4278,2018,170,Public Speaking
+4279,2019,115,Computer Programming
+4280,2020,90,Creative Writing
+4281,2021,130,Media Literacy
+4282,2022,100,Philosophy
+4283,2023,165,Environmental Science
+4284,2010,165,Financial Literacy
+4285,2011,60,Philosophy
+4286,2012,135,Media Literacy
+4287,2013,140,Entrepreneurship
+4288,2014,180,Environmental Science
+4289,2015,55,Philosophy
+4290,2016,45,Philosophy
+4291,2017,65,Global Studies
+4292,2018,165,Emotional Intelligence
+4293,2019,150,Financial Literacy
+4294,2020,150,Philosophy
+4295,2021,45,Financial Literacy
+4296,2022,40,Media Literacy
+4297,2023,180,Financial Literacy
+4298,2010,60,Philosophy
+4299,2011,155,Computer Programming
+4300,2012,85,Computer Programming
+4301,2013,190,Global Studies
+4302,2014,140,Philosophy
+4303,2015,195,Environmental Science
+4304,2016,80,Environmental Science
+4305,2017,45,Philosophy
+4306,2018,135,Creative Writing
+4307,2019,170,Financial Literacy
+4308,2020,115,Environmental Science
+4309,2021,85,Global Studies
+4310,2022,165,Creative Writing
+4311,2023,25,Environmental Science
+4312,2010,110,Computer Programming
+4313,2011,180,Creative Writing
+4314,2012,115,Financial Literacy
+4315,2013,45,Global Studies
+4316,2014,45,Philosophy
+4317,2015,115,Computer Programming
+4318,2016,145,Creative Writing
+4319,2017,195,Financial Literacy
+4320,2018,135,Creative Writing
+4321,2019,135,Emotional Intelligence
+4322,2020,155,Creative Writing
+4323,2021,140,Public Speaking
+4324,2022,25,Media Literacy
+4325,2023,90,Environmental Science
+4326,2010,180,Computer Programming
+4327,2011,30,Global Studies
+4328,2012,165,Public Speaking
+4329,2013,155,Public Speaking
+4330,2014,185,Environmental Science
+4331,2015,130,Creative Writing
+4332,2016,60,Environmental Science
+4333,2017,70,Global Studies
+4334,2018,80,Global Studies
+4335,2019,100,Public Speaking
+4336,2020,90,Media Literacy
+4337,2021,50,Emotional Intelligence
+4338,2022,125,Global Studies
+4339,2023,185,Media Literacy
+4340,2010,50,Creative Writing
+4341,2011,25,Global Studies
+4342,2012,105,Entrepreneurship
+4343,2013,40,Philosophy
+4344,2014,105,Creative Writing
+4345,2015,75,Global Studies
+4346,2016,155,Media Literacy
+4347,2017,80,Philosophy
+4348,2018,75,Creative Writing
+4349,2019,25,Public Speaking
+4350,2020,25,Computer Programming
+4351,2021,55,Public Speaking
+4352,2022,95,Media Literacy
+4353,2023,150,Financial Literacy
+4354,2010,100,Financial Literacy
+4355,2011,60,Media Literacy
+4356,2012,110,Emotional Intelligence
+4357,2013,120,Public Speaking
+4358,2014,45,Public Speaking
+4359,2015,105,Creative Writing
+4360,2016,80,Global Studies
+4361,2017,40,Financial Literacy
+4362,2018,45,Media Literacy
+4363,2019,140,Emotional Intelligence
+4364,2020,130,Environmental Science
+4365,2021,155,Emotional Intelligence
+4366,2022,70,Emotional Intelligence
+4367,2023,180,Entrepreneurship
+4368,2010,25,Philosophy
+4369,2011,190,Computer Programming
+4370,2012,100,Computer Programming
+4371,2013,80,Entrepreneurship
+4372,2014,170,Media Literacy
+4373,2015,25,Creative Writing
+4374,2016,110,Financial Literacy
+4375,2017,190,Public Speaking
+4376,2018,75,Global Studies
+4377,2019,150,Creative Writing
+4378,2020,155,Creative Writing
+4379,2021,95,Financial Literacy
+4380,2022,115,Creative Writing
+4381,2023,180,Entrepreneurship
+4382,2010,130,Entrepreneurship
+4383,2011,25,Creative Writing
+4384,2012,60,Public Speaking
+4385,2013,195,Emotional Intelligence
+4386,2014,100,Media Literacy
+4387,2015,125,Media Literacy
+4388,2016,50,Entrepreneurship
+4389,2017,35,Philosophy
+4390,2018,115,Computer Programming
+4391,2019,60,Philosophy
+4392,2020,25,Global Studies
+4393,2021,135,Financial Literacy
+4394,2022,95,Creative Writing
+4395,2023,180,Global Studies
+4396,2010,135,Entrepreneurship
+4397,2011,185,Environmental Science
+4398,2012,30,Emotional Intelligence
+4399,2013,40,Computer Programming
+4400,2014,120,Creative Writing
+4401,2015,105,Emotional Intelligence
+4402,2016,180,Media Literacy
+4403,2017,185,Philosophy
+4404,2018,150,Creative Writing
+4405,2019,130,Financial Literacy
+4406,2020,145,Computer Programming
+4407,2021,195,Financial Literacy
+4408,2022,130,Emotional Intelligence
+4409,2023,125,Media Literacy
+4410,2010,70,Global Studies
+4411,2011,105,Entrepreneurship
+4412,2012,145,Environmental Science
+4413,2013,115,Entrepreneurship
+4414,2014,90,Environmental Science
+4415,2015,160,Global Studies
+4416,2016,145,Public Speaking
+4417,2017,170,Creative Writing
+4418,2018,120,Financial Literacy
+4419,2019,170,Emotional Intelligence
+4420,2020,100,Philosophy
+4421,2021,185,Environmental Science
+4422,2022,155,Environmental Science
+4423,2023,140,Media Literacy
+4424,2010,35,Computer Programming
+4425,2011,105,Philosophy
+4426,2012,195,Emotional Intelligence
+4427,2013,105,Public Speaking
+4428,2014,75,Creative Writing
+4429,2015,40,Entrepreneurship
+4430,2016,110,Global Studies
+4431,2017,60,Entrepreneurship
+4432,2018,185,Entrepreneurship
+4433,2019,180,Computer Programming
+4434,2020,140,Computer Programming
+4435,2021,35,Emotional Intelligence
+4436,2022,190,Financial Literacy
+4437,2023,140,Computer Programming
+4438,2010,170,Environmental Science
+4439,2011,80,Financial Literacy
+4440,2012,105,Computer Programming
+4441,2013,135,Public Speaking
+4442,2014,160,Emotional Intelligence
+4443,2015,190,Media Literacy
+4444,2016,185,Public Speaking
+4445,2017,80,Philosophy
+4446,2018,150,Public Speaking
+4447,2019,40,Entrepreneurship
+4448,2020,105,Environmental Science
+4449,2021,40,Computer Programming
+4450,2022,85,Media Literacy
+4451,2023,35,Emotional Intelligence
+4452,2010,75,Environmental Science
+4453,2011,65,Financial Literacy
+4454,2012,25,Public Speaking
+4455,2013,180,Computer Programming
+4456,2014,100,Environmental Science
+4457,2015,80,Computer Programming
+4458,2016,55,Global Studies
+4459,2017,75,Computer Programming
+4460,2018,95,Philosophy
+4461,2019,170,Financial Literacy
+4462,2020,170,Global Studies
+4463,2021,185,Global Studies
+4464,2022,100,Public Speaking
+4465,2023,155,Emotional Intelligence
+4466,2010,140,Financial Literacy
+4467,2011,65,Entrepreneurship
+4468,2012,125,Creative Writing
+4469,2013,50,Global Studies
+4470,2014,145,Creative Writing
+4471,2015,180,Creative Writing
+4472,2016,130,Philosophy
+4473,2017,105,Computer Programming
+4474,2018,50,Financial Literacy
+4475,2019,55,Emotional Intelligence
+4476,2020,115,Environmental Science
+4477,2021,120,Entrepreneurship
+4478,2022,125,Environmental Science
+4479,2023,30,Emotional Intelligence
+4480,2010,165,Environmental Science
+4481,2011,130,Public Speaking
+4482,2012,45,Computer Programming
+4483,2013,165,Global Studies
+4484,2014,120,Public Speaking
+4485,2015,90,Financial Literacy
+4486,2016,125,Environmental Science
+4487,2017,105,Entrepreneurship
+4488,2018,110,Entrepreneurship
+4489,2019,110,Financial Literacy
+4490,2020,50,Philosophy
+4491,2021,165,Entrepreneurship
+4492,2022,50,Global Studies
+4493,2023,65,Global Studies
+4494,2010,185,Global Studies
+4495,2011,60,Financial Literacy
+4496,2012,95,Emotional Intelligence
+4497,2013,85,Global Studies
+4498,2014,65,Global Studies
+4499,2015,45,Financial Literacy
+4500,2016,165,Computer Programming
+4501,2017,80,Philosophy
+4502,2018,135,Global Studies
+4503,2019,125,Financial Literacy
+4504,2020,130,Public Speaking
+4505,2021,185,Philosophy
+4506,2022,195,Computer Programming
+4507,2023,40,Computer Programming
+4508,2010,65,Philosophy
+4509,2011,180,Computer Programming
+4510,2012,170,Philosophy
+4511,2013,155,Public Speaking
+4512,2014,70,Computer Programming
+4513,2015,25,Financial Literacy
+4514,2016,190,Computer Programming
+4515,2017,95,Philosophy
+4516,2018,135,Media Literacy
+4517,2019,85,Environmental Science
+4518,2020,40,Media Literacy
+4519,2021,110,Computer Programming
+4520,2022,55,Financial Literacy
+4521,2023,175,Emotional Intelligence
+4522,2010,85,Environmental Science
+4523,2011,145,Public Speaking
+4524,2012,125,Media Literacy
+4525,2013,195,Creative Writing
+4526,2014,195,Global Studies
+4527,2015,50,Financial Literacy
+4528,2016,175,Global Studies
+4529,2017,100,Computer Programming
+4530,2018,105,Public Speaking
+4531,2019,115,Global Studies
+4532,2020,140,Entrepreneurship
+4533,2021,90,Media Literacy
+4534,2022,165,Computer Programming
+4535,2023,170,Philosophy
+4536,2010,80,Environmental Science
+4537,2011,170,Financial Literacy
+4538,2012,65,Media Literacy
+4539,2013,30,Creative Writing
+4540,2014,100,Philosophy
+4541,2015,75,Public Speaking
+4542,2016,135,Computer Programming
+4543,2017,165,Public Speaking
+4544,2018,45,Emotional Intelligence
+4545,2019,65,Creative Writing
+4546,2020,55,Media Literacy
+4547,2021,90,Emotional Intelligence
+4548,2022,60,Financial Literacy
+4549,2023,190,Global Studies
+4550,2010,95,Global Studies
+4551,2011,155,Creative Writing
+4552,2012,35,Financial Literacy
+4553,2013,30,Global Studies
+4554,2014,60,Creative Writing
+4555,2015,70,Public Speaking
+4556,2016,170,Financial Literacy
+4557,2017,65,Philosophy
+4558,2018,95,Financial Literacy
+4559,2019,140,Public Speaking
+4560,2020,105,Financial Literacy
+4561,2021,190,Philosophy
+4562,2022,35,Creative Writing
+4563,2023,130,Public Speaking
+4564,2010,145,Media Literacy
+4565,2011,55,Creative Writing
+4566,2012,25,Emotional Intelligence
+4567,2013,35,Global Studies
+4568,2014,190,Financial Literacy
+4569,2015,95,Entrepreneurship
+4570,2016,65,Media Literacy
+4571,2017,30,Public Speaking
+4572,2018,100,Creative Writing
+4573,2019,80,Entrepreneurship
+4574,2020,120,Computer Programming
+4575,2021,155,Computer Programming
+4576,2022,30,Creative Writing
+4577,2023,105,Entrepreneurship
+4578,2010,45,Environmental Science
+4579,2011,155,Emotional Intelligence
+4580,2012,135,Philosophy
+4581,2013,150,Creative Writing
+4582,2014,65,Public Speaking
+4583,2015,120,Financial Literacy
+4584,2016,25,Computer Programming
+4585,2017,160,Philosophy
+4586,2018,130,Philosophy
+4587,2019,170,Computer Programming
+4588,2020,125,Global Studies
+4589,2021,155,Creative Writing
+4590,2022,115,Environmental Science
+4591,2023,120,Global Studies
+4592,2010,145,Computer Programming
+4593,2011,80,Public Speaking
+4594,2012,115,Financial Literacy
+4595,2013,155,Environmental Science
+4596,2014,70,Emotional Intelligence
+4597,2015,180,Financial Literacy
+4598,2016,55,Computer Programming
+4599,2017,115,Computer Programming
+4600,2018,50,Financial Literacy
+4601,2019,170,Emotional Intelligence
+4602,2020,40,Emotional Intelligence
+4603,2021,180,Global Studies
+4604,2022,55,Global Studies
+4605,2023,115,Public Speaking
+4606,2010,185,Media Literacy
+4607,2011,195,Media Literacy
+4608,2012,70,Philosophy
+4609,2013,190,Financial Literacy
+4610,2014,50,Emotional Intelligence
+4611,2015,30,Environmental Science
+4612,2016,140,Environmental Science
+4613,2017,135,Public Speaking
+4614,2018,95,Financial Literacy
+4615,2019,135,Global Studies
+4616,2020,50,Public Speaking
+4617,2021,165,Entrepreneurship
+4618,2022,80,Environmental Science
+4619,2023,185,Creative Writing
+4620,2010,165,Global Studies
+4621,2011,35,Entrepreneurship
+4622,2012,140,Entrepreneurship
+4623,2013,195,Environmental Science
+4624,2014,105,Creative Writing
+4625,2015,95,Media Literacy
+4626,2016,185,Financial Literacy
+4627,2017,185,Creative Writing
+4628,2018,120,Philosophy
+4629,2019,180,Global Studies
+4630,2020,165,Environmental Science
+4631,2021,145,Financial Literacy
+4632,2022,130,Philosophy
+4633,2023,45,Environmental Science
+4634,2010,35,Computer Programming
+4635,2011,170,Financial Literacy
+4636,2012,100,Emotional Intelligence
+4637,2013,115,Environmental Science
+4638,2014,155,Entrepreneurship
+4639,2015,125,Environmental Science
+4640,2016,160,Emotional Intelligence
+4641,2017,60,Public Speaking
+4642,2018,55,Media Literacy
+4643,2019,50,Emotional Intelligence
+4644,2020,55,Media Literacy
+4645,2021,25,Computer Programming
+4646,2022,110,Computer Programming
+4647,2023,130,Computer Programming
+4648,2010,115,Emotional Intelligence
+4649,2011,160,Philosophy
+4650,2012,130,Creative Writing
+4651,2013,120,Creative Writing
+4652,2014,170,Philosophy
+4653,2015,25,Financial Literacy
+4654,2016,50,Philosophy
+4655,2017,95,Emotional Intelligence
+4656,2018,130,Media Literacy
+4657,2019,155,Environmental Science
+4658,2020,100,Creative Writing
+4659,2021,45,Philosophy
+4660,2022,145,Philosophy
+4661,2023,145,Financial Literacy
+4662,2010,45,Creative Writing
+4663,2011,130,Public Speaking
+4664,2012,95,Public Speaking
+4665,2013,30,Environmental Science
+4666,2014,50,Global Studies
+4667,2015,35,Environmental Science
+4668,2016,100,Entrepreneurship
+4669,2017,70,Public Speaking
+4670,2018,40,Computer Programming
+4671,2019,195,Philosophy
+4672,2020,30,Financial Literacy
+4673,2021,115,Financial Literacy
+4674,2022,45,Emotional Intelligence
+4675,2023,25,Philosophy
+4676,2010,90,Entrepreneurship
+4677,2011,25,Computer Programming
+4678,2012,175,Public Speaking
+4679,2013,160,Emotional Intelligence
+4680,2014,130,Creative Writing
+4681,2015,140,Media Literacy
+4682,2016,185,Computer Programming
+4683,2017,135,Environmental Science
+4684,2018,55,Computer Programming
+4685,2019,110,Creative Writing
+4686,2020,40,Global Studies
+4687,2021,165,Philosophy
+4688,2022,80,Public Speaking
+4689,2023,95,Financial Literacy
+4690,2010,45,Environmental Science
+4691,2011,30,Emotional Intelligence
+4692,2012,40,Financial Literacy
+4693,2013,25,Philosophy
+4694,2014,110,Media Literacy
+4695,2015,140,Environmental Science
+4696,2016,115,Environmental Science
+4697,2017,80,Public Speaking
+4698,2018,170,Public Speaking
+4699,2019,65,Entrepreneurship
+4700,2020,35,Environmental Science
+4701,2021,55,Financial Literacy
+4702,2022,100,Media Literacy
+4703,2023,30,Emotional Intelligence
+4704,2010,80,Financial Literacy
+4705,2011,100,Computer Programming
+4706,2012,95,Computer Programming
+4707,2013,70,Philosophy
+4708,2014,75,Creative Writing
+4709,2015,165,Media Literacy
+4710,2016,185,Public Speaking
+4711,2017,35,Media Literacy
+4712,2018,60,Global Studies
+4713,2019,185,Financial Literacy
+4714,2020,110,Public Speaking
+4715,2021,40,Computer Programming
+4716,2022,40,Emotional Intelligence
+4717,2023,120,Global Studies
+4718,2010,170,Entrepreneurship
+4719,2011,130,Environmental Science
+4720,2012,125,Media Literacy
+4721,2013,135,Computer Programming
+4722,2014,80,Financial Literacy
+4723,2015,35,Media Literacy
+4724,2016,180,Public Speaking
+4725,2017,55,Creative Writing
+4726,2018,110,Emotional Intelligence
+4727,2019,175,Global Studies
+4728,2020,190,Global Studies
+4729,2021,55,Entrepreneurship
+4730,2022,120,Global Studies
+4731,2023,35,Media Literacy
+4732,2010,120,Computer Programming
+4733,2011,70,Creative Writing
+4734,2012,35,Emotional Intelligence
+4735,2013,85,Philosophy
+4736,2014,155,Emotional Intelligence
+4737,2015,55,Creative Writing
+4738,2016,70,Public Speaking
+4739,2017,135,Entrepreneurship
+4740,2018,35,Media Literacy
+4741,2019,75,Public Speaking
+4742,2020,135,Media Literacy
+4743,2021,160,Computer Programming
+4744,2022,90,Environmental Science
+4745,2023,190,Entrepreneurship
+4746,2010,100,Philosophy
+4747,2011,55,Environmental Science
+4748,2012,170,Media Literacy
+4749,2013,190,Public Speaking
+4750,2014,85,Philosophy
+4751,2015,115,Creative Writing
+4752,2016,130,Emotional Intelligence
+4753,2017,135,Computer Programming
+4754,2018,175,Entrepreneurship
+4755,2019,125,Financial Literacy
+4756,2020,100,Financial Literacy
+4757,2021,135,Computer Programming
+4758,2022,95,Computer Programming
+4759,2023,195,Public Speaking
+4760,2010,40,Global Studies
+4761,2011,75,Environmental Science
+4762,2012,80,Entrepreneurship
+4763,2013,135,Environmental Science
+4764,2014,65,Environmental Science
+4765,2015,50,Entrepreneurship
+4766,2016,150,Computer Programming
+4767,2017,120,Creative Writing
+4768,2018,25,Philosophy
+4769,2019,195,Financial Literacy
+4770,2020,65,Philosophy
+4771,2021,175,Public Speaking
+4772,2022,55,Creative Writing
+4773,2023,95,Entrepreneurship
+4774,2010,105,Media Literacy
+4775,2011,85,Emotional Intelligence
+4776,2012,40,Financial Literacy
+4777,2013,160,Global Studies
+4778,2014,180,Philosophy
+4779,2015,140,Environmental Science
+4780,2016,85,Computer Programming
+4781,2017,75,Emotional Intelligence
+4782,2018,135,Philosophy
+4783,2019,110,Financial Literacy
+4784,2020,180,Creative Writing
+4785,2021,90,Financial Literacy
+4786,2022,40,Emotional Intelligence
+4787,2023,60,Entrepreneurship
+4788,2010,25,Media Literacy
+4789,2011,40,Philosophy
+4790,2012,120,Media Literacy
+4791,2013,160,Philosophy
+4792,2014,115,Entrepreneurship
+4793,2015,30,Public Speaking
+4794,2016,100,Computer Programming
+4795,2017,185,Emotional Intelligence
+4796,2018,40,Global Studies
+4797,2019,55,Entrepreneurship
+4798,2020,100,Global Studies
+4799,2021,175,Philosophy
+4800,2022,135,Public Speaking
+4801,2023,25,Media Literacy
+4802,2010,75,Philosophy
+4803,2011,100,Financial Literacy
+4804,2012,130,Creative Writing
+4805,2013,55,Environmental Science
+4806,2014,150,Emotional Intelligence
+4807,2015,125,Public Speaking
+4808,2016,185,Public Speaking
+4809,2017,115,Creative Writing
+4810,2018,80,Entrepreneurship
+4811,2019,75,Media Literacy
+4812,2020,155,Global Studies
+4813,2021,180,Environmental Science
+4814,2022,130,Global Studies
+4815,2023,150,Global Studies
+4816,2010,195,Entrepreneurship
+4817,2011,25,Financial Literacy
+4818,2012,65,Computer Programming
+4819,2013,180,Entrepreneurship
+4820,2014,110,Global Studies
+4821,2015,175,Computer Programming
+4822,2016,40,Computer Programming
+4823,2017,150,Media Literacy
+4824,2018,185,Entrepreneurship
+4825,2019,120,Public Speaking
+4826,2020,185,Creative Writing
+4827,2021,190,Financial Literacy
+4828,2022,105,Public Speaking
+4829,2023,45,Media Literacy
+4830,2010,140,Philosophy
+4831,2011,160,Media Literacy
+4832,2012,60,Creative Writing
+4833,2013,125,Global Studies
+4834,2014,105,Computer Programming
+4835,2015,40,Media Literacy
+4836,2016,70,Philosophy
+4837,2017,65,Philosophy
+4838,2018,40,Creative Writing
+4839,2019,90,Environmental Science
+4840,2020,45,Creative Writing
+4841,2021,50,Media Literacy
+4842,2022,195,Philosophy
+4843,2023,70,Environmental Science
+4844,2010,115,Creative Writing
+4845,2011,175,Entrepreneurship
+4846,2012,45,Computer Programming
+4847,2013,180,Entrepreneurship
+4848,2014,45,Financial Literacy
+4849,2015,25,Emotional Intelligence
+4850,2016,95,Global Studies
+4851,2017,165,Financial Literacy
+4852,2018,185,Emotional Intelligence
+4853,2019,40,Philosophy
+4854,2020,100,Philosophy
+4855,2021,155,Creative Writing
+4856,2022,195,Computer Programming
+4857,2023,130,Philosophy
+4858,2010,120,Global Studies
+4859,2011,115,Environmental Science
+4860,2012,30,Media Literacy
+4861,2013,70,Financial Literacy
+4862,2014,125,Global Studies
+4863,2015,120,Computer Programming
+4864,2016,95,Emotional Intelligence
+4865,2017,175,Creative Writing
+4866,2018,120,Global Studies
+4867,2019,150,Computer Programming
+4868,2020,25,Computer Programming
+4869,2021,175,Environmental Science
+4870,2022,125,Philosophy
+4871,2023,65,Philosophy
+4872,2010,35,Creative Writing
+4873,2011,55,Environmental Science
+4874,2012,170,Creative Writing
+4875,2013,155,Public Speaking
+4876,2014,190,Creative Writing
+4877,2015,150,Emotional Intelligence
+4878,2016,80,Entrepreneurship
+4879,2017,105,Environmental Science
+4880,2018,130,Philosophy
+4881,2019,135,Entrepreneurship
+4882,2020,155,Media Literacy
+4883,2021,90,Creative Writing
+4884,2022,165,Computer Programming
+4885,2023,25,Emotional Intelligence
+4886,2010,110,Computer Programming
+4887,2011,185,Media Literacy
+4888,2012,120,Philosophy
+4889,2013,70,Computer Programming
+4890,2014,80,Philosophy
+4891,2015,160,Creative Writing
+4892,2016,135,Environmental Science
+4893,2017,50,Public Speaking
+4894,2018,35,Environmental Science
+4895,2019,190,Media Literacy
+4896,2020,75,Global Studies
+4897,2021,185,Global Studies
+4898,2022,120,Philosophy
+4899,2023,195,Philosophy
+4900,2010,60,Emotional Intelligence
+4901,2011,55,Emotional Intelligence
+4902,2012,110,Public Speaking
+4903,2013,160,Environmental Science
+4904,2014,195,Creative Writing
+4905,2015,175,Entrepreneurship
+4906,2016,65,Global Studies
+4907,2017,80,Global Studies
+4908,2018,65,Entrepreneurship
+4909,2019,180,Creative Writing
+4910,2020,150,Public Speaking
+4911,2021,120,Entrepreneurship
+4912,2022,60,Philosophy
+4913,2023,140,Entrepreneurship
+4914,2010,160,Philosophy
+4915,2011,170,Environmental Science
+4916,2012,90,Media Literacy
+4917,2013,70,Environmental Science
+4918,2014,125,Creative Writing
+4919,2015,195,Entrepreneurship
+4920,2016,75,Creative Writing
+4921,2017,110,Global Studies
+4922,2018,65,Creative Writing
+4923,2019,160,Global Studies
+4924,2020,40,Financial Literacy
+4925,2021,180,Computer Programming
+4926,2022,100,Philosophy
+4927,2023,65,Computer Programming
+4928,2010,95,Global Studies
+4929,2011,185,Media Literacy
+4930,2012,175,Media Literacy
+4931,2013,25,Global Studies
+4932,2014,130,Computer Programming
+4933,2015,85,Environmental Science
+4934,2016,35,Computer Programming
+4935,2017,155,Creative Writing
+4936,2018,25,Financial Literacy
+4937,2019,25,Entrepreneurship
+4938,2020,135,Philosophy
+4939,2021,120,Philosophy
+4940,2022,90,Computer Programming
+4941,2023,95,Global Studies
+4942,2010,120,Public Speaking
+4943,2011,125,Media Literacy
+4944,2012,165,Public Speaking
+4945,2013,165,Global Studies
+4946,2014,130,Media Literacy
+4947,2015,60,Financial Literacy
+4948,2016,90,Philosophy
+4949,2017,115,Philosophy
+4950,2018,70,Entrepreneurship
+4951,2019,135,Philosophy
+4952,2020,130,Environmental Science
+4953,2021,45,Computer Programming
+4954,2022,70,Creative Writing
+4955,2023,100,Creative Writing
+4956,2010,140,Public Speaking
+4957,2011,120,Emotional Intelligence
+4958,2012,85,Global Studies
+4959,2013,155,Creative Writing
+4960,2014,125,Entrepreneurship
+4961,2015,120,Media Literacy
+4962,2016,135,Creative Writing
+4963,2017,135,Emotional Intelligence
+4964,2018,125,Creative Writing
+4965,2019,100,Financial Literacy
+4966,2020,175,Media Literacy
+4967,2021,90,Environmental Science
+4968,2022,175,Emotional Intelligence
+4969,2023,150,Environmental Science
+4970,2010,70,Emotional Intelligence
+4971,2011,90,Public Speaking
+4972,2012,75,Media Literacy
+4973,2013,125,Computer Programming
+4974,2014,145,Emotional Intelligence
+4975,2015,160,Media Literacy
+4976,2016,150,Environmental Science
+4977,2017,120,Computer Programming
+4978,2018,155,Financial Literacy
+4979,2019,95,Financial Literacy
+4980,2020,170,Emotional Intelligence
+4981,2021,30,Entrepreneurship
+4982,2022,80,Financial Literacy
+4983,2023,150,Philosophy
+4984,2010,70,Public Speaking
+4985,2011,165,Emotional Intelligence
+4986,2012,50,Global Studies
+4987,2013,85,Environmental Science
+4988,2014,65,Media Literacy
+4989,2015,160,Financial Literacy
+4990,2016,40,Media Literacy
+4991,2017,100,Philosophy
+4992,2018,135,Philosophy
+4993,2019,95,Financial Literacy
+4994,2020,35,Global Studies
+4995,2021,190,Emotional Intelligence
+4996,2022,135,Philosophy
+4997,2023,85,Global Studies
+4998,2010,95,Global Studies
+4999,2011,95,Creative Writing
