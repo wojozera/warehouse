@@ -3,6 +3,7 @@ import random
 import datetime
 from faker import Faker
 from unidecode import unidecode
+import pycountry
 import xlsxwriter
 
 PARENT_NUMBER = 50000
@@ -198,11 +199,162 @@ def generating_groups():
 
 def generating_facility():
     fake = Faker()
-    with open("facilitydata.csv", "w", newline="") as f:
+    colors = [
+        "AliceBlue",
+        "AntiqueWhite",
+        "Aqua",
+        "Aquamarine",
+        "Azure",
+        "Beige",
+        "Bisque",
+        "Black",
+        "BlanchedAlmond",
+        "Blue",
+        "BlueViolet",
+        "Brown",
+        "BurlyWood",
+        "CadetBlue",
+        "Chartreuse",
+        "Chocolate",
+        "Coral",
+        "CornflowerBlue",
+        "Cornsilk",
+        "Crimson",
+        "Cyan",
+        "DarkBlue",
+        "DarkCyan",
+        "DarkGoldenRod",
+        "DarkGray",
+        "DarkGrey",
+        "DarkGreen",
+        "DarkKhaki",
+        "DarkMagenta",
+        "DarkOliveGreen",
+        "DarkOrange",
+        "DarkOrchid",
+        "DarkRed",
+        "DarkSalmon",
+        "DarkSeaGreen",
+        "DarkSlateBlue",
+        "DarkSlateGray",
+        "DarkSlateGrey",
+        "DarkTurquoise",
+        "DarkViolet",
+        "DeepPink",
+        "DeepSkyBlue",
+        "DimGray",
+        "DimGrey",
+        "DodgerBlue",
+        "FireBrick",
+        "FloralWhite",
+        "ForestGreen",
+        "Fuchsia",
+        "Gainsboro",
+        "GhostWhite",
+        "Gold",
+        "GoldenRod",
+        "Gray",
+        "Grey",
+        "Green",
+        "GreenYellow",
+        "HoneyDew",
+        "HotPink",
+        "IndianRed",
+        "Indigo",
+        "Ivory",
+        "Khaki",
+        "Lavender",
+        "LavenderBlush",
+        "LawnGreen",
+        "LemonChiffon",
+        "LightBlue",
+        "LightCoral",
+        "LightCyan",
+        "LightGoldenRodYellow",
+        "LightGray",
+        "LightGrey",
+        "LightGreen",
+        "LightPink",
+        "LightSalmon",
+        "LightSeaGreen",
+        "LightSkyBlue",
+        "LightSlateGray",
+        "LightSlateGrey",
+        "LightSteelBlue",
+        "LightYellow",
+        "Lime",
+        "LimeGreen",
+        "Linen",
+        "Magenta",
+        "Maroon",
+        "MediumAquaMarine",
+        "MediumBlue",
+        "MediumOrchid",
+        "MediumPurple",
+        "MediumSeaGreen",
+        "MediumSlateBlue",
+        "MediumSpringGreen",
+        "MediumTurquoise",
+        "MediumVioletRed",
+        "MidnightBlue",
+        "MintCream",
+        "MistyRose",
+        "Moccasin",
+        "NavajoWhite",
+        "Navy",
+        "OldLace",
+        "Olive",
+        "OliveDrab",
+        "Orange",
+        "OrangeRed",
+        "Orchid",
+        "PaleGoldenRod",
+        "PaleGreen",
+        "PaleTurquoise",
+        "PaleVioletRed",
+        "PapayaWhip",
+        "PeachPuff",
+        "Peru",
+        "Pink",
+        "Plum",
+        "PowderBlue",
+        "Purple",
+        "Red",
+        "RosyBrown",
+        "RoyalBlue",
+        "SaddleBrown",
+        "Salmon",
+        "SandyBrown",
+        "SeaGreen",
+        "SeaShell",
+        "Sienna",
+        "Silver",
+        "SkyBlue",
+        "SlateBlue",
+        "SlateGray",
+        "SlateGrey",
+        "Snow",
+        "SpringGreen",
+        "SteelBlue",
+        "Tan",
+        "Teal",
+        "Thistle",
+        "Tomato",
+        "Turquoise",
+        "Violet",
+        "Wheat",
+        "White",
+        "WhiteSmoke",
+        "Yellow",
+        "YellowGreen"]
+    with open("facilitydata.csv", "w", newline="",  encoding="utf-8") as f:
         writer = csv.writer(f)
         row = []
+        color_id = 0;
         for i in range(FACILITY_NUMBER):
             row.append(i)
+            row.append(str(colors[color_id]) + " " + str(list(pycountry.countries)[int(i/100)].name))
+            print(str(colors[color_id]) + " " + str(list(pycountry.countries)[int(i/248)].name))
             row.append(random.randrange(500)+100)
             opening_date = fake.date_between_dates(date_start=datetime.date(2005, 1, 1), date_end=datetime.date(2010, 1, 1))
             row.append(str(opening_date))
@@ -210,8 +362,13 @@ def generating_facility():
             row.append(str(closing_date))
             row.append(random.randrange(ADDRESS_NUMBER - i))
             writer.writerow(row)
-
             row = []
+            color_id +=1
+            if color_id == 100:
+                color_id = 0
+
+
+
 
 
 def generating_child():
@@ -402,7 +559,7 @@ if __name__ == '__main__':
     #generating_parent()
     #generating_address()
     #generating_groups()
-    #generating_facility()
+    generating_facility()
 
 
     #generating_child()
@@ -410,10 +567,9 @@ if __name__ == '__main__':
     #generating_application()
 
 
-
     #generating_contract()
 
     #generating_chooses()
 
-    excel()
+    #excel()
 
