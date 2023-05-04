@@ -1,20 +1,22 @@
 CREATE TABLE DIM_additional_lesson (
   lessonID int PRIMARY KEY,
-  start_year date,
+  start_year int,
   name varchar(35)
 );
+
 
 CREATE TABLE DIM_groups (
   groupID int PRIMARY KEY,
   age varchar(8),
   name varchar(25),
-  year_no date,
+  year_no varchar(10),
   size varchar(6)
 );
 
+
 CREATE TABLE DIM_facility (
-  facilityID int PRIMARY KEY,
-  name varchar(35),
+  facilityID int PRIMARY KEY IDENTITY(1,1) ,
+  names varchar(75),
   city varchar(30),
   post_code varchar(6),
   street varchar(35),
@@ -23,6 +25,9 @@ CREATE TABLE DIM_facility (
   SCDcurrent varchar(3),
   SCDdate_end date
 );
+
+DROP TABLE DIM_facility
+
 
 CREATE TABLE DIM_contract (
   contractID int PRIMARY KEY,
