@@ -33,11 +33,18 @@ CREATE TABLE groups(
 
 CREATE TABLE facility(
 	facilityID int PRIMARY KEY,
+	names varchar(75),
 	capacity int,
 	opening_date date,
 	closing_date date,
 	FK_addressID int REFERENCES address,
 );
+
+DROP TABLE chooses;
+DROP TABLE contract;
+DROP TABLE application;
+DROP TABLE facility;
+
 
 CREATE TABLE child(
 	childID int PRIMARY KEY,
