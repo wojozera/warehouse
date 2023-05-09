@@ -1,11 +1,12 @@
+use example 
+go
 INSERT INTO [dbo].[DIM_JUNK] 
 SELECT t, m, c, s 
 FROM 
 	  (
 		VALUES 
-			  ('PRESENT')
-			, ('ABSENT')
-		
+			  ('BOTH')
+			, ('NOT_BOTH')
 	  ) 
 	AS two_parents(t)
 	, (
@@ -16,8 +17,8 @@ FROM
 	AS meeting_cancelled(m)
 	, (
 		VALUES 
-			  ('SIGNED')
-			, ('NOT')
+			  ('DURING')
+			, ('NOT_DURING')
 		
 	  ) 
 	AS contract_durringmeeting(c)
@@ -26,7 +27,4 @@ FROM
 			  ('REJECTED')
 			, ('ACCEPTED')
 	 ) AS status_of_application(s);
-	
-SELECT * FROM DIM_JUNK
-SELECT * FROM DIM_Date
-SELECT * FROM DIM_contract
+
