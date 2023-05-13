@@ -1,11 +1,3 @@
---CREATE TABLE DIM_groups (
---  groupID int PRIMARY KEY,
---  age varchar(8),
---  name varchar(25),
---  year_no date,
---  size varchar(6)
---);
-
 USE example
 GO
 
@@ -54,7 +46,6 @@ MERGE INTO DIM_groups as TT
 			--WHEN Not Matched By Source
 			--	Then
 			--		DELETE;
-
 Drop View view_auxiliary;
 Drop View view_groups;
 

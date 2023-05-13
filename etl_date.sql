@@ -1,34 +1,35 @@
-use example
+use example 
 go
-Declare @StartDate date; 
-Declare @EndDate date;
+DECLARE @StartDate date; 
+DECLARE @EndDate date;
 
 SELECT @StartDate = '2015-01-01', @EndDate = '2035-12-31';
 
-Declare @DateInProcess date = @StartDate;
-Declare @counter int = 1;
+DECLARE @DateInProcess date = @StartDate;
+DECLARE @counter int = 1;
 
-While @DateInProcess <= @EndDate
-	Begin
-	--Add a row into the date dimension table for this date
-		Insert Into [dbo].[DIM_Date] 
-		( [dateID]
-		, [Year]
-		, [Month]
-		, [Day]
-		)
-		Values ( 
-		  @counter -- [Date]
-		  , Cast( Year(@DateInProcess) as int) -- [Year]
-		  , Cast( Month(@DateInProcess) as int) -- [MonthNo]
-		  , Cast( Day(@DateInProcess) as int) -- [DayOfWeek]
-		);  
-		-- Add a day and loop again
-		Set @counter = @counter + 1;
-		Set @DateInProcess = DateAdd(d, 1, @DateInProcess);
-	End
-go
+WHILE @DateInProcess <= @EndDate
+BEGIN
+  -- Check if a row already exists for this date
+  IF NOT EXISTS (SELECT * FROM [dbo].[DIM_Date] WHERE [dateID] = @counter)
+  BEGIN
+    -- Add a row into the date dimension table for this date
+    INSERT INTO [dbo].[DIM_Date] 
+    ( 
+      [dateID],
+      [Year],
+      [Month],
+      [Day]
+    )
+    VALUES ( 
+      @counter, 
+      CAST(YEAR(@DateInProcess) AS int), 
+      CAST(MONTH(@DateInProcess) AS int), 
+      CAST(DAY(@DateInProcess) AS int)
+    );  
+  END
 
-DROP TABLE FACT_additional
-DROP TABLE FACT_NEWapplication
-DROP TABLE DIM_Date
+  -- Add a day and loop again
+  SET @counter = @counter + 1;
+  SET @DateInProcess = DATEADD(d, 1, @DateInProcess);
+END

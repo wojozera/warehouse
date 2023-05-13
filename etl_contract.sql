@@ -14,11 +14,10 @@ CREATE VIEW view_contract
 AS
 SELECT DISTINCT
 	[contractID] as [c1],
-	[signing_date] as [c2],
 	CASE
 		WHEN CAST(GETDATE() AS DATE) BETWEEN issue_date AND ending_date THEN 'ACTIVE'
 		ELSE 'INACTIVE'
-	END AS [c3]
+	END AS [c2]
 FROM [kinder].dbo.contract
 go
 
@@ -30,11 +29,12 @@ MERGE INTO DIM_contract as TT
 				THEN
 					INSERT
 					Values (
-					c1,c2,c3
+					c1,c2
 					)
 			--WHEN Not Matched By Source
 			--	Then
 			--		DELETE
 					;
 
+				
 Drop View view_contract;

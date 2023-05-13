@@ -13,10 +13,17 @@ SELECT DISTINCT
 	[district] as [c5],
 	[opening_date] as [c6],
 	'YES' as [c7],
-	'0001-01-01' as [c8]
+	 cast(null as date) as [c8],
+	 [kinder].dbo.address.addressID as [c9]
 FROM [kinder].dbo.facility INNER JOIN [kinder].dbo.address ON 
  [kinder].dbo.address.addressID = [kinder].dbo.facility.FK_addressID 
 go 
+
+--select * from view_facility order by c9;
+
+--update [kinder].dbo.address
+--set street = 'test13'
+--where addressID=13;
 
 MERGE INTO DIM_facility as TT
 	USING view_facility as ST
@@ -33,17 +40,12 @@ MERGE INTO DIM_facility as TT
 				THEN
 				UPDATE
 					SET TT.SCDcurrent = 'NO',
-					TT.SCDdate_end = CAST(GETDATE() AS DATE)
-			WHEN Not Matched BY Source
-				AND TT.facilityID != -1 
-				THEN
-				UPDATE
-				SET TT.SCDcurrent = 'NO',
 					TT.SCDdate_end = CAST(GETDATE() AS DATE);
 go
 
 
 DECLARE @today DATE = CAST(GETDATE() AS DATE);
+
 
 INSERT INTO DIM_facility(
 	names,
@@ -77,8 +79,9 @@ INSERT INTO DIM_facility(
 				SCDdate_end
 					FROM DIM_facility;
 
+			
+--DROP VIEW view_facility;
 
-DROP VIEW view_facility;
 
 
 
