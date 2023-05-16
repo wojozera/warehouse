@@ -14,7 +14,7 @@ facilityID int
 go
 
 BULK INSERT [example].dbo.TEMPexcel
-    FROM 'C:\Users\dedza\OneDrive\Dokumenty\Desktop\kamlek\4 SEM\DATA WARHOUSES\excelek.csv'
+    FROM 'C:\Users\dedza\OneDrive\Dokumenty\Desktop\kamlek\4 SEM\DATA WARHOUSES\excel.csv'
     WITH
     (
     FIRSTROW = 1,

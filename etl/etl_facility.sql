@@ -14,16 +14,15 @@ SELECT DISTINCT
 	[opening_date] as [c6],
 	'YES' as [c7],
 	 cast(null as date) as [c8],
-	 [kinder].dbo.address.addressID as [c9]
+	 [kinder].dbo.address.addressID as [c9],
+	 [kinder].dbo.facility.facilityID as [c10]
 FROM [kinder].dbo.facility INNER JOIN [kinder].dbo.address ON 
  [kinder].dbo.address.addressID = [kinder].dbo.facility.FK_addressID 
 go 
 
---select * from view_facility order by c9;
-
 --update [kinder].dbo.address
---set street = 'test13'
---where addressID=13;
+--set city = 'test44'
+--where addressID=44;
 
 MERGE INTO DIM_facility as TT
 	USING view_facility as ST
@@ -79,8 +78,9 @@ INSERT INTO DIM_facility(
 				SCDdate_end
 					FROM DIM_facility;
 
+
 			
---DROP VIEW view_facility;
+DROP VIEW view_facility;
 
 
 

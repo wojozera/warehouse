@@ -1,3 +1,5 @@
+use example
+go
 --SET IDENTITY_INSERT dbo.FACT_NEWapplication ON;
 --GO
 INSERT INTO dbo.FACT_NEWapplication(
@@ -58,11 +60,11 @@ Values(-1, -1, -1, -1);
 --SET IDENTITY_INSERT dbo.DIM_Date OFF;
 
 
---SET IDENTITY_INSERT dbo.facility ON;
---GO
+SET IDENTITY_INSERT DIM_facility ON;
+GO
 INSERT INTO dbo.DIM_facility(
 facilityID,
-  name,
+  names,
   city,
   post_code,
   street,
@@ -71,8 +73,8 @@ facilityID,
   SCDcurrent,
   SCDdate_end)
 Values(-1, 'UNKNOWN', 'UNKNOWN','00-000','UNKNOWN','UNKNOWN','0001-01-01' , 'UNK','0001-01-01' );
---GO
---SET IDENTITY_INSERT dbo.facility OFF;
+GO
+SET IDENTITY_INSERT dbo.DIM_facility OFF;
 
 
 --SET IDENTITY_INSERT dbo.groups ON;
