@@ -3,7 +3,7 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
-        <TargetServer>localhost</TargetServer>
+        <TargetServer>LAPTOP-BBOJR2V0\SQLWAREHOUSE</TargetServer>
         <TargetDatabase>kids</TargetDatabase>
         <StartObject>
           <ObjectId></ObjectId>

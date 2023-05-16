@@ -11,7 +11,7 @@ SELECT DISTINCT
 	[post_code] as [c3],
 	[street] as [c4],
 	[district] as [c5],
-	[opening_date] as [c6],
+	CAST([opening_date] as DATE) as [c6],
 	'YES' as [c7],
 	 cast(null as date) as [c8],
 	 [kinder].dbo.address.addressID as [c9],
@@ -19,6 +19,7 @@ SELECT DISTINCT
 FROM [kinder].dbo.facility INNER JOIN [kinder].dbo.address ON 
  [kinder].dbo.address.addressID = [kinder].dbo.facility.FK_addressID 
 go 
+
 
 --update [kinder].dbo.address
 --set city = 'test44'
@@ -41,7 +42,6 @@ MERGE INTO DIM_facility as TT
 					SET TT.SCDcurrent = 'NO',
 					TT.SCDdate_end = CAST(GETDATE() AS DATE);
 go
-
 
 DECLARE @today DATE = CAST(GETDATE() AS DATE);
 
@@ -78,7 +78,7 @@ INSERT INTO DIM_facility(
 				SCDdate_end
 					FROM DIM_facility;
 
-
+		
 			
 DROP VIEW view_facility;
 

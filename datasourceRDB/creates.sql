@@ -1,3 +1,6 @@
+use kinder
+go
+
 CREATE TABLE additional_lesson(
 	lessonID int PRIMARY KEY,
 	start_year int,
@@ -38,7 +41,7 @@ CREATE TABLE facility(
 	opening_date date,
 	closing_date date,
 	FK_addressID int REFERENCES address,
-);x`
+);
 
 CREATE TABLE child(
 	childID int PRIMARY KEY,
@@ -75,3 +78,4 @@ CREATE TABLE chooses(
 	IDapplication int REFERENCES application,
 	IDLesson int REFERENCES additional_lesson
 );
+go

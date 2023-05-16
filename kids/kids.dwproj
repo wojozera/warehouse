@@ -6,10 +6,91 @@
     <Name>kids.database</Name>
     <FullPath>kids.database</FullPath>
   </Database>
+  <Cubes>
+    <ProjectItem>
+      <Name>Example.cube</Name>
+      <FullPath>Example.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>Example.partitions</Name>
+          <FullPath>Example.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+  </Cubes>
+  <Dimensions>
+    <ProjectItem>
+      <Name>DIM Additional Lesson.dim</Name>
+      <FullPath>DIM Additional Lesson.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM Groups.dim</Name>
+      <FullPath>DIM Groups.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM Date.dim</Name>
+      <FullPath>DIM Date.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM Contract.dim</Name>
+      <FullPath>DIM Contract.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM JUNK.dim</Name>
+      <FullPath>DIM JUNK.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM Facility.dim</Name>
+      <FullPath>DIM Facility.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM_ApplicationGroup.dim</Name>
+      <FullPath>DIM_ApplicationGroup.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM_ApplicationJUNK.dim</Name>
+      <FullPath>DIM_ApplicationJUNK.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM_ApplicationFacility.dim</Name>
+      <FullPath>DIM_ApplicationFacility.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM_Application.dim</Name>
+      <FullPath>DIM_Application.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
+  <DataSources>
+    <ProjectItem>
+      <Name>Example.ds</Name>
+      <FullPath>Example.ds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSourceViews>
+    <ProjectItem>
+      <Name>Example.dsv</Name>
+      <FullPath>Example.dsv</FullPath>
+    </ProjectItem>
+  </DataSourceViews>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
-      <Options />
+      <Options>
+        <ConnectionMappings>
+          <ConfigurationSetting>
+            <Id>Example</Id>
+            <Name>Example</Name>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=LAPTOP-BBOJR2V0;Integrated Security=SSPI;Initial Catalog=example</Value>
+          </ConfigurationSetting>
+        </ConnectionMappings>
+        <ConnectionSecurityMappings>
+          <ConfigurationSetting>
+            <Id>Example</Id>
+            <Name>Example</Name>
+            <Value xsi:type="xsd:int">0</Value>
+          </ConfigurationSetting>
+        </ConnectionSecurityMappings>
+      </Options>
     </Configuration>
   </Configurations>
 </Project>

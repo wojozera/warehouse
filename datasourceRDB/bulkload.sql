@@ -1,10 +1,6 @@
 use kinder
 GO
 
-/* the path must be updated, remeber FIELDTERMINATOR defines how data in dane.bulk are separated*/
-BULK INSERT dbo.additional_lesson FROM 'C:\Users\dedza\PycharmProjects\faker\lessondata.csv' WITH (FIELDTERMINATOR=',')
-use kinder
-GO
 
 /* the path must be updated, remeber FIELDTERMINATOR defines how data in dane.bulk are separated*/
 BULK INSERT dbo.additional_lesson FROM 'C:\Users\dedza\PycharmProjects\faker\lessondata.csv' WITH (FIELDTERMINATOR=',');
@@ -16,3 +12,4 @@ BULK INSERT dbo.child FROM 'C:\Users\dedza\PycharmProjects\faker\childdata.csv' 
 BULK INSERT dbo.application FROM 'C:\Users\dedza\PycharmProjects\faker\applicationdata.csv' WITH (FIELDTERMINATOR=',');
 BULK INSERT dbo.contract FROM 'C:\Users\dedza\PycharmProjects\faker\contractdata.csv' WITH (FIELDTERMINATOR=',');
 BULK INSERT dbo.chooses FROM 'C:\Users\dedza\PycharmProjects\faker\choosesdata.csv' WITH (FIELDTERMINATOR=',');
+go

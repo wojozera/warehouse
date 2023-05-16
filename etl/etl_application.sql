@@ -42,8 +42,8 @@ CASE
 	END as [meeting],
 CASE
 		WHEN [kinder].dbo.application.issue_date =  [example].dbo.TEMPexcel.date_meeting
-		THEN 'DURING'
-		ELSE 'NOT_DURING'
+		THEN 'SIGNEN'
+		ELSE 'NOT'
 	END as [during],
 CASE
 		WHEN [kinder].dbo.application.status = 0	
@@ -84,7 +84,6 @@ GROUP BY [kinder].dbo.application.applicationID
 go
 
 
-
 If (object_id('view_application') is not null) Drop View view_application;
 go
 CREATE VIEW view_application
@@ -92,7 +91,7 @@ AS
 SELECT DISTINCT
 [kinder].dbo.application.applicationID as [c1],
 CASE WHEN [example].dbo.view_count.counter IS NOT NULL THEN [example].dbo.view_count.counter ELSE - 1 END as [c2],
-CASE WHEN FK_facility IS NOT NULL THEN FK_facility ELSE -1 END as [c3],
+CASE WHEN [example].dbo.DIM_facility.facilityID IS NOT NULL THEN [example].dbo.DIM_facility.facilityID ELSE -1 END as [c3],
 CASE WHEN [example].dbo.view_auxilary.junkID IS NOT NULL THEN [example].dbo.view_auxilary.junkID ELSE -1 END as [c4],
 CASE WHEN [kinder].dbo.contract.contractID IS NOT NULL THEN [kinder].dbo.contract.contractID ELSE -1 END as [c5],
 CASE WHEN CD.dateID IS NOT NULL THEN CD.dateID ELSE -1 END as [c6],
@@ -104,6 +103,8 @@ LEFT JOIN [kinder].dbo.child ON  [kinder].dbo.child.childID =  [kinder].dbo.appl
 LEFT JOIN [kinder].dbo.groups ON [kinder].dbo.groups.groupID = [kinder].dbo.child.FK_groups
 LEFT JOIN [example].dbo.view_count ON [example].dbo.view_count.id = [kinder].dbo.application.applicationID
 LEFT JOIN [example].dbo.view_auxilary ON [example].dbo.view_auxilary.appID = kinder.dbo.application.applicationID
+LEFT JOIN [kinder].dbo.facility ON [kinder].dbo.facility.facilityID = [kinder].dbo.application.FK_facility
+LEFT JOIN [example].dbo.DIM_facility ON [example].dbo.DIM_facility.names = [kinder].dbo.facility.names AND [example].dbo.DIM_facility.SCDcurrent = 'YES'
 LEFT JOIN [example].dbo.DIM_Date as CD ON (CD.day = DAY([kinder].dbo.application.confirmation_date) AND 
 CD.month = MONTH([kinder].dbo.application.confirmation_date) AND
 CD.year = YEAR([kinder].dbo.application.confirmation_date))

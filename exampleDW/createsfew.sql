@@ -31,9 +31,7 @@ CREATE TABLE DIM_facility (
 
 CREATE TABLE DIM_contract (
   contractID int PRIMARY KEY,
-  signing_date date,
-  active varchar(25),
-  contracted varchar(25)
+  active varchar(25)
 );
 
 
@@ -57,13 +55,12 @@ CREATE TABLE FACT_NEWapplication (
   applicationID int PRIMARY KEY,
   Additionals_selected int,
   FK_facility int NOT NULL,
-  FK_additional int NOT NULL,
   FK_JUNK int NOT NULL,
   FK_contract int NOT NULL,
   FK_confirmationdate int NOT NULL,
   FK_issuedate int NOT NULL,
   FK_groups int NOT NULL,
-  UNIQUE(FK_facility,FK_additional, FK_JUNK, FK_contract,FK_confirmationdate,FK_issuedate, FK_groups)
+  UNIQUE(FK_facility, FK_JUNK, FK_contract,FK_confirmationdate,FK_issuedate, FK_groups)
 );
 
 CREATE TABLE FACT_additional (
