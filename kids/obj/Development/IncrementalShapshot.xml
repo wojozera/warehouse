@@ -103,7 +103,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>7ixCs1NZOJDUl6Iwbhsdh9cS+qc=12/05/2023 16:00:4312/05/2023 00:46:14qOtbl8oz9SFQX79BTyurQMEdhFY=12/05/2023 00:48:3312/05/2023 00:24:22</TimeStamp>
+        <TimeStamp>XLg69lkbced/MyquHaHpYMW3dIU=18/05/2023 22:44:5812/05/2023 00:46:14qOtbl8oz9SFQX79BTyurQMEdhFY=12/05/2023 00:48:3312/05/2023 00:24:22</TimeStamp>
         <ID>
           <String>Example</String>
         </ID>
@@ -120,5 +120,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2023-05-16T22:51:45.046667Z</LastDeployed>
+  <LastDeployed>2023-05-18T20:45:06.783333Z</LastDeployed>
 </DeploymentSnapshot>

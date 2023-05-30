@@ -43,10 +43,13 @@ update [kinder].dbo.address
 set street = 'testkrzys'
 where addressID=157;	
 
+select top 100 * from [kinder].dbo.facility
 
 INSERT INTO [kinder].dbo.application VALUES(1500010,'2020-01-01', 0, '2020-01-01', 8, 1);
 
-SELECT * FROM [example].dbo.FACT_NEWapplication order by 1 desc;
+SELECT TOP 100 * FROM [example].dbo.FACT_NEWapplication order by 1 desc;
+
+SELECT TOP 100 * from [example].dbo.DIM_facility order by 1 desc;
 
 
 --TEST CASE 6
