@@ -1,5 +1,3 @@
-# DWH_kindergarten
-Project was made with Kamil Dędza (https://github.com/wojozera)
 # RDB 
 RDB stands for Relational Database. It refers to a type of database management system (DBMS) that is based on the relational model of data organization. In a relational database, data is structured and stored in tables consisting of rows and columns. It was the main data source for our project. To create the relational database we had to think about what data we want to store, which we have to omit in our analysis. We have concluded that we do not store any data about the money flow in kindergarten, but put our main focus into the application process. After many iterations and new and new designs we have finally created the most optimal one. Keep in mind that all the primary keys need to be present, remember about foreign keys and many to many relationships. 
  
